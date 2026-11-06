@@ -1,6 +1,8 @@
 # CENARRA ORIGINALS — RUA7-P01 · Pacote de pré-produção v0
 **Data:** 06/11/2026  
-**STATUS: PROPOSTA CRIATIVA / NÃO CANONIZADO / NÃO PRODUZIDO / NÃO PUBLICADO.**
+**STATUS: DESCARTADA COMO CANDIDATA À ESTREIA POR CRÍTICA CRIATIVA DO RESPONSÁVEL EM 06/11/2026 / HISTÓRICO PRESERVADO / NÃO PRODUZIDO / NÃO PUBLICADO.**
+
+> **ATENÇÃO — NÃO GERAR AS IMAGENS/ANIMAÇÕES DESTA PROPOSTA:** O responsável apontou ausência de gancho convincente de 0–3s e desvio da linha editorial (novela de bairro com mistério, fofoca, rivalidades, humor e reviravoltas). O enredo da cesta devolvida foi considerado brando e moralizante para a estreia. O roteiro permanece abaixo para histórico, mas não é a direção de produção. Ver alternativa de trabalho `RUA7_P01_ALTERNATIVA_VENDA_v0_PROPOSTA.md`.
 **Fonte:** deriva da preferência mais recente por mercadinho + praça e do fluxo enxuto do projeto. Substitui apenas como *alternativa em estudo* o piloto histórico da Padaria Aurora; não apaga o material original.
 
 ## Decisão executiva do teste
