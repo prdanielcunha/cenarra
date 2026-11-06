@@ -66,3 +66,9 @@
 - **CONCLUÍDO COM EVIDÊNCIA:** [Manifesto do lote 01, cenas 01–07](../03_PRODUCAO/E01_LOTE01_7_QUADROS_MANIFESTO_v1.md), com 7 PNGs verticais de pré-produção e referências arquivadas em pacote externo ao GitHub público.
 - **AVISO QC:** geração adicional tentou impor storyboards em colagem e alterar espécies; resultados REJEITADOS. Os sete PNGs aceitos são originais preservados ou seus re-enquadramentos — **há poses repetidas e atuação imperfeita nas cenas 05/06**; não são sete cenas inéditas independentes e ainda não autorizam animação.
 - **PENDENTE:** lote 02, cenas 08–14, folhas de personagem, cenários-mestres vazios, prova de continuidade, áudio, vídeo, direitos e publicação.
+
+## Handoff técnico para animação/vozes — 06/11/2026
+- **CONCLUÍDO COM EVIDÊNCIA:** conferidos roteiro E01, master lock e manifesto no GitHub; pesquisados recursos, taxas e limites atuais no suporte oficial do Google Flow e Grok.
+- **GUIA NOVO, PROPOSTO:** [RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md), com 10 falas exatas, até 14 tomadas e testes separados de voz/visual, mais plano de montagem CapCut; o roteiro e as decisões criativas não foram alterados.
+- **RELATO DO RESPONSÁVEL, NÃO AUDITADO:** ele informou ter imagens das cenas; o pacote atual não foi inspecionado, e a última evidência arquivada na governança ainda é de 7 PNGs reenquadrados sem aprovação final.
+- **PENDENTE:** verificar imagens reais, testar voz/visual do Flow na conta, avaliar licenças/marcas-d'água e gerar/exportar vídeos. Nenhuma produção audiovisual ou publicação é considerada concluída.
