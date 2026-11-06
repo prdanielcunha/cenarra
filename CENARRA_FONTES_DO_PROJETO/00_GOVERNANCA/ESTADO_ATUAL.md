@@ -5,16 +5,16 @@
 |---|---|---|
 | Marca | DECIDIDO | Cenarra; pesquisa jurídica/INPI ainda pendente |
 | @ | INSTAGRAM EXIBIDO; DEMAIS NÃO VERIFICADOS | Captura do editor do Instagram exibe **cenarratv** como nome de usuário; nas outras três redes precisa confirmação própria. |
-| Gmail administrativo | PENDENTE | `cenarra@gmail.com` foi relatado ocupado |
+| Gmail administrativo | CRIADO — RELATO DO RESPONSÁVEL EM 06/11 | O responsável informou ter criado um Gmail exclusivo para a Cenarra; acesso/2FA não foram auditados. O endereço completo não é armazenado no repositório público. |
 | Instagram | PROFISSIONAL CONFIGURADO (VALIDAÇÃO FINAL PENDENTE) | Nova captura em 06/11 mostra **CENARRA / @cenarratv**, bio, **categoria Criador de conteúdo digital**, seção **Informações do perfil** e campo **Facebook: Cenarra**. A opção anterior 'Trocar para conta profissional' não aparece. Indica migração para conta profissional; **tipo específico Criador versus Empresa**, privacidade pública, 2FA e recursos do Meta Business Suite ainda precisam de confirmação. Alternância **Perfil gerado por IA** desativada; links e botões de ação não definidos no print. |
 | Facebook | APARECE VINCULADO NO INSTAGRAM; VERIFICAÇÃO PENDENTE | Tela de edição do Instagram mostra **Facebook: Cenarra**; confirmar no Meta Business Suite que se trata da Página correta, que a gestão e o compartilhamento ocorrem como Página e não no perfil pessoal. |
-| TikTok e YouTube | PENDENTE DE CONFIRMAÇÃO | Sem evidência definitiva de conta finalizada |
+| TikTok e YouTube | CRIADOS — RELATO DO RESPONSÁVEL EM 06/11; VALIDAÇÃO PENDENTE | O responsável informou ter criado todas as contas. URLs, handles finais, tipo, 2FA e painéis não foram auditados. |
 | Originalidade | DIREÇÃO ACEITA | Radar de temas + dramaturgia independente, sem copiar relatos |
 | Séries com sets fixos | DIREÇÃO ACEITA | Locais recorrentes, elenco e motor natural de histórias |
 | Rua 7 | PRIORIDADE CRIATIVA | Frutas/legumes 3D, mercadinho + praça preferenciais, não canonizados |
 | Bichos de Escritório | PROPOSTA DE TESTE | Escritório e copa |
 | A Última Ligação | PROPOSTA DE TESTE | Prédio residencial, corredor/apartamento |
-| Seis pilotos | PLANEJADOS | Dois por formato; ainda sem publicação comprovada |
+| Seis pilotos | PLANEJADOS; P01 RUA 7 EM PRÉ-PRODUÇÃO DOCUMENTAL | Dois por formato. Pacote preliminar do piloto Rua 7 P01 elaborado em 06/11 (personagens e set continuam PROPOSTOS). Nenhuma imagem, clipe ou publicação confirmados. |
 | Ferramentas | PLANO | ChatGPT, Google Flow e CapCut; verificar licenças por plano |
 | Expansão | DECIDIDO COMO PREPARAÇÃO | PT-BR, depois ES, depois EN |
 | Orçamento | RESTRIÇÃO | R$ 0 adicional |
@@ -29,3 +29,10 @@
 6. Publicar gradualmente, medir 48h/7d e escolher vencedor por audiência + eficiência.
 
 **Não confundir:** proposta com aprovação; créditos gratuitos com direitos comerciais; captura de perfil com cadastro integralmente concluído.
+
+## Atualização de trabalho em 06/11/2026 — início da pré-produção
+- **Relato do responsável:** Gmail administrativo e contas nas quatro redes foram criados. Não registrar o endereço administrativo completo neste GitHub público; confirmar URLs e 2FA fora daqui.
+- **CONCLUÍDO COM EVIDÊNCIA:** leitura de AGENTS.md, README.md, ESTADO_ATUAL.md e diretriz operacional v1.4 do GitHub; pesquisa de normas oficiais Google Flow, CapCut e YouTube.
+- **CONCLUÍDO COM EVIDÊNCIA:** primeiro pacote **PROPOSTO** do piloto Rua 7 em [RUA7_P01_PACOTE_PREPRODUCAO_v0_PROPOSTA.md](../02_SERIES/RUA7_P01_PACOTE_PREPRODUCAO_v0_PROPOSTA.md).
+- **PENDENTE DE APROVAÇÃO:** cenário mercadinho, personagens Nilo/Beto/Dália, roteiro e referências visuais. Não tratar como cânone.
+- **NÃO EXECUTADO:** imagens, vídeos, vozes, licença verificada por conta/plano, agendamento, publicação ou métricas.
