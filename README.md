@@ -26,3 +26,10 @@ Estúdio digital independente de entretenimento e ficção original.
 **Aviso de segurança:** este repositório é público. Nunca publique senhas, códigos de recuperação, tokens, informações pessoais, arquivos de clientes ou documentos de identificação.
 
 *Revisão: 2026-11-06 · Origem: planejamento da Cenarra e pacote mestre v1.1.*
+## Fonte operacional atual — v1.4
+
+- [Operação 100% vídeos e GitHub como fonte oficial](CENARRA_FONTES_DO_PROJETO/05_CRESCIMENTO/OPERACAO_ENXUTA_E_GITHUB_FONTE_OFICIAL_v1_4.md)
+- [Estado atual](CENARRA_FONTES_DO_PROJETO/00_GOVERNANCA/ESTADO_ATUAL.md)
+- [AGENTS.md](AGENTS.md)
+
+Os anexos do ChatGPT Projeto são cópias e não se atualizam automaticamente após commits. GitHub conectado pode ser consultado sob demanda. O repositório é público: não publicar segredos ou dados pessoais.
