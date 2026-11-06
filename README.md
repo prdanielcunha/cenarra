@@ -1,0 +1,28 @@
+# CENARRA — Histórias que ganham vida
+
+Estúdio digital independente de entretenimento e ficção original.
+
+**Status:** estruturação e preparação dos primeiros pilotos. Documentação operacional — não representa contas, lançamentos ou receitas já confirmados.
+
+## Direção
+
+- **Marca-mãe:** Cenarra; o identificador `@cenarratv` é uma proposta e requer verificação diretamente nas plataformas.
+- **Canais previstos:** TikTok, YouTube, Instagram e uma Página do Facebook separada do perfil pessoal.
+- **Primeiro idioma:** português brasileiro. Preparação para adaptações futuras em espanhol e inglês.
+- **Formatos exploratórios:** `O Segredo da Rua 7` (frutas/legumes 3D), `Bichos de Escritório` (animais) e `A Última Ligação` (ficção humana sintética).
+- **Método criativo:** universos fixos, lugares reconhecíveis, elenco recorrente, episódios compreensíveis individualmente e arcos de temporada.
+- **Laboratório de Histórias:** pesquisa de conflitos humanos e debates públicos para subsidiar **roteiros originais**, jamais reprodução disfarçada de relatos.
+- **Orçamento incremental:** R$ 0 na fase de teste. Licenças comerciais precisam ser verificadas.
+- **Repositório:** fonte versionada de decisões, procedimentos, templates e histórico de alterações.
+
+## Como usar esta documentação
+
+1. Leia `AGENTS.md` para as regras gerais.
+2. Consulte `docs/00_GOVERNANCA/ESTADO_ATUAL.md` antes de afirmar qualquer avanço.
+3. Use as bíblias de séries em `docs/02_SERIES/` como documentos de trabalho, não roteiros aprovados.
+4. Consulte `docs/03_PRODUCAO/` antes de gerar, editar ou publicar conteúdo.
+5. Atualize a documentação e o registro de decisões na mesma tarefa em que houver mudança importante.
+
+**Aviso de segurança:** este repositório é público. Nunca publique senhas, códigos de recuperação, tokens, informações pessoais, arquivos de clientes ou documentos de identificação.
+
+*Revisão: 2026-11-06 · Origem: planejamento da Cenarra e pacote mestre v1.1.*
