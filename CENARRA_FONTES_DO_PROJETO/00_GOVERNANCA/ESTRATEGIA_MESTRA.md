@@ -2,6 +2,13 @@
 
 **Proposta:** narrativas ficcionais originais e seriadas, não “conteúdo de IA” genérico. Objetivo: construir personagens e lugares que motivam público a retornar.
 
+## Restrição operacional aceita em 06/11/2026
+- **Produção e divulgação exclusivamente por vídeos.** Não planejar carrosséis, posts, Stories, lives, enquetes, foto nem trabalho diário de comunidade.
+- Planejamento/geração/edição/agendamento em **blocos semanais**, reduzindo custo de tempo para quem também atua no ministério e desenvolve aplicativos.
+- Início com **dois vídeos narrativos originais por semana**, cada um distribuído nos quatro canais. Janelas simplificadas e experimentais: terça 20h e sexta 19h (Brasília) em todas as redes; alternativa sob demanda.
+- Subir para três vídeos somente com acervo de reserva, custos sob controle e edição consistente. Publicação diária NÃO é meta, mesmo havendo potencial estatístico de mais tentativas.
+- Fonte operacional detalhada: `../05_CRESCIMENTO/PLANO_EDITORIAL_E_DISTRIBUICAO_2026.md`.
+
 ## Lançamento
 - 1 marca, 4 redes: TikTok, YouTube, Instagram e Página Facebook.
 - 3 séries-piloto, 2 testes por série. Não produzir três temporadas de uma vez.
