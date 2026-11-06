@@ -6,8 +6,8 @@
 | Marca | DECIDIDO | Cenarra; pesquisa jurídica/INPI ainda pendente |
 | @ | INSTAGRAM EXIBIDO; DEMAIS NÃO VERIFICADOS | Captura do editor do Instagram exibe **cenarratv** como nome de usuário; nas outras três redes precisa confirmação própria. |
 | Gmail administrativo | PENDENTE | `cenarra@gmail.com` foi relatado ocupado |
-| Instagram | PERFIL CRIADO, CONFIGURAÇÃO INCOMPLETA | Captura 06/11 confirma nome **CENARRA**, usuário exibido **@cenarratv**, logo C laranja e bio. A opção **Trocar para conta profissional** está visível: permanece pessoal e deve migrar para **Criador**. Perfil público, 2FA e vínculo com Página ainda não verificados. |
-| Facebook | EM CONFIGURAÇÃO | Pedido de bio e capa; confirmar Página e vínculo sem publicar no perfil pessoal |
+| Instagram | PROFISSIONAL CONFIGURADO (VALIDAÇÃO FINAL PENDENTE) | Nova captura em 06/11 mostra **CENARRA / @cenarratv**, bio, **categoria Criador de conteúdo digital**, seção **Informações do perfil** e campo **Facebook: Cenarra**. A opção anterior 'Trocar para conta profissional' não aparece. Indica migração para conta profissional; **tipo específico Criador versus Empresa**, privacidade pública, 2FA e recursos do Meta Business Suite ainda precisam de confirmação. Alternância **Perfil gerado por IA** desativada; links e botões de ação não definidos no print. |
+| Facebook | APARECE VINCULADO NO INSTAGRAM; VERIFICAÇÃO PENDENTE | Tela de edição do Instagram mostra **Facebook: Cenarra**; confirmar no Meta Business Suite que se trata da Página correta, que a gestão e o compartilhamento ocorrem como Página e não no perfil pessoal. |
 | TikTok e YouTube | PENDENTE DE CONFIRMAÇÃO | Sem evidência definitiva de conta finalizada |
 | Originalidade | DIREÇÃO ACEITA | Radar de temas + dramaturgia independente, sem copiar relatos |
 | Séries com sets fixos | DIREÇÃO ACEITA | Locais recorrentes, elenco e motor natural de histórias |
