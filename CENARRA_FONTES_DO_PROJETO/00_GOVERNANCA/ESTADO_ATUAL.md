@@ -72,3 +72,7 @@
 - **GUIA NOVO, PROPOSTO:** [RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md), com 10 falas exatas, até 14 tomadas e testes separados de voz/visual, mais plano de montagem CapCut; o roteiro e as decisões criativas não foram alterados.
 - **RELATO DO RESPONSÁVEL, NÃO AUDITADO:** ele informou ter imagens das cenas; o pacote atual não foi inspecionado, e a última evidência arquivada na governança ainda é de 7 PNGs reenquadrados sem aprovação final.
 - **PENDENTE:** verificar imagens reais, testar voz/visual do Flow na conta, avaliar licenças/marcas-d'água e gerar/exportar vídeos. Nenhuma produção audiovisual ou publicação é considerada concluída.
+
+## Teste Flow E01, revisão visual — 06/11/2026
+- **REPROVADO COM EVIDÊNCIA:** primeiro teste em vídeo fornecido pelo responsável (~7,93 s) não respeitou CHARACTER_LOCK/SET_LOCK: Nilo virou humano de avental verde, mercadinho moderno e luz branca, nomes escritos, textura/ângulo alterados. Não utilizar na produção.
+- **CORREÇÃO PROPOSTA NÃO TESTADA:** exigir imagem 01 como **Frame inicial** no modo Frames para vídeo do Flow, câmera fixa, animação facial mínima, diálogo exclusivo de Mara. Consultar [guia de produção](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md).
