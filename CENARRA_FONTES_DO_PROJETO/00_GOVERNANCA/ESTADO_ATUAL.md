@@ -11,10 +11,10 @@
 | TikTok e YouTube | CRIADOS — RELATO DO RESPONSÁVEL EM 06/11; VALIDAÇÃO PENDENTE | O responsável informou ter criado todas as contas. URLs, handles finais, tipo, 2FA e painéis não foram auditados. |
 | Originalidade | DIREÇÃO ACEITA | Radar de temas + dramaturgia independente, sem copiar relatos |
 | Séries com sets fixos | DIREÇÃO ACEITA | Locais recorrentes, elenco e motor natural de histórias |
-| Rua 7 | PRIORIDADE CRIATIVA | Frutas/legumes 3D, mercadinho + praça preferenciais, não canonizados |
+| Rua 7 | PRIORIDADE CRIATIVA; ARCO v1 E PILOTO v1 DOCUMENTADOS COMO PROPOSTAS | Frutas/legumes 3D; mercadinho + praça, personagens e arco de 8 capítulos ainda NÃO CANONIZADOS. 'A concorrente da porta' foi selecionado editorialmente para pré-produção, não aprovado para animação/publicação. |
 | Bichos de Escritório | PROPOSTA DE TESTE | Escritório e copa |
 | A Última Ligação | PROPOSTA DE TESTE | Prédio residencial, corredor/apartamento |
-| Seis pilotos | PLANEJADOS; RUA7-P01 EM REVISÃO CRIATIVA | Piloto original da cesta DESCARTADO como estreia após feedback sobre gancho e gênero; alternativa 'A venda que ninguém fez' é PROPOSTA NÃO APROVADA. Não existem imagens/clipes/publicação comprovados. |
+| Seis pilotos | PLANEJADOS; RUA7-P01 EM DESENVOLVIMENTO CRIATIVO | 'A concorrente da porta' selecionado como proposta preferencial de estreia; roteiro cronometrado e storyboard preparados. Cesta descartada; venda não aprovada. Ainda sem imagens, cenas, publicação ou métricas. |
 | Ferramentas | PLANO | ChatGPT, Google Flow e CapCut; verificar licenças por plano |
 | Expansão | DECIDIDO COMO PREPARAÇÃO | PT-BR, depois ES, depois EN |
 | Orçamento | RESTRIÇÃO | R$ 0 adicional |
@@ -47,3 +47,10 @@
 - **CONCLUÍDO COM EVIDÊNCIA:** pesquisa de formatos, plataformas e público; [parecer de retenção v1](../05_CRESCIMENTO/ANALISE_EDITORIAL_RETENCAO_2026_v1_PROPOSTA.md) publicado no GitHub. Fontes oficiais YouTube/Meta e cobertura das novelas de frutas documentadas.
 - **PROPOSTO, NÃO APROVADO:** filtro editorial, gramática de 0–3s, medição comparável de pilotos e diferenciação narrativa do bairro. Pontuações são internas e não benchmark do algoritmo.
 - **MANTIDO:** duas produções/semana em quatro redes, custo adicional zero, seis pilotos; 'A venda que ninguém fez' ainda NÃO aprovado/filmado.
+
+## Veredito criativo e entregas — 06/11/2026
+- **DECISÃO DE DIREÇÃO (PROPOSTA PARA APROVAÇÃO):** testar primeiro Rua 7, em formato de comédia dramática/novela de bairro com vínculos persistentes e rivalidade entre Nilo e Mara. Não alterar os 6 pilotos programados nem obrigar produção de temporada completa antes da validação.
+- **TRÊS CANDIDATOS AVALIADOS:** "A concorrente da porta" (selecionado editorialmente); "O áudio vazado" (reserva); "A feira proibida" (reserva de meio de temporada). Comparação e justificativa em [Bíblia v1](../02_SERIES/RUA7_BIBLIA_TEMPORADA1_v1_PROPOSTA.md).
+- **CONCLUÍDO COM EVIDÊNCIA:** [Bíblia v1 da Rua 7](../02_SERIES/RUA7_BIBLIA_TEMPORADA1_v1_PROPOSTA.md) com cinco personagens candidatos, cenário-âncora, matriz de relações, verdade de bastidor e mapa de 8 episódios.
+- **CONCLUÍDO COM EVIDÊNCIA:** [Piloto P01 — A concorrente da porta](../02_SERIES/RUA7_P01_A_CONCORRENTE_DA_PORTA_v1_ROTEIRO_PROPOSTO.md) com roteiro cronometrado ~45 segundos, gancho 0–3s, storyboard e plano de baixo gasto de créditos.
+- **PENDENTE:** aprovação visual e narrativa, teste de uma fala em 3 segundos, SET_LOCK / CHARACTER_LOCK, licenças comerciais e consistência em 2 tomadas. NENHUMA imagem, clipe, master, agendamento ou publicação foi feita.
