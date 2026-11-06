@@ -80,3 +80,6 @@
 ## Segundo teste de animação — 06/11/2026
 - **REPROVADO, COM MELHORA VISUAL:** MP4 fornecido (~7,93 s) preserva Mara tomate, Nilo laranja/avental azul, Beto brócolis e cenário-base; porém atuação e ângulo quase estáticos, miniatura não é usada dramaturgicamente e o responsável relata vocalização incompreensível no início (sem transcrição de idioma confirmada).
 - **PROCESSO CORRIGIDO, NÃO TESTADO:** usar frames A/B apenas da mesma tomada/ângulo para evolução de ação; angulações diferentes em clips separados com corte CapCut; evitar gastar 8s em fala de 3s sem reação; gerar em 4/6s quando melhor para ritmo (Veo Lite 10 créditos por clipe de 4, 6 ou 8s), repetir diálogo e teste PT-BR antes do lote. [Detalhamento](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md).
+
+## Revisão de economia de créditos E01 — 06/11/2026
+- **DECIDIDO PELO RESPONSÁVEL:** priorizar um único clipe de 8s / 10 créditos em vez de dois clipes de 4s/20 créditos para uma mesma abertura, desde que mantenha qualidade. **NOVO TESTE A EXECUTAR:** frame original 01, 9:16, x1, Veo Lite, 8s com fala de Mara seguida da reação/fala de Nilo no mesmo enquadramento. Beto permanece silencioso. Não usar mudança de ângulo como segundo frame. [Prompt exato e gates de QA](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md). O teste não foi executado nem aprovado.
