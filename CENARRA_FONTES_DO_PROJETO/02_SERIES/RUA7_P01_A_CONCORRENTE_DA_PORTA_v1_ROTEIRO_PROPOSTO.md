@@ -24,7 +24,7 @@ Mara aparece de surpresa no mercadinho que Nilo administra, anuncia uma banca co
 | 00:16–00:20 | Nilo vira, indignado | **NILO:** “Beto! Você trabalha pra mim!” | Nova lealdade em jogo |
 | 00:20–00:26 | Beto, hesita e fala com coragem | **BETO:** “E ela paga hora extra, patrão?” | Afeto/trabalho x justa compensação |
 | 00:26–00:30 | Mara, sem olhar para Nilo | **MARA:** “Pago. E em dia.” | Reversão de poder, humor seco |
-| 00:30–00:35 | Inserto do avental de Beto deixado sobre balcão (não exige animar mãos). Beto ao fundo/fora de quadro | **BETO:** “Então amanhã, às oito?” | Pequena resolução concreta: escolhe tentar novo trabalho |
+| 00:30–00:35 | Beto se endireita, afasta-se do caixa e decide experimentar a vaga de Mara; **não deixa avental** (ele usa uniforme cáqui sem avental) | **BETO:** “Então amanhã, às oito?” | Pequena resolução concreta: escolhe tentar novo trabalho |
 | 00:35–00:39 | Nilo encara Mara, mais ferido que furioso | **NILO:** “Mara... isso é vingança?” | Aprofunda motivação |
 | 00:39–00:45 | Close em Mara; expressão confiante cai por um instante | **MARA:** “Não. Era pra gente ter aberto juntos.” | Recompensa: revela antiga parceria; instala mistério relacional |
 
@@ -49,8 +49,8 @@ Beto entra no recorte da caixa olhando para Mara; seu “Tem vaga?” é cômico
 ### SHOT 05 · 20–30s · Beto pergunta, Mara responde
 Beto toma coragem sem gesticular demais. Mara responde em plano próprio ou reação de Beto com sua voz em off, cuidando da compreensão espacial. Não fazer Nilo desaparecer do ambiente por mudança inconsistente de cenário.
 
-### SHOT 06 · 30–35s · Avental / decisão
-Som curto do tecido tocando o balcão, corte para avental já apoiado no tampo; fala de Beto fora do plano. **Não** pedir close de mãos de IA dobrando avental (alto risco de erros). O avental precisa ser idêntico ao figurino visto antes, então pode ser um objeto estático aprovado.
+### SHOT 06 · 30–35s · Decisão de Beto
+Beto, que sempre veste camisa e calça cargo cáqui **sem avental**, assume postura mais decidida e se afasta ligeiramente do caixa verde-petróleo. A fala pode sair em plano médio com reação de Nilo. Nunca mostrar Beto removendo/deixando avental: **o avental azul-marinho pertence a Nilo**, que continua usando-o.
 
 ### SHOT 07 · 35–39s · Nilo
 Close fixo de Nilo, olhar muda de ira para mágoa. A pergunta pode ser gravada em áudio separado sobre reação com baixa movimentação facial apenas se câmera não estiver focada na boca.
@@ -72,7 +72,7 @@ Close final com expressão de Mara, breve hesitação na palavra “juntos”. N
 ## Referências necessárias antes de animação
 - `SET_LOCK:RUA7_MERC_01` com planta e 2 enquadramentos validados.
 - `CHARACTER_LOCK:NILO_v1`, `MARA_v1`, `BETO_v1`, cada um com turnaround aprovado, paleta, roupas, dimensões e voz.
-- `PROP_LOCK:APRON_BETO_v1`, `PROP_LOCK:BANCA_MINI_v1`.
+- `PROP_LOCK:APRON_NILO_v1` (avental azul-marinho pertence a Nilo), `PROP_LOCK:BANCA_MINI_v1`.
 - Papel de Mara: banca na praça, não segundo mercado; evita outro interior em P01.
 
 ## Pontos de risco dramatúrgico
@@ -94,3 +94,7 @@ Close final com expressão de Mara, breve hesitação na palavra “juntos”. N
 
 ## Gate operacional
 **Não executar geração/publicação automaticamente a partir deste roteiro.** Fazer teste de voz de três segundos, travar personagens/set, confirmar regras de uso comercial do gerador/áudio/CapCut e aplicar revisão técnica. Conta TikTok/YT/IG/Facebook Página, horários e dois vídeos inéditos por semana permanecem conforme plano 06/11.
+
+## Errata de continuidade / 06-11-2026
+- Cena 30–35s e SHOT06 atualizados após QC visual; Beto **não usa avental**. Se uma versão anterior descrever que Beto deixa o avental, desconsiderar.
+- Lock de personagem/set: [referência técnica](REFERENCIAS_VISUAIS/LOCKS_MERCADINHO_E01_v1.md). Imagens do [Lote 01](../03_PRODUCAO/E01_LOTE01_7_QUADROS_MANIFESTO.md) são reenquadramentos provisórios, não novas poses. O roteiro permanece PROPOSTO.
