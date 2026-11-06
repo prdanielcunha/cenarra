@@ -74,3 +74,12 @@ Cada linha abaixo é um comando COMPLEMENTAR à restrição global, não substit
 - Se a **qualidade 360p não suportar publicação**: é somente teste; usar 720p se créditos e licença permitirem, ou reduzir planos e quantidade de gerações.
 
 **Status final deste documento:** preparado como guia de produção proposto; nenhuma geração real ou teste de acesso ao Flow/Grok foi executado por este arquivo. As imagens atuais do usuário não foram reanalisadas visualmente nesta sessão.
+
+## 8 — QC do primeiro teste do Flow (06/11/2026): REPROVADO
+**Evidência:** usuário enviou vídeo MP4 com aproximadamente 7,93 s, 512×910 pixels (arquivo de compartilhamento; não comprova resolução nativa da geração).
+**Achados visuais observáveis:** Nilo virou um homem humano, usando camisa azul e avental verde com nome escrito; Mara apresentou aparência mais lisa e caricata; o mercadinho de bairro virou ambiente varejista moderno com iluminação branca; eixo/enquadramento/layout foram alterados; nomes "Mara"/"Nilo" apareceram no vídeo. São falhas críticas de CHARACTER_LOCK, SET_LOCK e estilo, independentemente de áudio.
+**Decisão de QA:** NÃO usar esse take, NÃO avançar para geração em lote.
+**Hipótese, não confirmada:** referência foi interpretada como inspiração em vez de frame inicial; é necessário conferir o modo real de geração na conta. Isso não está provado apenas pelo arquivo MP4.
+**Ação recomendada:** Google Flow > Vídeo > Frames > Adicionar frame inicial com a imagem original 01 (confirmar miniatura); Veo 3.1 Lite 9:16 x1; ação mínima, câmera literalmente imóvel, sem reestilização ou movimentação complexa de objeto. Testar cena 01 com única fala de Mara e verificar primeiros fotogramas antes de prosseguir. Repetição textual de locks não garante fidelidade.
+**Referências oficiais:** https://support.google.com/flow/answer/16353334?hl=pt-BR e https://support.google.com/flow/answer/16352836?hl=pt-BR.
+**Status:** falha documentada com evidência de vídeo do responsável; correção de modo/prompt ainda NÃO testada. O arquivo bruto permanece em armazenamento privado da conversa, não foi enviado ao repositório público.
