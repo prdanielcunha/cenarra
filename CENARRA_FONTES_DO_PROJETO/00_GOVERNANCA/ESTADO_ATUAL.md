@@ -54,3 +54,9 @@
 - **CONCLUÍDO COM EVIDÊNCIA:** [Bíblia v1 da Rua 7](../02_SERIES/RUA7_BIBLIA_TEMPORADA1_v1_PROPOSTA.md) com cinco personagens candidatos, cenário-âncora, matriz de relações, verdade de bastidor e mapa de 8 episódios.
 - **CONCLUÍDO COM EVIDÊNCIA:** [Piloto P01 — A concorrente da porta](../02_SERIES/RUA7_P01_A_CONCORRENTE_DA_PORTA_v1_ROTEIRO_PROPOSTO.md) com roteiro cronometrado ~45 segundos, gancho 0–3s, storyboard e plano de baixo gasto de créditos.
 - **PENDENTE:** aprovação visual e narrativa, teste de uma fala em 3 segundos, SET_LOCK / CHARACTER_LOCK, licenças comerciais e consistência em 2 tomadas. NENHUMA imagem, clipe, master, agendamento ou publicação foi feita.
+
+## Rodada de referências e quadros E01 — 06/11/2026
+- **CONCLUÍDO COM EVIDÊNCIA:** ficha detalhada de MARA (tomate de blazer vinho), NILO (laranja de avental azul) e BETO (brócolis cáqui sem avental), com set e regras de composição, em [LOCKS_MERCADINHO_E01_v1.md](../02_SERIES/REFERENCIAS_VISUAIS/LOCKS_MERCADINHO_E01_v1.md). **Ainda candidato à aprovação visual final**, não cânone definitivo.
+- **CONCLUÍDO COM EVIDÊNCIA:** lote 01 preparado com 7 PNGs individuais 1080×1920 na conversa, mais 4 referências originais, manifesto/hashes em ZIP; [registro técnico](../03_PRODUCAO/E01_LOTE01_7_QUADROS_MANIFESTO.md). Os 7 PNGs são reenquadramentos de imagens corretas existentes, **não sete poses inéditas**. Novas gerações que mudaram espécies foram rejeitadas.
+- **CORRIGIDO:** cena de Beto deixando avental removida do [roteiro P01](../02_SERIES/RUA7_P01_A_CONCORRENTE_DA_PORTA_v1_ROTEIRO_PROPOSTO.md); avental azul pertence a Nilo.
+- **PENDENTE:** lotes 02 (8–14), imagens-mestras vazias dos cenários, turnarounds dos personagens, novas poses realmente consistentes, vozes, animação, QA, licença e publicação. **Não declarar episódio visualmente completo**.
