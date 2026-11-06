@@ -76,3 +76,7 @@
 ## Teste Flow E01, revisão visual — 06/11/2026
 - **REPROVADO COM EVIDÊNCIA:** primeiro teste em vídeo fornecido pelo responsável (~7,93 s) não respeitou CHARACTER_LOCK/SET_LOCK: Nilo virou humano de avental verde, mercadinho moderno e luz branca, nomes escritos, textura/ângulo alterados. Não utilizar na produção.
 - **CORREÇÃO PROPOSTA NÃO TESTADA:** exigir imagem 01 como **Frame inicial** no modo Frames para vídeo do Flow, câmera fixa, animação facial mínima, diálogo exclusivo de Mara. Consultar [guia de produção](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md).
+
+## Segundo teste de animação — 06/11/2026
+- **REPROVADO, COM MELHORA VISUAL:** MP4 fornecido (~7,93 s) preserva Mara tomate, Nilo laranja/avental azul, Beto brócolis e cenário-base; porém atuação e ângulo quase estáticos, miniatura não é usada dramaturgicamente e o responsável relata vocalização incompreensível no início (sem transcrição de idioma confirmada).
+- **PROCESSO CORRIGIDO, NÃO TESTADO:** usar frames A/B apenas da mesma tomada/ângulo para evolução de ação; angulações diferentes em clips separados com corte CapCut; evitar gastar 8s em fala de 3s sem reação; gerar em 4/6s quando melhor para ritmo (Veo Lite 10 créditos por clipe de 4, 6 ou 8s), repetir diálogo e teste PT-BR antes do lote. [Detalhamento](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md).
