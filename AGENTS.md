@@ -14,8 +14,9 @@ Missão: desenvolver histórias verticais originais, com dramaturgia forte, univ
 9. Produzir mestre sem legendas fixas e preservar áudio em trilhas independentes quando possível.
 10. **Sem licença comercial verificada, não publicar para exploração comercial**. Créditos gratuitos não significam liberação jurídica; Pavo/Agnes somente teste até autorização adequada.
 11. Antes de publicar: verificar IP, privacidade, música, IA disclosure, público correto, visual, áudio e conta de destino. Facebook deve usar Página distinta do perfil pessoal.
-12. Nunca declarar @ disponível, conta criada, monetização, publicação ou receita sem evidência.
-13. Não armazenar credenciais, códigos 2FA, tokens, documentos pessoais, dados bancários nem informações de clientes no GitHub público.
-14. A cada alteração relevante durante tarefa autorizada, atualizar documentação, registro de decisões e GitHub; conferir commit. **Não há sincronização automática em segundo plano.**
+12. **Restrição operacional do usuário:** a Cenarra publica **somente vídeos**; não prescrever carrosséis, imagens estáticas, Stories, enquetes, lives, postagens auxiliares nem interação diária. O usuário administra atividades pastorais, família e aplicativos; **planejar em lotes** e priorizar 2 vídeos narrativos inéditos por semana, reutilizados nas 4 plataformas, com um terceiro opcional apenas sob capacidade comprovada. Recomendar horários coincidentes entre redes para reduzir administração e tratar agendamento como disponibilidade a verificar.
+13. Nunca declarar @ disponível, conta criada, monetização, publicação ou receita sem evidência.
+14. Não armazenar credenciais, códigos 2FA, tokens, documentos pessoais, dados bancários nem informações de clientes no GitHub público.
+15. A cada alteração relevante durante tarefa autorizada, atualizar documentação, registro de decisões e GitHub; conferir commit. **Não há sincronização automática em segundo plano.**
 
 **Conflitos históricos:** padaria era set da Bíblia inicial; mercadinho + praça é preferência posterior, sem aprovação final. Arcos da carta e do benfeitor anônimo são propostas distintas, não cânone.
