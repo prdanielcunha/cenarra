@@ -1,5 +1,12 @@
 # Histórico — Cenarra
 
+## v1.3 — 06/11/2026
+- Usuário decidiu por **somente vídeos**: removidas recomendações de carrosséis, Stories, posts, lives e interação diária.
+- Consolidada agenda fácil: terça às 20h e sexta às 19h, em todas as quatro plataformas, dois vídeos originais por semana.
+- Produção em lotes, edição com template e análise semanal para respeitar compromissos pastorais, familiares e de desenvolvimento de aplicativos.
+- Calendário CSV foi corrigido com horários iguais nas quatro redes; nenhuma postagem foi agendada.
+
+
 ## v1.2 — 06/11/2026
 - Pesquisa cruzada de estudos de frequência/horários de TikTok, Instagram, Facebook e YouTube (fontes 2026 + documentos oficiais).
 - Aprovado como plano de teste, **não promessa de audiência**: duas peças narrativas novas por semana, seis pilotos em três semanas, adaptações para quatro plataformas, canais em ordem própria.
