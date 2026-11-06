@@ -42,3 +42,8 @@
 - **STATUS:** proposta da cesta foi marcada como DESCARTADA COMO ESTREIA (histórico preservado).
 - **NOVA PROPOSTA NÃO APROVADA:** [A venda que ninguém fez](../02_SERIES/RUA7_P01_ALTERNATIVA_VENDA_v0_PROPOSTA.md). A ideia tenta concentrar gancho e drama de bairro, mas sua premissa comercial ainda precisa ganhar plausibilidade.
 - **NÃO CANONIZADO:** elenco, roteiro, prop, set e mistério maior. Não houve execução audiovisual.
+
+## Parecer estratégico de retenção — 06/11/2026
+- **CONCLUÍDO COM EVIDÊNCIA:** pesquisa de formatos, plataformas e público; [parecer de retenção v1](../05_CRESCIMENTO/ANALISE_EDITORIAL_RETENCAO_2026_v1_PROPOSTA.md) publicado no GitHub. Fontes oficiais YouTube/Meta e cobertura das novelas de frutas documentadas.
+- **PROPOSTO, NÃO APROVADO:** filtro editorial, gramática de 0–3s, medição comparável de pilotos e diferenciação narrativa do bairro. Pontuações são internas e não benchmark do algoritmo.
+- **MANTIDO:** duas produções/semana em quatro redes, custo adicional zero, seis pilotos; 'A venda que ninguém fez' ainda NÃO aprovado/filmado.
