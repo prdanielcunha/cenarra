@@ -1,72 +1,59 @@
-# CENARRA — Plano de distribuição, crescimento e testes (v1.2)
+# CENARRA — Operação enxuta 100% vídeos (v1.3)
 
-**Data da pesquisa:** 06/11/2026. **Fuso:** America/Sao_Paulo (BRT). **Status:** PLANO, não publicações concluídas.
+**Decisão de direção:** 06/11/2026. **Status:** plano, sem publicações concluídas. **Fuso:** America/Sao_Paulo (BRT).
 
-## Evidência externa
-- TikTok (oficial): interações, vídeos concluídos, skips e tempo de visualização costumam ter grande peso. https://support.tiktok.com/pt_BR/using-tiktok/exploring-videos/how-tiktok-recommends-content
-- YouTube (oficial): não há frequência mínima de Shorts; horário não determina o longo prazo. https://support.google.com/youtube/answer/11914225?co=YOUTUBE._YTVideoType%3Dshorts&hl=pt-BR e https://support.google.com/youtube/answer/141805?hl=en
-- Meta (22/10/2026): quantidade de seguidores e excesso de posts não garantem alcance; qualidade e engajamento importam. https://about.fb.com/br/news/2026/10/numero-de-seguidores-nao-determina-o-alcance/
-- Meta (13/03/2026): Facebook favorece conteúdo original e reduz prioridade de cópias. https://about.fb.com/br/news/2026/03/recompensando-criadores-originais-no-facebook/
-- Buffer (set/2026): Instagram 9,6M posts, quarta 18h e quinta 9h destacam-se; recomendação 3–5 posts de feed/semana. https://buffer.com/resources/when-is-the-best-time-to-post-on-instagram/
-- Buffer (set/2026): TikTok 7,1M posts, domingo 9h pico de engajamento, noites 18–23h com desempenho relevante; frequência 2–5 vídeos/semana. https://buffer.com/resources/best-time-to-post-on-tiktok/ e https://buffer.com/resources/how-often-should-you-post-on-tiktok/
-- Buffer (jul/2026): YouTube Shorts 1,8M vídeos, sexta 16h, 18h e 19h melhores slots; não garante causalidade. https://buffer.com/resources/best-time-to-post-on-youtube/
-- Buffer (out/2026): Facebook 14M posts, quarta/quinta manhã com bom resultado geral; não é recorte exclusivo de microdramas. https://buffer.com/resources/best-time-to-post-on-facebook/
-- Metricool (mai/2026): TikTok 2,3M posts, 18–21h / 20h fortes, 96% do alcance nos primeiros 10 dias. https://metricool.com/press-release-tiktok-study-2026/
+## Restrição absoluta de formato e tempo
+**Somente vídeos.** O usuário administra ministério pastoral, família e outros aplicativos; a Cenarra não deve criar obrigação de publicar carrosséis, fotos estáticas, posts, Stories, enquetes, lives, comentários diários ou divulgar manualmente em grupos. A operação deve funcionar por **produção em lotes + edição curta + postagem/agendamento nativo em bloco + análise semanal**.
 
-**Cuidado:** estudos têm amostras, países, métricas e formatos diferentes; horários são **hipóteses para teste local**, não promessa de viralização.
+Se houver conflito entre produzir um conteúdo extra e manter alta qualidade com tempo reduzido, **não publicar o extra**.
 
-## Frequência decidida para teste
-**Pré-produção:** 06–16/11/2026. Nenhuma exigência de postar antes de haver peça aprovada. Guardar banco de cenas, direitos e 2 vídeos prontos.
+## Cadência recomendada e por quê
+- **Lançamento:** 2 vídeos originais inéditos por semana, distribuídos como o mesmo episódio em 4 redes (até 8 uploads/semana, não 8 produções).
+- **Horários de trabalho sugeridos:** terça às **20h** e sexta às **19h**, hora de Brasília, em **todas as redes**. A escolha de dois horários comuns facilita agendamento; são hipóteses, não horários garantidamente virais.
+- **Extra opcional:** um terceiro vídeo original, curto, somente quando já houver cenas aproveitáveis e QA aprovado. **Nunca obrigatório.**
+- **Aumento para 3 vídeos narrativos/semana:** somente se houver, por pelo menos duas semanas, qualidade constante, documentação de direitos, 2 vídeos prontos de reserva, custos controlados e capacidade de produzir sem sacrificar outras atividades.
+- **1 a 2 vídeos inéditos todos os dias:** NÃO é meta inicial. Mais volume cria mais oportunidades de viral, mas oferece retorno marginal decrescente e aumenta trabalho/créditos.
 
-**Pilotos:** 2 vídeos originais por semana durante 3 semanas = 6 pilotos (dois por série), todos em 4 canais quando as contas estiverem prontas. **Não** publicar três animações inéditas diariamente.
+Evidência: Buffer (pesquisa com 11,4M posts no TikTok, 2025; guia 2026) encontrou maior salto de eficiência ao passar de 1 para 2–5 vídeos/semana; frequências superiores ampliam chances de viralização, não garantem viralidade do post típico. https://buffer.com/resources/how-often-should-you-post-on-tiktok/ ; https://buffer.com/resources/social-media-frequency-guide/ . YouTube diz não haver cadência mínima necessária e recomenda produção em lotes: https://support.google.com/youtube/answer/11914225?co=YOUTUBE._YTVideoType%3Dshorts&hl=en e https://support.google.com/youtube/answer/13616979?co=YOUTUBE._YTVideoType%3Dshorts&hl=en .
 
-**Após teste:** 2 capítulos por semana da série vencedora + 1 extra narrativo curto **somente se for diferente, original e aproveitável com custo baixo**. Instagram: acrescentar 1 carrossel por semana com assets próprios e Stories nos dias úteis de lançamento. Não transformar extra repetitivo em Reel.
-
-**Escala:** subir para 3 vídeos narrativos/semana apenas depois de 2 semanas consecutivas de qualidade, licença, cronograma, banco de pelo menos 2 capítulos e custo sustentável.
-
-## Agenda por episódio — publicação nativa, horários de Brasília
-
-| Pacote | Facebook (Página) | Instagram (Criador) | TikTok (Criador) | YouTube Shorts |
-|---|---|---|---|---|
-| A (primeiro da semana) | quarta, 09h | terça, 19h | terça, 20h | terça, 20h |
-| B (segundo da semana) | quinta, 09h | quinta, 20h | sexta, 20h | sexta, 18h |
-
-**Importante:** publicar nas datas/horários diferentes é deliberado para explorar janelas de cada rede; manter **ordem A → B dentro de cada canal**. Se isso complicar a operação, postar ambos em dias equivalentes e priorizar consistência. Vídeos enviados não devem carregar watermark de outra rede.
-
-## Calendário concreto de 6 pilotos (não postado)
-| Semana | Pacote A (terça) | Pacote B (quinta Facebook/Instagram, sexta TikTok/YouTube) |
+## Calendário dos seis pilotos (previsto e condicionado à produção/QA)
+| Semana | Terça 20h — todas as redes | Sexta 19h — todas as redes |
 |---|---|---|
-| 17–20 nov | 17/11 — Rua 7 / piloto A: mistério no comércio | 19–20/11 — Bichos de Escritório / piloto A: promoção por engano |
-| 24–27 nov | 24/11 — A Última Ligação / piloto A: ligação impossível | 26–27/11 — Rua 7 / piloto B: conflito entre vizinhos |
-| 01–04 dez | 01/12 — Bichos de Escritório / piloto B: segredo do chefe | 03–04/12 — A Última Ligação / piloto B: fotografia desaparecida |
+| 1 | 17/11 — Rua 7 P01, mistério no comércio | 20/11 — Bichos P01, promoção por engano |
+| 2 | 24/11 — A Última Ligação P01, ligação impossível | 27/11 — Rua 7 P02, conflito entre vizinhos |
+| 3 | 01/12 — Bichos P02, segredo do chefe | 04/12 — A Última Ligação P02, fotografia desaparecida |
 
-**Observação operacional:** terça das semanas é data TikTok/Instagram/YouTube; Facebook A publica na **quarta**. Pacote B publica quinta Facebook/Instagram e sexta TikTok/YouTube. Não anunciar data até ter arquivo QA-aprovado. Se atrasar o ativo, mover a janela; nunca publicar cena defeituosa por causa do calendário.
+O planejamento não equivale a postagem ou agendamento. Se não estiver pronto, reagendar sem culpa. Fazer leitura das métricas de cada piloto 48h e 7 dias após a publicação real.
 
-## Conteúdo complementar
-- Segunda, 12h: 1 carrossel no Instagram (personagem/set, pergunta ou detalhe do universo; não spoiler ou imagem falsa de episódio), opcional adaptar para Facebook.
-- Quarta, Stories: enquete sobre o conflito de A, sem exigir respostas forçadas.
-- Sábado: responder comentários, coletar hipóteses de público e comparar métricas.
-- Domingo, 09h: **teste opcional** no TikTok com microcena original extra, não um recorte repetido; dispensável se não houver material.
-- Não começar com logo animado de 5s; abrir na tensão/relação dos personagens.
+## Produto audiovisual e edição mínima
+- Histórias autorais em **universos fixos**; cenários/figurinos e personagens de referência aprovados uma única vez.
+- Piloto 25–40s: **4–6 tomadas planejadas**, preferir 1–2 personagens e 1 set; alterar a duração se necessário ao ritmo real.
+- Capítulo oficial 65–75s somente quando justificar o enredo e os créditos. Preferir menos cenas complexas a clipes caros e instáveis.
+- Roteiro já chega **timecoded** com falas, sons, imagens de referência e prompt por tomada: nunca começar do zero na edição.
+- **Template CapCut:** projeto vertical 9:16, títulos, legenda, tipografia, créditos, volume e transição definidos; duplicar, importar clipes, ajustar cortes, revisar e exportar.
+- Um único master sem marca-d'água de rede social; reutilizar nas quatro plataformas, customizando título/descrição se necessário. Guardar master sem legendas fixas para futuro ES/EN.
+- Evitar lip sync extensivo quando comprometer qualidade; usar planos de reação, cortes de detalhes e falas curtas com consistência de voz.
+- Identificação de IA, classificação etária, música e licença comercial continuam obrigatórias.
+- **Meta operacional de edição:** buscar 15–30 minutos de montagem ativa **depois** que cenas e áudio estiverem prontos e templates definidos. É meta de processo, não promessa de tempo total de geração.
 
-## Embalagem de cada episódio
-- Primeiros 1–2s: acontecimento, frase ou contradição, **sem vinheta longa**.
-- Personagens e cenário recorrentes, conflito autônomo, virada plausível, recompensa antes do gancho.
-- Capa identificada: `RUA7 · EP.01`, `BICHOS · EP.01`, `LIGACAO · EP.01`; título humano e específico, não apenas “Parte 1”.
-- Master 9:16, áudio licenciado, legendas legíveis, sem marcas d'água de outras redes; direitos e IA disclosure revisados.
-- TikTok sem playlists: publicar numerado, fixar EP.01 quando recurso existir; NÃO confundir Playlist com Drama Center.
-- YouTube: playlist por série; quando recursos avançados habilitados, usar vídeo relacionado para conduzir próximo episódio.
-- Em Meta: preferir assets originais e respostas genuínas, não engagement bait.
+## Trabalho em lotes: três blocos, não sete dias de marketing
+1. **Bloco A — direção/roteiro**: escolher e aprovar duas ideias; gerar shotlists e prompts a partir das bíblias.
+2. **Bloco B — geração/edição**: produzir referências e clipes, recusar gerações ruins, montar dois vídeos usando o mesmo template, QA final.
+3. **Bloco C — publicação/análise**: carregar ou agendar vídeos nas quatro redes conforme ferramentas disponíveis; uma verificação curta das métricas na semana seguinte. Sem exigência de responder comentários diariamente.
 
-## Mensuração e revisão
-- Registrar por `EPISODIO × PLATAFORMA`: views, alcance (quando existir), duração, tempo médio, conclusão, visualização vs swipe (YouTube), compartilhamentos, salvamentos, seguidores por 1.000 views, comentários sobre a narrativa, custo, segundos úteis e data.
-- Capturar em 48h e sete dias; TikTok também 10º dia para análise do ciclo.
-- **Condição de alerta:** retenção cai no começo → revisar primeiro segundo; boa retenção e baixo follow → revisar personagem/valor de série; compartilhamento alto → verificar conflito reconhecível; custo alto → reduzir complexidade de cenário.
-- Comparar **dentro da mesma rede** e da mesma janela, controlando duração e horário. Seis pilotos = amostra pequena e sinais exploratórios, não conclusão estatística.
-- Preferir crescimento por público recorrente, compartilhamentos e eficiência; visualizações isoladas não decidem.
-- Após a última publicação, esperar sete dias de leitura final antes de escolher e testar 2–3 capítulos adicionais do provável vencedor.
+**Restrições de plataformas:** suporte a agendamento, visibilidade e recursos varia conforme app, tipo de conta e região; verificar antes de prometer automação. Não contratar ferramentas de automação pagas sem autorização.
 
-## Processos
-Toda semana: (1) segunda, planejar e QA; (2) terça, lançar A; (3) quarta, responder/ajustar; (4) quinta/sexta, lançar B; (5) sábado, registrar dados; (6) domingo, revisar orçamento/roteiro. Registro no GitHub ao mudar decisões e calendário.
+## O que medir (uma revisão semanal)
+- Por vídeo e plataforma: data, URL, views em 48h/7d, duração, retenção/tempo médio, taxa de conclusão, compartilhamentos, seguidores por 1.000 views, custo em créditos e segundos úteis.
+- Priorizar **histórias que geram vontade de continuar** e eficiência. Não escolher vencedor só por views.
+- Não insistir em 3 plataformas extras se houver esforço desproporcional para compartilhar; manter as quatro enquanto o custo de distribuição for baixo.
+- Se o processo ultrapassar o tempo disponível, **reduzir duração/complexidade**, nunca somar posts e tarefas paralelas.
 
-**Observação:** não foi feita nenhuma postagem, agendamento ou mudança de conta por este arquivo.
+## Critérios para vídeos extras ou escala
+- Biblioteca de pelo menos 2 episódios prontos.
+- Templates e personagens aprovados, ritmo visual consistente.
+- Ferramentas e vozes com autorização comercial verificada.
+- Retenção e compartilhamento acima da referência da própria Cenarra em vídeos comparáveis.
+- Edição rápida alcançada **sem** desorganizar prioridades familiares, pastorais ou outros aplicativos.
+
+**Proibido voltar a prescrever carrossel, Stories, lives, fotos ou postagens de apoio como parte do plano sem pedido explícito do usuário.**
