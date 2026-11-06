@@ -14,7 +14,7 @@
 | Rua 7 | PRIORIDADE CRIATIVA | Frutas/legumes 3D, mercadinho + praça preferenciais, não canonizados |
 | Bichos de Escritório | PROPOSTA DE TESTE | Escritório e copa |
 | A Última Ligação | PROPOSTA DE TESTE | Prédio residencial, corredor/apartamento |
-| Seis pilotos | PLANEJADOS; P01 RUA 7 EM PRÉ-PRODUÇÃO DOCUMENTAL | Dois por formato. Pacote preliminar do piloto Rua 7 P01 elaborado em 06/11 (personagens e set continuam PROPOSTOS). Nenhuma imagem, clipe ou publicação confirmados. |
+| Seis pilotos | PLANEJADOS; RUA7-P01 EM REVISÃO CRIATIVA | Piloto original da cesta DESCARTADO como estreia após feedback sobre gancho e gênero; alternativa 'A venda que ninguém fez' é PROPOSTA NÃO APROVADA. Não existem imagens/clipes/publicação comprovados. |
 | Ferramentas | PLANO | ChatGPT, Google Flow e CapCut; verificar licenças por plano |
 | Expansão | DECIDIDO COMO PREPARAÇÃO | PT-BR, depois ES, depois EN |
 | Orçamento | RESTRIÇÃO | R$ 0 adicional |
@@ -36,3 +36,9 @@
 - **CONCLUÍDO COM EVIDÊNCIA:** primeiro pacote **PROPOSTO** do piloto Rua 7 em [RUA7_P01_PACOTE_PREPRODUCAO_v0_PROPOSTA.md](../02_SERIES/RUA7_P01_PACOTE_PREPRODUCAO_v0_PROPOSTA.md).
 - **PENDENTE DE APROVAÇÃO:** cenário mercadinho, personagens Nilo/Beto/Dália, roteiro e referências visuais. Não tratar como cânone.
 - **NÃO EXECUTADO:** imagens, vídeos, vozes, licença verificada por conta/plano, agendamento, publicação ou métricas.
+
+## Revisão editorial — 06/11/2026
+- **FEEDBACK DO RESPONSÁVEL:** a proposta 'A cesta devolvida' não transmite o tom planejado; gancho dos 3 primeiros segundos fraco. Não produzir.
+- **STATUS:** proposta da cesta foi marcada como DESCARTADA COMO ESTREIA (histórico preservado).
+- **NOVA PROPOSTA NÃO APROVADA:** [A venda que ninguém fez](../02_SERIES/RUA7_P01_ALTERNATIVA_VENDA_v0_PROPOSTA.md). A ideia tenta concentrar gancho e drama de bairro, mas sua premissa comercial ainda precisa ganhar plausibilidade.
+- **NÃO CANONIZADO:** elenco, roteiro, prop, set e mistério maior. Não houve execução audiovisual.
