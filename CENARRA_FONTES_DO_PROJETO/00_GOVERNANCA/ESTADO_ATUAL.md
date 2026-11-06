@@ -11,10 +11,10 @@
 | TikTok e YouTube | CRIADOS — RELATO DO RESPONSÁVEL EM 06/11; VALIDAÇÃO PENDENTE | O responsável informou ter criado todas as contas. URLs, handles finais, tipo, 2FA e painéis não foram auditados. |
 | Originalidade | DIREÇÃO ACEITA | Radar de temas + dramaturgia independente, sem copiar relatos |
 | Séries com sets fixos | DIREÇÃO ACEITA | Locais recorrentes, elenco e motor natural de histórias |
-| Rua 7 | PRIORIDADE CRIATIVA; ARCO v1 E PILOTO v1 DOCUMENTADOS COMO PROPOSTAS | Frutas/legumes 3D; mercadinho + praça, personagens e arco de 8 capítulos ainda NÃO CANONIZADOS. 'A concorrente da porta' foi selecionado editorialmente para pré-produção, não aprovado para animação/publicação. |
+| Rua 7 | PRIORIDADE CRIATIVA; LOTE 01 DE QUADROS MONTADO E NÃO APROVADO | Frutas/legumes 3D; lock descritivo v1 e 7 quadros individuais baseados nas imagens originais preparados. Não há imagem-mestra definitiva, animação, publicação ou aprovação final. |
 | Bichos de Escritório | PROPOSTA DE TESTE | Escritório e copa |
 | A Última Ligação | PROPOSTA DE TESTE | Prédio residencial, corredor/apartamento |
-| Seis pilotos | PLANEJADOS; RUA7-P01 EM DESENVOLVIMENTO CRIATIVO | 'A concorrente da porta' selecionado como proposta preferencial de estreia; roteiro cronometrado e storyboard preparados. Cesta descartada; venda não aprovada. Ainda sem imagens, cenas, publicação ou métricas. |
+| Seis pilotos | PLANEJADOS; RUA7-P01 COM 7 QUADROS DE PRÉ-PRODUÇÃO | 'A concorrente da porta': sete PNGs individuais reaproveitados/re-enquadrados das imagens corretas, **não sete poses novas**; lote 02 e cenários-mestres pendentes. Sem vídeos, publicação ou métricas. |
 | Ferramentas | PLANO | ChatGPT, Google Flow e CapCut; verificar licenças por plano |
 | Expansão | DECIDIDO COMO PREPARAÇÃO | PT-BR, depois ES, depois EN |
 | Orçamento | RESTRIÇÃO | R$ 0 adicional |
@@ -60,3 +60,9 @@
 - **CONCLUÍDO COM EVIDÊNCIA:** lote 01 preparado com 7 PNGs individuais 1080×1920 na conversa, mais 4 referências originais, manifesto/hashes em ZIP; [registro técnico](../03_PRODUCAO/E01_LOTE01_7_QUADROS_MANIFESTO.md). Os 7 PNGs são reenquadramentos de imagens corretas existentes, **não sete poses inéditas**. Novas gerações que mudaram espécies foram rejeitadas.
 - **CORRIGIDO:** cena de Beto deixando avental removida do [roteiro P01](../02_SERIES/RUA7_P01_A_CONCORRENTE_DA_PORTA_v1_ROTEIRO_PROPOSTO.md); avental azul pertence a Nilo.
 - **PENDENTE:** lotes 02 (8–14), imagens-mestras vazias dos cenários, turnarounds dos personagens, novas poses realmente consistentes, vozes, animação, QA, licença e publicação. **Não declarar episódio visualmente completo**.
+
+## Controle de identidade visual e lote 01 — 06/11/2026
+- **CONCLUÍDO COM EVIDÊNCIA:** [Master lock v1 de Nilo (laranja), Mara (tomate), Beto (brócolis), mercadinho, estilo e props](../03_PRODUCAO/RUA7_MASTER_LOCK_PERSONAGENS_CENARIO_v1.md) criado. Detalhes são provisórios até aprovação das imagens-mestras, mas nenhuma nova espécie pode substituí-los na produção.
+- **CONCLUÍDO COM EVIDÊNCIA:** [Manifesto do lote 01, cenas 01–07](../03_PRODUCAO/E01_LOTE01_7_QUADROS_MANIFESTO_v1.md), com 7 PNGs verticais de pré-produção e referências arquivadas em pacote externo ao GitHub público.
+- **AVISO QC:** geração adicional tentou impor storyboards em colagem e alterar espécies; resultados REJEITADOS. Os sete PNGs aceitos são originais preservados ou seus re-enquadramentos — **há poses repetidas e atuação imperfeita nas cenas 05/06**; não são sete cenas inéditas independentes e ainda não autorizam animação.
+- **PENDENTE:** lote 02, cenas 08–14, folhas de personagem, cenários-mestres vazios, prova de continuidade, áudio, vídeo, direitos e publicação.
