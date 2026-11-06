@@ -4,9 +4,9 @@
 | Assunto | Estado | Observação |
 |---|---|---|
 | Marca | DECIDIDO | Cenarra; pesquisa jurídica/INPI ainda pendente |
-| @ | NÃO VERIFICADO | `@cenarratv` é sugestão; validar dentro de cada rede |
+| @ | INSTAGRAM EXIBIDO; DEMAIS NÃO VERIFICADOS | Captura do editor do Instagram exibe **cenarratv** como nome de usuário; nas outras três redes precisa confirmação própria. |
 | Gmail administrativo | PENDENTE | `cenarra@gmail.com` foi relatado ocupado |
-| Instagram | EM CONFIGURAÇÃO | Usuário enviou print em 06/11; verificar detalhes no aplicativo antes de registrar conclusão |
+| Instagram | PERFIL CRIADO, CONFIGURAÇÃO INCOMPLETA | Captura 06/11 confirma nome **CENARRA**, usuário exibido **@cenarratv**, logo C laranja e bio. A opção **Trocar para conta profissional** está visível: permanece pessoal e deve migrar para **Criador**. Perfil público, 2FA e vínculo com Página ainda não verificados. |
 | Facebook | EM CONFIGURAÇÃO | Pedido de bio e capa; confirmar Página e vínculo sem publicar no perfil pessoal |
 | TikTok e YouTube | PENDENTE DE CONFIRMAÇÃO | Sem evidência definitiva de conta finalizada |
 | Originalidade | DIREÇÃO ACEITA | Radar de temas + dramaturgia independente, sem copiar relatos |
