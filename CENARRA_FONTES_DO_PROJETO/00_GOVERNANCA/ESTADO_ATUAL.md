@@ -83,3 +83,8 @@
 
 ## Revisão de economia de créditos E01 — 06/11/2026
 - **DECIDIDO PELO RESPONSÁVEL:** priorizar um único clipe de 8s / 10 créditos em vez de dois clipes de 4s/20 créditos para uma mesma abertura, desde que mantenha qualidade. **NOVO TESTE A EXECUTAR:** frame original 01, 9:16, x1, Veo Lite, 8s com fala de Mara seguida da reação/fala de Nilo no mesmo enquadramento. Beto permanece silencioso. Não usar mudança de ângulo como segundo frame. [Prompt exato e gates de QA](../03_PRODUCAO/RUA7_E01_GUIA_VIDEO_VOZ_FLOW_v1_PROPOSTO.md). O teste não foi executado nem aprovado.
+
+## Preparação de continuidade para Flow — Cena 02, 8–16s (06/11/2026)
+- **VÍDEO RECEBIDO, QA VISUAL PARCIAL:** arquivo MP4 ~7,93 s enviado pelo responsável apresenta Mara tomate de vinho, Nilo laranja com avental azul e Beto brócolis cáqui, mesma banca em miniatura e mercadinho do lock. O responsável relata melhora do teste com frames inicial/final; **não foi executada transcrição confiável das vozes**. Não declarar aprovação final de áudio ou publicação.
+- **PREPARADO, NÃO GERADO:** nova tomada proposta de 8 segundos, falas canônicas “Você não é dono da praça.” (Mara) e “Tem vaga nessa banca?” (Beto). Dois frames 1080×1920 foram extraídos de fotogramas diferentes do MESMO MP4 fornecido, sem redesenhar as identidades, e acompanhados de prompt completo e instruções para o Flow no pacote privado entregue ao responsável.
+- **DOCUMENTO DE PRODUÇÃO:** [RUA7_E01_CENA02_FLOW_8-16_PROPOSTO.md](../03_PRODUCAO/RUA7_E01_CENA02_FLOW_8-16_PROPOSTO.md). Mídias continuam fora do repositório público. Próxima ação: gerar no Flow, validar espécies, continuidade, lip-sync e português brasileiro; não confundir preparação com clipe concluído.
