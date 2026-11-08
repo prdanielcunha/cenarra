@@ -1,7 +1,7 @@
 # Estado atual e pendências — fonte da verdade
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
-A situação atual da Cena 02 da Rua 7 está registrada na [direção de imagem e voz nativa](#direção-de-imagem-e-voz-nativa-da-rua-7).
+A produção atual da Rua 7 está registrada em [Tomadas geradas com voz, atuação e câmera nativas](#tomadas-geradas-com-voz-atuação-e-câmera-nativas).
 
 | Assunto | Estado | Observação |
 |---|---|---|
@@ -119,3 +119,10 @@ A situação atual da Cena 02 da Rua 7 está registrada na [direção de imagem 
 - **DIREÇÃO OPERACIONAL PARA TESTE:** [Guia v10 de imagem, vídeo e voz](../03_PRODUCAO/RUA7_E01_DIRECAO_IMAGEM_VIDEO_VOZ_v10.md). Voz nativa aprovada tem prioridade em close. CapCut monta imagem e som e cobre falas com reação ou insert quando a boca falha. Voz de referência no Flow é um teste separado em Elementos, dependente do acesso gratuito e do controle de fidelidade visual. Para C02, uma nova geração de teste: Beto, Veo 3.1 Lite, primeiro frame, 4 s, 720p, 1 saída, 10 créditos de referência e áudio ativado. Os 10 s são o alvo da montagem proposta.
 - **CONCLUÍDO COM EVIDÊNCIA:** dez prompts de imagem e dez de vídeo para E01, um prompt adicional de reação, onze PNGs privados de trabalho derivados dos originais e prévia C02 de 10 s em 9:16, com indicações das falas e sem áudio. Nenhum frame ou vídeo generativo novo foi produzido para esta entrega. Os arquivos de mídia continuam privados.
 - **PENDENTE:** executar apenas o teste do Beto, conferir frase, sincronia, timbre e identidade e validar continuidade e direitos antes de expandir ou publicar. C02 continua em pré-produção.
+
+## Tomadas geradas com voz, atuação e câmera nativas
+
+- **DECIDIDO PELO RESPONSÁVEL, 08/11/2026:** cada clipe deve sair da IA com atuação, fala PT-BR, câmera e efeitos de cena na mesma geração, em plano gratuito. O responsável recebe o PNG e o prompt completo por tomada. A prioridade da voz nativa da v10 vira o padrão de produção para todo o diálogo. A montagem preserva imagem e áudio gerados juntos.
+- **DIREÇÃO DE ELENCO DEFINIDA PARA PRODUÇÃO:** Mara tomate de vinho, Nilo laranja de avental azul-marinho e Beto brócolis cáqui, com silhuetas originais preservadas, assinaturas de atuação e direções de voz específicas. Timbres gerados e continuidade em vídeo ainda precisam de prova.
+- **CONCLUÍDO COM EVIDÊNCIA:** [kit v11 para produção do E01](../03_PRODUCAO/RUA7_E01_PRODUCAO_IA_NATIVA_v11.md), com 11 pastas de tomada, 11 PNGs de partida (9 distintos), 11 prompts prontos, referências-mestras privadas e modelo para episódios seguintes. Cenas e PNGs continuam privados.
+- **TESTE PENDENTE:** uma única saída inicial S04 Beto no Flow Free, Veo 3.1 Lite, primeiro frame, 9:16, 720p, 8 s, câmera/voz nativas, 10 créditos de referência. Depois de aprovar S04, comparar timbre com S06 antes de ampliar. Os 78 s brutos das 11 tomadas planejadas custariam 110 créditos se todas passarem de primeira. Nenhuma nova geração foi feita nesta preparação.
