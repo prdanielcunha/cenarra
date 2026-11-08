@@ -96,3 +96,10 @@
 - **PLANO v6 PROPOSTO, NÃO TESTADO:** preservar as 3 falas do roteiro oficial distribuídas por **3 tomadas independentes de 4s**, cada uma com exatamente 1 falante/1 referência de voz em Elementos e montagem final ~12s no CapCut. [Plano v6 e controle de qualidade](../03_PRODUCAO/RUA7_E01_C02_PLANO_FINAL_PRODUCAO_v6_PROPOSTO.md).
 - **ASSETS:** pacote privado de 3 referências 936×1664, 3 prompts para Elementos, 3 prompts alternativos de frame inicial, instruções e checklist entregues na conversa. São seleções de imagens anteriores, **não renders de continuidade perfeita garantida**; imagens e vídeo ainda dependem de aprovação e teste no Flow. Não subir mídias ao GitHub público.
 - **PRÓXIMA AÇÃO:** inspecionar referências e custo na UI antes de uma geração. Nenhum novo vídeo final aprovado, publicado ou monetizado.
+
+
+## Plano Cena 02 v8 — 07/11/2026 — uma geração de 10 segundos
+- **RESTRIÇÃO REAFIRMADA PELO RESPONSÁVEL:** uma única geração de vídeo de 10s com créditos disponíveis, custo incremental R$ 0; não usar v6/v7 de três gerações como sugestão primária.
+- **PROPOSTA NÃO TESTADA:** gerar **um clipe visual de 10s sem falas** no Omni Flash 1.2 a partir de **um único frame original** com o trio e mercadinho; adicionar as três vozes sequencialmente em faixas independentes no CapCut, usando olhares/reações e técnicas de plano-contraplano para evitar lip-sync exposto. Isso resolve atribuição editorial de vozes mas NÃO garante lip-sync visível exato. Não misturar cartões @voz em Frames.
+- **CUSTO OFICIAL DE REFERÊNCIA:** 10s 360p = 10 créditos, 720p = 30 créditos no Omni Flash 1.2; confirmar modelo, plano e valor na interface. Veo Lite não gera 10s. Upscale gratuito em créditos de até 10s condicionado a assinatura Google AI Plus/Pro/Ultra.
+- **DOCUMENTAÇÃO:** [Plano v8 / uma geração](../03_PRODUCAO/RUA7_E01_C02_UMA_GERACAO_10S_SEM_VOZ_v8_PROPOSTO.md). Pacote visual/áudio privado fora do GitHub. Nenhum vídeo novo executado ou aprovado.
