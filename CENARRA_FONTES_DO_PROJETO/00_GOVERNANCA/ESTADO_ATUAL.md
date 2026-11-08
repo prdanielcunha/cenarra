@@ -1,7 +1,7 @@
 # Estado atual e pendências — fonte da verdade
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
-A situação atual da Cena 02 da Rua 7 está registrada na [revisão de 08/11](#revisão-da-cena-02--08112026--contas-gratuitas-e-continuidade).
+A situação atual da Cena 02 da Rua 7 está registrada na [direção de imagem e voz nativa](#direção-de-imagem-e-voz-nativa-da-rua-7).
 
 | Assunto | Estado | Observação |
 |---|---|---|
@@ -112,3 +112,10 @@ A situação atual da Cena 02 da Rua 7 está registrada na [revisão de 08/11](#
 - **CONCLUÍDO COM EVIDÊNCIA VISUAL:** auditoria das cinco imagens enviadas, da matriz original do trio e de três MP4 de 7,93 s. O storyboard ilustrado diverge do lock e serve apenas para ritmo/atuação. O primeiro clipe é a referência de encenação mais estável, com diferenças em relação à matriz original. As outras duas saídas apresentam quebra de elenco ou anatomia: humano na área do caixa e mão verde ligada a Nilo, respectivamente. Vozes e sincronismo não confirmados. Nenhum dos três arquivos foi liberado para publicação.
 - **PROPOSTO:** [Fluxo gratuito v9 e auditoria](../03_PRODUCAO/RUA7_E01_C02_AUDITORIA_E_FLUXO_GRATUITO_v9_PROPOSTO.md). Montar 10 s com áudio separado e ativos originais antes de gastar crédito. Se faltar atuação, testar uma saída com um único movimento, uma imagem de partida e câmera fixa. Flow Free documenta 50 créditos/dia; Omni Flash 1.2 permite 10 s (30 créditos em 720p; 10 em 360p) e Veo Lite oferece 4/6/8 s em 720p por 10 créditos. Conferir saldo, opções e preço na conta gratuita.
 - **PENDENTE:** validar vozes, testar a montagem e provar continuidade entre tomadas antes de produzir em lote. Nenhuma nova geração nem publicação foi executada neste diagnóstico. As mídias permanecem privadas.
+
+## Direção de imagem e voz nativa da Rua 7
+
+- **RELATO DO RESPONSÁVEL, 08/11/2026:** CapCut Pro já está disponível. A sincronização do editor às vezes deforma a boca nas novelinhas; o áudio original deve ser preservado quando funciona. Geradores de imagem/vídeo em plano gratuito, sem gastos adicionais.
+- **DIREÇÃO OPERACIONAL PARA TESTE:** [Guia v10 de imagem, vídeo e voz](../03_PRODUCAO/RUA7_E01_DIRECAO_IMAGEM_VIDEO_VOZ_v10.md). Voz nativa aprovada tem prioridade em close. CapCut monta imagem e som e cobre falas com reação ou insert quando a boca falha. Voz de referência no Flow é um teste separado em Elementos, dependente do acesso gratuito e do controle de fidelidade visual. Para C02, uma nova geração de teste: Beto, Veo 3.1 Lite, primeiro frame, 4 s, 720p, 1 saída, 10 créditos de referência e áudio ativado. Os 10 s são o alvo da montagem proposta.
+- **CONCLUÍDO COM EVIDÊNCIA:** dez prompts de imagem e dez de vídeo para E01, um prompt adicional de reação, onze PNGs privados de trabalho derivados dos originais e prévia C02 de 10 s em 9:16, com indicações das falas e sem áudio. Nenhum frame ou vídeo generativo novo foi produzido para esta entrega. Os arquivos de mídia continuam privados.
+- **PENDENTE:** executar apenas o teste do Beto, conferir frase, sincronia, timbre e identidade e validar continuidade e direitos antes de expandir ou publicar. C02 continua em pré-produção.
