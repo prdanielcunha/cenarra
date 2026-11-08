@@ -21,3 +21,15 @@ Responsável reafirmou limite desejado de **UMA** geração de vídeo, **10 segu
 `CENARRA_C02_UMA_GERACAO_10S_FLOW_CAPCUT.zip`: uma cópia de PNG do trio original 941x1672; prompt completo para um vídeo **silencioso**; roteiro de voz e cortes no CapCut; leia-primeiro.
 
 **Próxima etapa:** gerar uma vez sob custo exibido, validar **primeiro o visual**, somente depois aplicar TTS/dublagem. Não afirmar que v8 foi testada, aprovada ou publicada.
+
+
+## CORREÇÃO OPERACIONAL — Falha ao gerar áudio (screenshot do Flow 07/11/2026)
+**EVIDÊNCIA:** o usuário enviou captura do projeto Cenarra exibindo `Falha ao gerar áudio. Tente usar outro comando ou envie feedback. Você pode atualizar suas configurações para retornar vídeos sem áudio. Você vai receber um reembolso por esta geração.` Não comprova que o vídeo visual estaria correto; a geração falhou na etapa de áudio.
+
+**CAUSA DO NOSSO ERRO DE ORIENTAÇÃO:** o prompt v8 solicitava silêncio em linguagem natural, mas isso NÃO equivale a habilitar a configuração operacional do Flow. Antes de repetir, abrir **projeto Cenarra > Configurações (menu superior direito) > Retornar vídeos sem áudio** e ativar. Essa opção faz TODAS as próximas gerações **desse projeto** serem silenciosas, conforme fonte oficial. Desativar futuramente se voltar a precisar de áudio nativo.
+
+**Créditos:** o Google documenta devolução por falha em até **1 hora** (saldo/histórico podem atualizar separadamente), não afirmar reembolso concluído sem conferir. Ao voltar a gerar com a opção ativa, cobrança usual se houver vídeo resultante.
+
+**Limites:** sem diálogo no Flow não garante lipsync dos três personagens; vozes adicionadas depois em CapCut precisam ser validadas visualmente e editorialmente. A opção de silenciar não corrige espontaneamente aparecimento de humanos, morfologia de mãos nem continuidade. O próximo clipe permanece **pendente / não testado**.
+
+**Fontes oficiais:** https://support.google.com/flow/answer/16353333?hl=pt-BR e https://support.google.com/flow/answer/16935308?co=GENIE.Platform%3DDesktop&oco=1 .
