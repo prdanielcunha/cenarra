@@ -1,5 +1,7 @@
 # Estado atual e pendências — fonte da verdade
-**Atualizado em 06/11/2026.**
+**Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
+
+A situação atual da Cena 02 da Rua 7 está registrada na [revisão de 08/11](#revisão-da-cena-02--08112026--contas-gratuitas-e-continuidade).
 
 | Assunto | Estado | Observação |
 |---|---|---|
@@ -103,3 +105,10 @@
 - **PROPOSTA NÃO TESTADA:** gerar **um clipe visual de 10s sem falas** no Omni Flash 1.2 a partir de **um único frame original** com o trio e mercadinho; adicionar as três vozes sequencialmente em faixas independentes no CapCut, usando olhares/reações e técnicas de plano-contraplano para evitar lip-sync exposto. Isso resolve atribuição editorial de vozes mas NÃO garante lip-sync visível exato. Não misturar cartões @voz em Frames.
 - **CUSTO OFICIAL DE REFERÊNCIA:** 10s 360p = 10 créditos, 720p = 30 créditos no Omni Flash 1.2; confirmar modelo, plano e valor na interface. Veo Lite não gera 10s. Upscale gratuito em créditos de até 10s condicionado a assinatura Google AI Plus/Pro/Ultra.
 - **DOCUMENTAÇÃO:** [Plano v8 / uma geração](../03_PRODUCAO/RUA7_E01_C02_UMA_GERACAO_10S_SEM_VOZ_v8_PROPOSTO.md). Pacote visual/áudio privado fora do GitHub. Nenhum vídeo novo executado ou aprovado.
+
+## Revisão da Cena 02 — 08/11/2026 — contas gratuitas e continuidade
+
+- **DECIDIDO PELO RESPONSÁVEL:** produção com contas gratuitas e custo incremental R$ 0. Mantida a restrição anterior de uma geração de vídeo para C02 como teto, com 10 s como alvo de montagem. Nenhum recurso pago integra o fluxo.
+- **CONCLUÍDO COM EVIDÊNCIA VISUAL:** auditoria das cinco imagens enviadas, da matriz original do trio e de três MP4 de 7,93 s. O storyboard ilustrado diverge do lock e serve apenas para ritmo/atuação. O primeiro clipe é a referência de encenação mais estável, com diferenças em relação à matriz original. As outras duas saídas apresentam quebra de elenco ou anatomia: humano na área do caixa e mão verde ligada a Nilo, respectivamente. Vozes e sincronismo não confirmados. Nenhum dos três arquivos foi liberado para publicação.
+- **PROPOSTO:** [Fluxo gratuito v9 e auditoria](../03_PRODUCAO/RUA7_E01_C02_AUDITORIA_E_FLUXO_GRATUITO_v9_PROPOSTO.md). Montar 10 s com áudio separado e ativos originais antes de gastar crédito. Se faltar atuação, testar uma saída com um único movimento, uma imagem de partida e câmera fixa. Flow Free documenta 50 créditos/dia; Omni Flash 1.2 permite 10 s (30 créditos em 720p; 10 em 360p) e Veo Lite oferece 4/6/8 s em 720p por 10 créditos. Conferir saldo, opções e preço na conta gratuita.
+- **PENDENTE:** validar vozes, testar a montagem e provar continuidade entre tomadas antes de produzir em lote. Nenhuma nova geração nem publicação foi executada neste diagnóstico. As mídias permanecem privadas.
