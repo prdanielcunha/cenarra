@@ -19,3 +19,25 @@ Create one continuous 15-second vertical 9:16 clip with native Brazilian Portugu
 
 Subtle plaza ambience, a soft paper rustle in sync with the bag, a little movement in the canvas awning. Speak each line exactly once with no overlap. Only the current visible speaker moves their lips, with native lip and jaw motion integrated into their original face. Keep Nilo silent, the offscreen customer invisible and the camera steady. No extra characters, cuts, mouth overlays, captions, music or narration.
 ```
+
+## Revisão v2 · 09/11/2026
+
+**RELATO DO RESPONSÁVEL:** vídeo v1 gerado, com execução visual da cena, mas reprovado pela pronúncia percebida como estrangeira e pela atuação facial e vocal pouco expressiva. Saída não inspecionada nesta tarefa.
+
+**PROPOSTA v2:** reutilizar o quadro de partida, com duas vozes brasileiras visíveis. A cliente fica fora de quadro e em silêncio. Beto assume a fala sobre o pedido do dia seguinte. A virada é marcada pela perda do sorriso de Beto, pela preocupação de Mara e pela reação de Nilo em foco. A nova versão ainda depende de geração e revisão.
+
+```text
+Gere um único vídeo vertical 9:16 de 15 segundos, com imagem e áudio nativos. Comece no quadro de referência. Preserve a luz da manhã, a banca e o figurino. Mara está à esquerda, Beto está no centro com o saco grande sobre o balcão, Nilo está na porta do mercadinho à direita com seu saco menor. A cliente fica fora de quadro e em silêncio. Mantenha a câmera no mesmo eixo.
+
+Todas as falas são de falantes nativos de português brasileiro. Pronúncia, ritmo e entonação de uma conversa de bairro no Brasil. Beto é um jovem adulto brasileiro. A voz dele é calorosa com a cliente e fica mais baixa quando fala de Nilo. Mara é uma mulher adulta brasileira, com voz baixa e firme. Ela começa curiosa e termina preocupada. Use as palavras exatas abaixo, uma vez cada, em ritmo natural. Sem sotaque estrangeiro, locução ou dicção de dublagem.
+
+0–4 s — Beto olha para a cliente e empurra de leve o saco grande pelo balcão. Os olhos dele se iluminam quando reconhece a freguesa. Ele sorri e fala com intimidade de quem já a conhece. “Tá aqui, dona. Amanhã eu já deixo separado.” Ao fundo, Nilo ergue o olhar e aperta discretamente a dobra do saco menor.
+
+4–7 s — Mara vira o rosto para Beto. As sobrancelhas sobem e ela se inclina um pouco, surpresa com a familiaridade entre os dois. “Você lembra do pedido dela de cabeça?”
+
+7–11.5 s — O sorriso de Beto some aos poucos. Ele olha para Nilo, volta a olhar para Mara e diz “Eu separava todo dia.” Faz uma pausa curta, baixa um pouco a voz e completa “Lá no Nilo.” Deixe transparecer que isso importava pra ele.
+
+11.5–15 s — Mara acompanha o olhar de Beto. A testa relaxa e a expressão de surpresa dá lugar à preocupação quando ela vê Nilo. Transfira lentamente o foco para a porta do mercadinho. Nilo tenta sustentar o olhar. A mandíbula endurece por um instante, os ombros cedem e ele baixa os olhos. Segure o último segundo no rosto dele, de boca fechada.
+
+Cada reação começa ao ouvir a fala que a provoca. Quem escuta reage com os olhos, as sobrancelhas e a postura, com a boca fechada. Anime os lábios e a mandíbula no próprio rosto 3D, sincronizados à voz de quem fala. Som ambiente baixo da praça e ruído do papel no movimento do saco. Sem fala extra, sobreposição de vozes, boca colada, música, legendas ou cortes.
+```
