@@ -4,7 +4,7 @@
 
 ## Capa
 
-Arquivo privado `CENARRA_Rua7_E01_Capa.jpg`, 1080 × 1920. Arte montada sobre a imagem de produção `Olhares tensos no mercadinho.png`, com Mara, Nilo e a maquete da banca. Gancho visual: **NA SUA FRENTE!**. Beto entra no texto da publicação. Seleção editorial com base nas referências visuais enviadas e na orientação do YouTube sobre leitura em telas pequenas. As visualizações observadas não isolam o efeito das capas.
+Arquivo privado `CENARRA_Rua7_E01_Capa_v2.jpg`, 1080 × 1920. Revisão de legibilidade solicitada pelo responsável: título claro sobre fundo escuro sólido, conferido na capa inteira e no recorte central 3:4 reduzido à largura de 132 px. Arte montada sobre a imagem de produção `Olhares tensos no mercadinho.png`, com Mara, Nilo e a maquete da banca. Gancho visual: **NA SUA FRENTE!**. Beto entra no texto da publicação. Seleção editorial com base nas referências visuais enviadas e na orientação do YouTube sobre leitura em telas pequenas. As visualizações observadas não isolam o efeito das capas.
 
 - Instagram: adicionar o JPG pela galeria em Editar capa e conferir a grade.
 - TikTok: selecionar o fotograma do confronto em que Nilo reage e a miniatura está visível. Aplicar o gancho no editor de capa se o recurso aparecer. Ativar Conteúdo gerado por IA.
