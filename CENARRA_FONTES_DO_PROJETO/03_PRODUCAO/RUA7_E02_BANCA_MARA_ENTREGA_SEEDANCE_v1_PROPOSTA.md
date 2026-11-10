@@ -41,3 +41,25 @@ Todas as falas são de falantes nativos de português brasileiro. Pronúncia, ri
 
 Cada reação começa ao ouvir a fala que a provoca. Quem escuta reage com os olhos, as sobrancelhas e a postura, com a boca fechada. Anime os lábios e a mandíbula no próprio rosto 3D, sincronizados à voz de quem fala. Som ambiente baixo da praça e ruído do papel no movimento do saco. Sem fala extra, sobreposição de vozes, boca colada, música, legendas ou cortes.
 ```
+
+## Revisão v3 · 10/11/2026 · Cliente visível
+
+**DIREÇÃO DO RESPONSÁVEL:** representar no quadro de referência os clientes que participam da cena e indicar quem fala. Novo quadro vertical gerado com a cliente pera amarela de cardigã bege já vista no plano aberto. A cliente fica à direita no primeiro plano, separada de Nilo, que permanece ao fundo e em silêncio. O prompt volta a atribuir a ela a fala de retorno. O vídeo v3 ainda depende de geração e revisão.
+
+```text
+Gere um vídeo vertical 9:16 de 15 segundos, em um único plano, com som e diálogos nativos. Comece pela imagem de referência e preserve os quatro personagens, seus rostos, roupas e posições. Mara é a tomate à esquerda. Beto é o brócolis ao centro. A cliente é a pera amarela de cardigã bege no primeiro plano à direita. Nilo é a laranja de avental azul-marinho na porta do mercadinho, ao fundo. Nilo permanece em silêncio.
+
+As três vozes falam português brasileiro nativo, com pronúncia e ritmo de conversa espontânea. Beto tem voz jovem e calorosa. A cliente tem voz feminina madura e afetuosa. Mara tem voz adulta, baixa e firme. Use as falas exatas, na ordem indicada. Só a boca do personagem nomeado em cada fala se mexe. Os outros reagem com os olhos, sobrancelhas e postura.
+
+0–3,4 s — BETO olha para a cliente, sorri ao reconhecê-la e desliza o saco grande um pouco na direção dela. “Tá aqui, dona. Do jeito que a senhora gosta.” A cliente mantém o rosto visível de perfil, com os lábios fechados.
+
+3,4–5,4 s — CLIENTE PERA olha para Beto, sorri e responde com familiaridade. “Amanhã eu volto, Beto.” Só a cliente fala. Ao fundo, Nilo ergue o olhar e aperta a dobra do saco menor.
+
+5,4–8,2 s — MARA ergue as sobrancelhas e se inclina levemente para Beto. “Você lembra do pedido dela de cabeça?” A cliente e Beto escutam com a boca fechada.
+
+8,2–11,6 s — BETO perde o sorriso aos poucos. Olha brevemente para Nilo e volta a olhar para Mara. “Eu separava todo dia.” Após uma pausa curta, completa em voz mais baixa. “Lá no Nilo.”
+
+11,6–15 s — Mara olha para a porta e a curiosidade dá lugar à preocupação. Transfira o foco devagar para Nilo, com a câmera firme. Nilo segura o olhar por um instante, aperta a mandíbula e então baixa os olhos. Termine no rosto dele, de boca fechada.
+
+Som ambiente baixo da praça e ruído discreto de papel. Sincronize os lábios e a mandíbula com a voz no próprio rosto 3D. Sem sotaque estrangeiro, vozes sobrepostas, boca colada, personagens extras, música, narração, legendas ou cortes.
+```
