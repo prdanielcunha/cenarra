@@ -1,4 +1,18 @@
-# BICHOS-P01 — Clipe 02, plano para Flow gratuito
+# BICHOS-P01 — Clipe 02, Bela em quadro individual no Flow gratuito
+
+**Resultado relatado pelo responsável:** o quadro do trio gerou vídeo, mas Téo falou primeiro. Bela emitiu sons ininteligíveis e a fala foi alterada. Áudio reprovado. Manter produção exclusivamente na cota gratuita do Flow.
+
+**Revisão proposta:** usar o novo close vertical, com apenas Bela visível, e retirar o vocativo da fala. O áudio tem uma única frase literal. A imagem foi conferida; a animação e o áudio ainda não foram testados. Uma saída de 8 s com saldo gratuito, na configuração da abertura. Usar os primeiros 7 s do [piloto de 60 s](BICHOS_P01_FLOW_60S_8X8_v3_PROPOSTA.md). Se houver fala extra, troca de locutor ou alteração da frase, reprovar e pausar a tomada.
+
+```text
+One continuous 8-second vertical 3D close-up, animated from the uploaded first frame. Fixed camera. Bela, the dog in the green blazer, is the only character on screen and the only voice. Preserve her face, outfit and warm office lighting. The sealed envelope stays still.
+
+Bela raises one eyebrow and gives a skeptical sideways look. At about half a second, she asks this exact line once, in natural Brazilian Portuguese, with clear diction and accurate lip sync: “Você abriu o envelope ou só viu o troféu?”
+
+Her tone is firm, with dry irony at the end. She then closes her mouth and holds the stare. The quoted sentence is the entire spoken audio. Quiet office ambience before and after it. No other voices, reactions in the audio, extra words, narration, music or captions.
+```
+
+## Histórico de tentativas
 
 **Decisão do responsável:** somente a cota gratuita do Flow. O Seedance consome a cota do responsável e foi retirado do fluxo. A alternativa histórica abaixo foi superada.
 
