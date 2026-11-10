@@ -1,4 +1,18 @@
-# BICHOS-P01 — Clipe 02, contingência CapCut
+# BICHOS-P01 — Clipe 02, plano para Flow gratuito
+
+**Decisão do responsável:** somente a cota gratuita do Flow. O Seedance consome a cota do responsável e foi retirado do fluxo. A alternativa histórica abaixo foi superada.
+
+**Próximo passo proposto:** uma única saída de 8 s quando houver saldo gratuito, com as mesmas configurações da abertura que gerou. Trocar o close da Bela pelo quadro original do trio, O troféu da discórdia.png, que já serviu para gerar a abertura. O foco passa para Bela e ela é a única locutora. Usar os primeiros 7 s na montagem. A aceitação desse novo clipe e a atuação ainda não foram verificadas. Se o aviso voltar, pausar a tomada e preservar o saldo.
+
+```text
+One continuous 8-second vertical 3D shot from the uploaded first frame. Preserve the same three characters, outfits, office and warm window light. Gently shift the focus from the trophy to Bela, the dog in the green blazer on the right. Keep the camera in the same position.
+
+Bela looks down at the sealed envelope, then snaps her eyes back to Téo and raises one eyebrow high. She is the only speaker. Adult female voice, natural Brazilian Portuguese. Say this exact line once: “Téo... você abriu o envelope ou só viu o troféu?” Pause briefly after “Téo” and sharpen the irony on “só viu o troféu?”. Finish by second 6, then close her mouth and hold her stare at Téo.
+
+Téo’s mouth and Vera’s beak stay closed and still throughout. Both are completely silent. Téo keeps the trophy steady and his proud smile slowly fades. Vera looks toward Bela with only her eyes. Keep the envelope still. Quiet office ambience. No other voices, music or captions.
+```
+
+## Histórico — proposta anterior superada
 
 **Resultado relatado pelo responsável:** a tentativa do clipe 02 no Flow voltou a falhar. O motivo específico não foi identificado. A alternativa abaixo está preparada e ainda não foi gerada.
 
