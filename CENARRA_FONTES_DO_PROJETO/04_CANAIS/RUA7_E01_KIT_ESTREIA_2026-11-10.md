@@ -8,7 +8,7 @@ Arquivo privado `CENARRA_Rua7_E01_Capa.jpg`, 1080 × 1920. Arte montada sobre a 
 
 - Instagram: adicionar o JPG pela galeria em Editar capa e conferir a grade.
 - TikTok: selecionar o fotograma do confronto em que Nilo reage e a miniatura está visível. Aplicar o gancho no editor de capa se o recurso aparecer. Ativar Conteúdo gerado por IA.
-- YouTube Shorts: no app do iPhone, selecionar o mesmo tipo de fotograma e aplicar o texto na miniatura quando a opção estiver disponível. O envio de JPG no Studio pelo computador é condicionado à disponibilidade na conta. Usar o campo de público geral para este microdrama voltado ao público geral.
+- YouTube Shorts: no app do iPhone, selecionar o mesmo tipo de fotograma e aplicar o texto na miniatura. O envio de JPG no Studio pelo computador é condicionado à disponibilidade na conta. Usar o campo de público geral para este microdrama voltado ao público geral.
 - Facebook: publicar pela Página Cenarra. No Meta Business Suite, usar o JPG quando houver envio de miniatura e selecionar o fotograma quando o editor oferecer apenas quadros do vídeo. Usar o título abaixo se o campo aparecer.
 - Instagram e Facebook: aplicar o rótulo de IA quando disponível, em especial para vozes sintéticas realistas.
 
@@ -43,7 +43,7 @@ Uma novela original da Cenarra, produzida com IA.
 A concorrente da porta | O Segredo da Rua 7 — Ep. 1
 
 ### Facebook Reels · descrição
-Mara chega ao mercadinho do Nilo com uma maquete e um aviso: amanhã, a banca dela abre bem na frente da dele. Beto vê a chance de mudar de lado.
+Mara leva uma maquete ao mercadinho e dá o aviso a Nilo: amanhã, a banca dela abre bem em frente ao comércio dele. Beto vê a chance de mudar de lado.
 
 O Segredo da Rua 7 • Episódio 1
 Uma novela original da Cenarra, produzida com IA.
