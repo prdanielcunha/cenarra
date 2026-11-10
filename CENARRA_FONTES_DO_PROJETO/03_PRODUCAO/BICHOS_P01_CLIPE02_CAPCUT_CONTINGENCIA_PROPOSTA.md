@@ -1,4 +1,26 @@
-# BICHOS-P01 — Clipe 02, Bela em quadro individual no Flow gratuito
+# BICHOS-P01 — Clipe 02, envelope sem fala
+
+**Resultado relatado pelo responsável:** a nova tentativa com Bela sozinha também falhou. Motivo específico não confirmado. Pausar a geração do clipe 02. A produção falada segue na cota gratuita do Flow.
+
+## Montagem revisada proposta
+
+Usar um corte de 4 s para o envelope fechado, a partir do quadro Bela encara o envelope selado.png. Reenquadrar a mesa para enquadrar o envelope, sem bocas visíveis, e prolongar discretamente o ambiente de escritório da abertura se estiver limpo. A pergunta da Bela sai desta versão. A revelação permanece na fala de Vera. Não gerar outro vídeo para o clipe 02.
+
+Ajuste do [piloto de 60 s](BICHOS_P01_FLOW_60S_8X8_v3_PROPOSTA.md): clipe 01 de 8 s, insert de 4 s e seis clipes de 8 s (03–08). Total 8 + 4 + 48 = 60 s sem sobreposição, sujeito ao QA dos clipes. O insert entra de 00:08 a 00:12. Montagem ainda não realizada.
+
+## Clipe 03 — Vera revela a promoção
+
+Quadro inicial Tensão entre coruja e gato.png. Uma saída de 8 s, com a configuração do Flow gratuito que gerou a abertura. Geração e QA pendentes.
+
+```text
+One continuous 8-second vertical 3D shot from the uploaded first frame. Fixed camera. Preserve the characters, office and warm window light.
+
+Vera, the owl with glasses on the right, is the only voice. She keeps her eyes on the cat and speaks once, with a calm, firm adult voice in native Brazilian Portuguese. Her beak moves in sync with this exact line: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.”
+
+Pause briefly before the second sentence. The cat stays completely silent, with his mouth closed and still from start to finish. On the final words, his eyes widen and his shoulders drop. The trophy stays in his hand. Vera closes her beak and holds her stare. The quoted line is the entire dialogue. Quiet office ambience. No extra voices, music or captions.
+```
+
+## Histórico de tentativas
 
 **Resultado relatado pelo responsável:** o quadro do trio gerou vídeo, mas Téo falou primeiro. Bela emitiu sons ininteligíveis e a fala foi alterada. Áudio reprovado. Manter produção exclusivamente na cota gratuita do Flow.
 
