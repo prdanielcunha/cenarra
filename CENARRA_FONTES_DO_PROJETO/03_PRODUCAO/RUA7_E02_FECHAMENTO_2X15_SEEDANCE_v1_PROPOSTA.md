@@ -6,28 +6,38 @@ Continuação da [entrega na banca](RUA7_E02_BANCA_MARA_ENTREGA_SEEDANCE_v1_PROP
 
 ## Cena 1 · O desenho
 
+Quadro inicial privado: `O desenho entre Mara e Nilo.png`.
+
 ```text
-Vídeo vertical 9:16, 15 segundos, plano contínuo e falas nativas em português brasileiro. Comece pela primeira imagem. Alguns instantes depois da venda na praça, dentro do mercadinho, Mara (tomate vermelha de vinho) está à esquerda, do lado da freguesia. Nilo (laranja de camisa bege e avental azul-marinho) está à direita, atrás do balcão. Preserve os rostos, as roupas, o eixo de câmera, o caixa verde-petróleo, o saco pequeno à direita e o desenho antigo sobre a madeira.
+Gere um vídeo vertical 9:16 de 15 segundos no Seedance 2.0 Mini. Use a imagem anexada como primeiro quadro. Plano contínuo com áudio nativo em português brasileiro. Mara, a tomate de vinho, está à esquerda, do lado da freguesia. Nilo, a laranja de avental azul-marinho, está à direita, atrás do balcão. Preserve rostos, roupas, luz, caixa verde-petróleo, desenho do toldo sobre a madeira e saco de papel à direita.
 
-0–3,6 s — MARA olha o toldo desenhado. As sobrancelhas relaxam quando ela reconhece o traço. Levanta os olhos só no fim da pergunta. “Você guardou o nosso desenho?”
-3,6–8 s — NILO passa o polegar pela dobra do papel, sem levantar a folha. Fala baixo, quase com carinho. “Foi a primeira coisa que eu trouxe pra cá.”
-8–11,3 s — MARA encara Nilo. A surpresa vira desconfiança. “No dia da inauguração?”
-11,3–15 s — NILO demora um instante antes de responder. “Antes.” Ele mantém os olhos nela, com a mão junto ao desenho. Termine com os dois se encarando, de boca fechada.
+0–3,8 s — MARA reconhece o desenho. Os olhos se arregalam, a respiração trava e os dedos pressionam a madeira. Ela ergue o olhar para Nilo e pergunta, com a voz falhando de surpresa: “Você guardou o nosso desenho?”
 
-Mara fala com voz baixa e firme. Nilo tem voz baixa e levemente rouca. Use as frases exatas com pronúncia e ritmo naturais do Brasil. Só quem fala move a boca, com mandíbula integrada ao rosto 3D. A câmera fica firme. Som baixo do mercadinho e um leve ruído de papel. Sem música, texto, voz extra ou cortes.
+3,8–8,2 s — NILO olha para o papel e passa o polegar pela dobra, mantendo a folha no balcão. As sobrancelhas relaxam com a lembrança, mas o olhar vacila quando ele volta a encarar Mara. “Foi a primeira coisa que eu trouxe pra cá.”
+
+8,2–11,5 s — MARA endireita o corpo de repente. A ternura some, a testa se fecha e ela aperta os lábios antes de falar. “No dia da inauguração?” A pergunta sai seca, como quem acabou de desconfiar de algo.
+
+11,5–15 s — NILO imobiliza a mão junto ao papel. A mandíbula endurece e ele inspira curto. Responde perto de 14 s, baixo e com esforço: “Antes.” Termine com os dois se encarando de boca fechada.
+
+Atuação intensa de novela brasileira, com mudanças bem visíveis no rosto, nas mãos e na postura. Mara tem voz baixa e firme. Nilo tem voz baixa e levemente rouca. Falas exatas, com pronúncia e cadência brasileiras naturais. Só quem fala move os lábios. A câmera fica firme. Som discreto do mercadinho e do papel. Sem cortes internos, música, texto, voz extra ou sobreposição de falas.
 ```
 
 ## Cena 2 · A chave
 
+Quadro inicial privado: `Um silêncio tenso no balcão.png`.
+
 ```text
-Vídeo vertical 9:16, 15 segundos, plano contínuo e falas nativas em português brasileiro. Comece pela nova imagem lateral imediatamente após “Antes.” Mara está à esquerda, em primeiro plano, com a boca visível de perfil. Nilo ocupa o centro-direita, em close. Eles se olham do mesmo lado do eixo de câmera da cena anterior, cada um do seu lado do balcão. O desenho do toldo continua sobre a madeira. Preserve rostos, roupas, vozes, luz e posição dos objetos.
+Gere um vídeo vertical 9:16 de 15 segundos no Seedance 2.0 Mini. Use a imagem lateral anexada como primeiro quadro. A cena começa imediatamente depois de Nilo dizer “Antes” no clipe anterior. Mara aparece de perfil à esquerda, com a boca visível. Nilo está em close à direita, atrás do mesmo balcão. Preserve rostos, roupas, vozes, luz, desenho do toldo, saco de papel e direção dos olhares. A câmera fica firme neste novo ângulo.
 
-0–5,2 s — MARA prende a respiração por um instante. Fala baixo, juntando as peças. “Quando você me pediu pra esperar… você já tava com a chave?”
-5,2–7,6 s — NILO fica imóvel por um instante. Sustenta o olhar e admite, com a voz presa na garganta. “Já.” Depois fecha a boca.
-7,6–11,7 s — MARA mantém o olhar em Nilo, aperta levemente a mandíbula e pergunta, mais magoada do que brava. “Então por que você me fez esperar?”
-11,7–15 s — Mantenha a câmera firme no plano lateral. Nilo baixa os olhos para o desenho, afrouxa os dedos junto ao papel e volta a encarar Mara. Segure o último segundo no rosto dele, em silêncio.
+0–5,2 s — MARA prende o olhar em Nilo. Ergue um pouco o queixo, como se quisesse ouvir que entendeu errado. A voz começa contida, vacila na pausa e ganha peso em “chave”. “Quando você me pediu pra esperar… você já tava com a chave?”
 
-Use as frases exatas com pronúncia e ritmo naturais do Brasil. Só quem fala move a boca. A atuação de quem escuta aparece nos olhos, na respiração e na postura. Som baixo e contínuo do mercadinho. Sem resposta adicional, música, narração, texto ou cortes internos.
+5,2–7,6 s — NILO aperta os dedos contra o balcão. Os olhos fogem para o desenho, voltam para Mara e a mandíbula treme de leve. Depois de uma respiração curta, ele admite com a voz presa na garganta: “Já.” Fecha a boca.
+
+7,6–11,7 s — MARA recua um pouco os ombros, atingida pela resposta. As sobrancelhas se juntam e os olhos ficam úmidos. Ela se recompõe, encara Nilo e dá peso à última palavra: “Então por que você me fez esperar?”
+
+11,7–15 s — NILO afrouxa os dedos ao lado do papel. Os ombros cedem. Ele baixa os olhos e os ergue devagar para Mara, com culpa no rosto e os lábios fechados. Segure o último segundo no olhar dele.
+
+Atuação intensa de novela brasileira, com respiração, postura e expressões faciais bem marcadas. Mara tem voz baixa e firme. Nilo tem voz baixa e levemente rouca. Falas exatas, em português brasileiro natural. Só quem fala move os lábios. Som baixo e contínuo do mercadinho. Sem resposta adicional, cortes internos, música, texto ou narração.
 ```
 
 Emenda revisada: encerrar a primeira cena após “Antes” e cortar direto para a nova referência lateral, com Nilo em close e Mara de perfil. A mudança de ângulo foi produzida e conferida visualmente. O último quadro da cena 1 serve para conferir posições e olhares. Na montagem, manter o som ambiente contínuo e cortar no olhar final de Nilo.
