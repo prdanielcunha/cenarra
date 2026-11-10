@@ -20,14 +20,14 @@ Mara fala com voz baixa e firme. Nilo tem voz baixa e levemente rouca. Use as fr
 ## Cena 2 · A chave
 
 ```text
-Vídeo vertical 9:16, 15 segundos, plano contínuo e falas nativas em português brasileiro. Continue imediatamente após “Antes.” Comece com os dois se encarando como na segunda imagem. Mara está à esquerda e Nilo à direita, cada um do seu lado do balcão. Preserve rostos, roupas, vozes, luz, posições, saco e desenho. Use a segunda imagem como referência de expressão e enquadramento.
+Vídeo vertical 9:16, 15 segundos, plano contínuo e falas nativas em português brasileiro. Comece pela nova imagem lateral imediatamente após “Antes.” Mara está à esquerda, em primeiro plano, com a boca visível de perfil. Nilo ocupa o centro-direita, em close. Eles se olham do mesmo lado do eixo de câmera da cena anterior, cada um do seu lado do balcão. O desenho do toldo continua sobre a madeira. Preserve rostos, roupas, vozes, luz e posição dos objetos.
 
 0–5,2 s — MARA prende a respiração por um instante. Fala baixo, juntando as peças. “Quando você me pediu pra esperar… você já tava com a chave?”
 5,2–7,6 s — NILO fica imóvel por um instante. Sustenta o olhar e admite, com a voz presa na garganta. “Já.” Depois fecha a boca.
-7,6–11,7 s — MARA apoia a mão no balcão, sem tocar no desenho. A pergunta sai mais magoada do que brava. “Então por que você me fez esperar?”
-11,7–15 s — Faça uma aproximação muito lenta na direção de Nilo. Ele baixa os olhos para o desenho, afrouxa os dedos sobre o papel e volta a encarar Mara. Segure o último segundo no rosto dele, em silêncio.
+7,6–11,7 s — MARA mantém o olhar em Nilo, aperta levemente a mandíbula e pergunta, mais magoada do que brava. “Então por que você me fez esperar?”
+11,7–15 s — Mantenha a câmera firme no plano lateral. Nilo baixa os olhos para o desenho, afrouxa os dedos junto ao papel e volta a encarar Mara. Segure o último segundo no rosto dele, em silêncio.
 
 Use as frases exatas com pronúncia e ritmo naturais do Brasil. Só quem fala move a boca. A atuação de quem escuta aparece nos olhos, na respiração e na postura. Som baixo e contínuo do mercadinho. Sem resposta adicional, música, narração, texto ou cortes internos.
 ```
 
-Emenda: se o último frame renderizado da primeira cena estiver limpo e corresponder ao olhar mútuo, usá-lo como abertura da segunda. O quadro gerado da cena 2 é uma alternativa pronta. Na montagem, manter o som ambiente contínuo e cortar no olhar final de Nilo.
+Emenda revisada: encerrar a primeira cena após “Antes” e cortar direto para a nova referência lateral, com Nilo em close e Mara de perfil. A mudança de ângulo foi produzida e conferida visualmente. O último quadro da cena 1 serve para conferir posições e olhares. Na montagem, manter o som ambiente contínuo e cortar no olhar final de Nilo.
