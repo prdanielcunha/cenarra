@@ -63,3 +63,9 @@ As três vozes falam português brasileiro nativo, com pronúncia e ritmo de con
 
 Som ambiente baixo da praça e ruído discreto de papel. Sincronize os lábios e a mandíbula com a voz no próprio rosto 3D. Sem sotaque estrangeiro, vozes sobrepostas, boca colada, personagens extras, música, narração, legendas ou cortes.
 ```
+
+### Correção do quadro de partida da v3
+
+O responsável identificou interseção da cliente com as caixas de frutas no primeiro quadro da v3. O quadro corrigido foi gerado em plano ligeiramente mais aberto. A cliente fica no corredor à direita, com os pés no piso e espaço visível entre ela e as caixas. As frutas ficam à esquerda do poste da banca. Usar o quadro corrigido no lugar do anterior, com a mídia mantida fora do repositório público.
+
+No trecho de 0–3,4 s, substituir o deslizamento do saco por um giro leve no próprio lugar, sobre o balcão, voltado para a cliente. Ela fica no corredor e o saco permanece do lado da banca, livre do poste. Falas e reações seguem a v3. A saída de vídeo ainda depende de geração e revisão.
