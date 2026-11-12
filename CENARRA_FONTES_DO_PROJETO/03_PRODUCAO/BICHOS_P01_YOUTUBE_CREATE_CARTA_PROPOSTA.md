@@ -49,3 +49,15 @@ O responsável relatou que a geração funcionou e pediu mais emoção, entonaç
 ```text
 Vertical 9:16, one continuous 3D shot. Match the uploaded image of Vera alone, finger raised by the glass door. Preserve her face, glasses and outfit. Start in a medium close-up. Vera pulls her shoulders back and fixes a hard stare offscreen. She is the only voice. In native Brazilian Portuguese, say exactly once: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.” Start low and tight, with rising impatience up to “entregar”. Hold a silent beat. During the pause, slowly push the camera closer to her eyes. She leans forward, lowers her finger and delivers the reveal in a lower, deliberate voice, stressing “Bela”. Close her beak and hold the stare. Only her existing lower beak moves during speech. No extra mouth, voices, music or captions.
 ```
+
+### Montagem do clipe 03 após recusa da revisão
+
+O responsável enviou uma tela de falha do YouTube Create sem causa específica. Usar a geração anterior da Vera que o responsável relatou funcionar. Aplicar uma aproximação na edição durante a revelação e cortar para a reação de Téo após o nome da Bela. O ajuste de enquadramento é feito na montagem.
+
+### Clipe 04 — Téo perde a pose
+
+Usar Téo constrangido segura o troféu.png como única referência. Reservar 8 segundos na montagem. A reação inicial de Téo acontece antes da fala. Geração e conferência pendentes.
+
+```text
+Vertical 9:16 cinematic 3D shot. Match the uploaded photo of Téo alone with the gold trophy in his right hand. Preserve his face, navy suit and warm office light. At the start, his eyes widen, his ears flatten and his proud smile collapses. He hugs the trophy closer, then forces a crooked smile to hide his embarrassment. Téo is the only voice. In natural Brazilian Portuguese, say exactly once: “Eu sabia. Tava só ensaiando a entrega. Parabéns, chefe.” Say the first sentence too quickly, stumble slightly in pace before “só”, then pause. On “Parabéns, chefe”, his voice drops, his shoulders sink and he lowers the trophy slightly. Animate only his existing mouth. End with his mouth closed and eyes lowered. Fixed camera. No other voices, extra words, music or captions.
+```
