@@ -1,6 +1,14 @@
 # Estado atual e pendências — fonte da verdade
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
+## Diretriz de continuidade editorial — 11/11/2026
+
+- **DECIDIDO (revisão posterior às recomendações de 09/11):** as duas vagas iniciais de terça e sexta **às 20h** são dedicadas à continuidade dos capítulos de **O Segredo da Rua 7**; próximo alvo é **sexta 13/11, episódio 2**, condicionado ao QA e à finalização.
+- **REPLANEJADO, NÃO CANCELADO:** estreias públicas de Bichos de Escritório e A Última Ligação adiadas até existir capacidade; pilotos continuam em desenvolvimento. Teste de domingo às 20h para uma terceira produção é apenas **proposta futura**, condicionada a episódios de reserva e capacidade real.
+- **RELATO DO RESPONSÁVEL:** estreia da Rua 7 publicada em 10/11 às 20h; publicação não auditada aqui. Nada neste registro significa agendamento automatizado.
+- **CALENDÁRIO E JUSTIFICATIVA:** [Grade editorial de continuidade 11/11](../05_CRESCIMENTO/GRADE_EDITORIAL_RUA7_CONTINUIDADE_2026_11_11.md). As recomendações anteriores de 19h e de alternância dos seis pilotos ficam preservadas abaixo como histórico, **não como orientação vigente**.
+
+
 A produção atual da Rua 7 está registrada em [Tomadas geradas com voz, atuação e câmera nativas](#tomadas-geradas-com-voz-atuação-e-câmera-nativas).
 
 | Assunto | Estado | Observação |
