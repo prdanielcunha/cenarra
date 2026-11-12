@@ -41,3 +41,11 @@ O responsável confirmou que a prévia deformada era do clipe 02. Ela misturou t
 ```text
 Vertical 9:16, fixed 3D close-up. Use only the uploaded photo of Bela, the caramel dog in a green blazer, alone behind the desk. Preserve her muzzle, floppy ears, warm light and sealed envelope. She glances down at the envelope, snaps her eyes up and leans forward a little. One brow rises in disbelief, then her gaze hardens. Bela is the only voice. In natural Brazilian Portuguese, say exactly once: “Você abriu o envelope ou só viu o troféu?” Start within half a second. Begin with incredulity, then stress “só” as the question turns into a challenge. Animate only her existing mouth and jaw, in sync, with no second mouth or changes to her muzzle. She closes her mouth and holds a tense stare. No extra words, other voices, music or captions.
 ```
+
+### Clipe 03 — revelação com aproximação de câmera
+
+O responsável relatou que o vídeo funcionou, mas a fala e a atuação ficaram paradas. A revisão encurta a fala, mantém a informação de que Téo deveria entregar o troféu e concentra a atuação na pausa antes de revelar a promoção de Bela. Usar Vera, a coruja de dedo erguido.png como única referência. Após o olhar final, cortar para a reação do Téo no clipe 04. A revisão ainda não foi gerada.
+
+```text
+Vertical 9:16, one continuous cinematic 3D shot. Match the uploaded image of Vera alone by the glass door. Preserve her feathers, gold glasses, outfit and natural beak. Start in a medium close-up. Vera grips the room with a sharp sideways stare, her raised finger tense. She is the only voice. Say exactly once in native Brazilian Portuguese: “Esse troféu era pra você entregar. A promoção... é da Bela.” Bite down on “entregar”, then pause after “promoção”. During that pause, slowly push in toward her eyes. On “é da Bela”, she lowers her finger, tightens her brows and delivers the words low and decisive. End on her stare, beak closed. Only the existing lower beak moves during speech. Keep feathers intact below it. No extra mouth, other voices, music or captions.
+```
