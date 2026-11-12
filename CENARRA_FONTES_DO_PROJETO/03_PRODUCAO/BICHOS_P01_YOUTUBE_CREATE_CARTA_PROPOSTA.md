@@ -65,3 +65,11 @@ Usar Téo constrangido segura o troféu.png como única referência. Reservar 8 
 ```text
 Vertical 9:16 cinematic 3D shot. Match the uploaded photo of Téo alone with the gold trophy in his right hand. Preserve his face, navy suit and warm office light. At the start, his eyes widen, his ears flatten and his proud smile collapses. He hugs the trophy closer, then forces a crooked smile to hide his embarrassment. Téo is the only voice. In natural Brazilian Portuguese, say exactly once: “Eu sabia. Tava só ensaiando a entrega. Parabéns, chefe.” Say the first sentence too quickly, stumble slightly in pace before “só”, then pause. On “Parabéns, chefe”, his voice drops, his shoulders sink and he lowers the trophy slightly. Animate only his existing mouth. End with his mouth closed and eyes lowered. Fixed camera. No other voices, extra words, music or captions.
 ```
+
+### Clipe 03 — revisão da geração no Flow
+
+A geração enviada pelo responsável dura 7,93 s. Na amostragem visual, o tecido do torso cede a penas entre 4,5 s e 5 s, na aproximação. O responsável também apontou expressão insuficiente. A revisão proposta usa câmera fixa, pose dos braços da referência e atuação pelos olhos, sobrancelhas, queixo e voz. O áudio da tomada enviada ainda precisa de conferência. Se limpo, pode ser reaproveitado sobre uma reação do Téo em silêncio, usando a voz de Vera fora do quadro na parte com defeito.
+
+```text
+Plano único vertical 9:16, câmera fixa. Use a foto da Vera como primeiro quadro. Preserve em todos os quadros o blazer grafite fechado de mangas compridas, a blusa vinho, os óculos dourados e o bico. Mantenha os braços e o dedo na pose da foto. Vera é a única voz. Ela começa com irritação contida e diz, em português brasileiro: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.” Em “entregar”, franze as sobrancelhas e endurece a voz. Faça uma pausa curta. Na revelação, estreite os olhos, abaixe ligeiramente o queixo e enfatize “Bela” com voz baixa e firme. Só a parte inferior do bico articula. Feche o bico e segure o olhar. Som leve de escritório.
+```
