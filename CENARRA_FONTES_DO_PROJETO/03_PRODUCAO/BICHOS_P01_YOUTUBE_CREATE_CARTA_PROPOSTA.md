@@ -25,3 +25,11 @@ Ordem de produção solicitada: 02 e 03. Usar somente o novo quadro de Vera sozi
 ```text
 Vertical 9:16 cinematic 3D shot. Match the uploaded photo of Vera alone, the brown owl with gold glasses, dark blazer and burgundy blouse. Keep her face, the glass door and the warm light from the left. Fixed camera. She keeps her raised index finger steady and gives a stern look offscreen left. Only Vera speaks, with a calm, firm adult female voice in native Brazilian Portuguese. Say exactly once: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.” Pause briefly before the second sentence. On the reveal, narrow her eyes and lean her head forward slightly. Keep her beak in sync, then close it and hold her stare. Quiet office ambience. No reply, other characters, extra voices, music or captions.
 ```
+
+### Revisão do clipe 03 — bico da Vera
+
+A prévia enviada mostra um bico e uma segunda boca abaixo dele, além de orelhas caídas. O print não permite confirmar quais referências foram anexadas. Reprovar a prévia por continuidade visual. Usar como única referência Vera, a coruja de dedo erguido.png. O comando fixa a anatomia e anima a mandíbula inferior existente. Resultado da revisão pendente de geração.
+
+```text
+Vertical 9:16, fixed camera. Match the single reference of Vera, the owl with gold glasses, dark blazer and burgundy blouse, standing by the glass door with her index finger raised. Preserve her exact feathered face and head silhouette. She has one natural bird beak. The upper beak stays fixed; only the existing lower mandible opens and closes slightly as she speaks. Feathers below the beak stay intact. No lips, extra mouth, floppy ears or other characters. Vera speaks once in native Brazilian Portuguese, calm and firm: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.” Pause between sentences. On the reveal, her eyes narrow and her brow lowers. Then close the beak and hold her stare. Quiet office ambience. No other voices, music or captions.
+```
