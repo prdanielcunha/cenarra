@@ -31,3 +31,17 @@ A revisão encurta a fala, preserva a revelação e evita mencionar o objeto no 
 ```text
 Plano único vertical 9:16. Use apenas a foto da Vera de dedo erguido como quadro inicial. Câmera fixa. Preserve o escritório, o blazer grafite com as duas mangas, a blusa vinho e os óculos. Vera encara alguém fora do quadro, franze as sobrancelhas e fala uma única vez, em português brasileiro natural: “Era pra você entregar. A promoção é da Bela.” A primeira frase sai com impaciência contida. Faça uma pausa curta. Vera estreita os olhos e diz a segunda frase em tom baixo e firme, com ênfase em “Bela”. Só a parte inferior do bico articula. Ao terminar, feche o bico e sustente o olhar. Preserve o cenário e os objetos da foto. Vídeo sem texto, legendas ou palavras na tela. Áudio apenas da fala e do ambiente de escritório.
 ```
+
+## Revisão dramática proposta — clipes 03 a 05
+
+A Vera revela a promoção e reconhece que o envelope é estranho. O Téo passa da vergonha ao medo. A Bela pede que ele abra o envelope. Mantêm-se os tempos de montagem dos clipes 03 a 05 e a descoberta da demissão e da assinatura fica para os clipes seguintes.
+
+- 03 — Vera: “A promoção é da Bela. Mas esse envelope... eu nunca vi.”
+- 04 — Téo: “Tava junto do troféu. Eu achei que era pra mim.”
+- 05 — Bela: “Então abre, Téo. Agora.”
+
+Usar a foto da Vera de dedo erguido no clipe 03. A revisão de roteiro e o novo prompt são propostas. Geração e áudio ainda precisam de conferência.
+
+```text
+Plano único vertical 9:16. Use a foto da Vera de dedo erguido. Câmera fixa. Preserve rosto, bico, óculos, blazer de mangas compridas e blusa vinho. Vera está sozinha. Ela encara à esquerda, franze as sobrancelhas e diz com firmeza: “A promoção é da Bela.” Pausa de meio segundo. Seus olhos descem para algo fora do quadro. O dedo baixa alguns centímetros, as sobrancelhas sobem e a voz passa de firme a preocupada: “Mas esse envelope... eu nunca vi.” Fala natural em português brasileiro. Só a parte inferior do bico articula. Termine com o bico fechado e os olhos voltando à esquerda. Mantenha o quadro com os objetos da foto. Sem texto ou legendas. Apenas a voz da Vera e o ambiente.
+```
