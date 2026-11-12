@@ -50,11 +50,15 @@ O responsável relatou que a geração funcionou e pediu mais emoção, entonaç
 Vertical 9:16, one continuous 3D shot. Match the uploaded image of Vera alone, finger raised by the glass door. Preserve her face, glasses and outfit. Start in a medium close-up. Vera pulls her shoulders back and fixes a hard stare offscreen. She is the only voice. In native Brazilian Portuguese, say exactly once: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.” Start low and tight, with rising impatience up to “entregar”. Hold a silent beat. During the pause, slowly push the camera closer to her eyes. She leans forward, lowers her finger and delivers the reveal in a lower, deliberate voice, stressing “Bela”. Close her beak and hold the stare. Only her existing lower beak moves during speech. No extra mouth, voices, music or captions.
 ```
 
-### Montagem do clipe 03 após recusa da revisão
+### Clipe 03 — geração pendente após recusa
 
-O responsável enviou uma tela de falha do YouTube Create sem causa específica. Usar a geração anterior da Vera que o responsável relatou funcionar. Aplicar uma aproximação na edição durante a revelação e cortar para a reação de Téo após o nome da Bela. O ajuste de enquadramento é feito na montagem.
+O responsável esclareceu que o print era da falha do clipe 03 e que ainda não tem uma tomada utilizável. O motivo específico da recusa não apareceu. O próximo passo é gerar o clipe 03 com apenas a imagem Vera, a coruja de dedo erguido.png. A fala da revelação permanece. A versão abaixo condensa a direção em uma pausa, um gesto e uma aproximação de câmera. A revisão ainda não foi testada.
 
-### Clipe 04 — Téo perde a pose
+```text
+Close vertical 9:16 em animação 3D. Use a foto da Vera sozinha, com óculos dourados e dedo erguido. Preserve o rosto e o bico da foto. Vera encara alguém à esquerda, fora do quadro. Ela é a única voz e diz uma vez, em português brasileiro: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.” A voz começa firme e ganha impaciência em “entregar”. Faça uma pausa breve. A câmera se aproxima devagar enquanto ela abaixa o dedo. Diga a última frase em tom baixo e decisivo, com ênfase em “Bela”. Apenas a parte inferior do bico articula a fala. Termine com o bico fechado e o olhar firme.
+```
+
+### Clipe 04 — Téo perde a pose (aguarda o clipe 03)
 
 Usar Téo constrangido segura o troféu.png como única referência. Reservar 8 segundos na montagem. A reação inicial de Téo acontece antes da fala. Geração e conferência pendentes.
 
