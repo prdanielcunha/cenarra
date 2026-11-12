@@ -33,3 +33,11 @@ A prévia enviada mostra um bico e uma segunda boca abaixo dele, além de orelha
 ```text
 Vertical 9:16, fixed camera. Match the single reference of Vera, the owl with gold glasses, dark blazer and burgundy blouse, standing by the glass door with her index finger raised. Preserve her exact feathered face and head silhouette. She has one natural bird beak. The upper beak stays fixed; only the existing lower mandible opens and closes slightly as she speaks. Feathers below the beak stay intact. No lips, extra mouth, floppy ears or other characters. Vera speaks once in native Brazilian Portuguese, calm and firm: “Deixei o troféu na sua mesa pra você entregar. A promoção é da Bela.” Pause between sentences. On the reveal, her eyes narrow and her brow lowers. Then close the beak and hold her stare. Quiet office ambience. No other voices, music or captions.
 ```
+
+### Revisão prioritária do clipe 02 — Bela e o envelope
+
+O responsável confirmou que a prévia deformada era do clipe 02. Ela misturou traços da coruja e da cachorra e mostrou uma segunda boca. Para a pergunta sobre o envelope, usar somente o close original Bela pronta para a pergunta.png. A frase permanece com Bela, da incredulidade para a cobrança. A revelação da promoção pertence ao clipe 03. Conferidos o quadro e os 746 caracteres do comando. Vídeo e voz ainda pendentes de geração e conferência.
+
+```text
+Vertical 9:16, fixed 3D close-up. Use only the uploaded photo of Bela, the caramel dog in a green blazer, alone behind the desk. Preserve her muzzle, floppy ears, warm light and sealed envelope. She glances down at the envelope, snaps her eyes up and leans forward a little. One brow rises in disbelief, then her gaze hardens. Bela is the only voice. In natural Brazilian Portuguese, say exactly once: “Você abriu o envelope ou só viu o troféu?” Start within half a second. Begin with incredulity, then stress “só” as the question turns into a challenge. Animate only her existing mouth and jaw, in sync, with no second mouth or changes to her muzzle. She closes her mouth and holds a tense stare. No extra words, other voices, music or captions.
+```
