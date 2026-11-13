@@ -96,3 +96,10 @@ Após o sorriso da cena 04, Mara pergunta por que Nilo a deixou ir. Ele diz que 
 ```text
 Vídeo 9:16, 8 s, novela 3D. Use a imagem inicial. Mesmo mercadinho, luz e roupas. Mara, tomate, à esquerda do lado dos clientes. Nilo, laranja, à direita atrás do balcão. Ambos visíveis. 0–3 s: Mara crava os dedos no papel, encara Nilo e pergunta em PT-BR nativo, voz baixa que se rompe em “embora”: “Então por que deixou eu ir embora?” Nilo escuta de boca fechada. 3–7 s: Mara fecha a boca. Nilo se endireita num susto, aperta a madeira e responde rouco, em PT-BR: “Eu fui atrás de você. Disseram que você não queria me ver.” 7–8 s: Nilo fecha a boca. Mara solta o papel, olhos arregalados. Aproximação curta com os dois em quadro. Trilha cessa na pergunta. Ouve-se o papel estalar e a respiração. Sem gotas, humanos, texto ou falas sobrepostas.
 ``
+
+## Cena 05 revisada — posições da cena 04
+O responsável observou que na cena 04 Mara termina ao lado de Nilo. Para seguir a posição da imagem e do clipe anterior, a versão vigente da cena 05 põe ambos atrás do balcão. Mara recua dentro do mesmo lado ao fim da fala, sem atravessar o balcão. Novo quadro gerado e conferido. A continuidade das próximas tomadas parte desta posição. Se houver mudança de lado, a movimentação ou o corte deve estabelecer essa passagem. Um único clipe de 8 s, vídeo pendente.
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Use o quadro corrigido. Mara, tomate à esquerda, e Nilo, laranja à direita, começam juntos ATRÁS do balcão, do mesmo lado, como no clipe anterior. Preserve luz, roupas, desenho e miniatura. 0–3 s: Mara pressiona os dedos na madeira, encara Nilo e pergunta em PT-BR nativo, voz falhando: “Então por que deixou eu ir embora?” Nilo escuta de boca fechada. 3–7 s: só Nilo fala, rouco e assustado: “Eu fui atrás de você. Disseram que você não queria me ver.” Mara escuta de boca fechada. 7–8 s: Nilo se cala. Mara tira a mão do balcão e recua meio passo para trás, ainda no mesmo lado, olhos arregalados. Mantenha os dois no quadro. Som baixo da loja e respiração no silêncio. Sem trocar de lado, gotas, humanos ou texto.
+```
