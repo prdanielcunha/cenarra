@@ -2,6 +2,13 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## Expansão da grade — terceira vaga na quarta (13/11/2026)
+- **DECIDIDO PELO RESPONSÁVEL:** acrescentar vídeos durante a semana e testar Bichos de Escritório, preservando Rua 7 nas terças e sextas. Relato atual: Rua 7 E02 pronto; Bichos E01 gerado, faltando edição; A Última Ligação sem episódio produzido.
+- **RECOMENDAÇÃO EDITORIAL DE TESTE (NÃO AGENDADA):** Rua 7 terça 20h e sexta 19h; Bichos quarta **19h**, com primeiro alvo **18/11/2026**, condicionado à revisão do master e dos direitos. Terceira vaga não é promessa automática de publicação semanal até existir estoque/capacidade. **Estudo e grade:** [Revisão 13/11](../05_CRESCIMENTO/GRADE_EDITORIAL_RUA7_CONTINUIDADE_2026_11_11.md).
+- **PRÓXIMAS DATAS:** Rua 7 E02 sexta 13/11 19h (relato pronto, publicação não verificada), Rua 7 E03 terça 17/11 20h (planejado), Bichos E01 quarta 18/11 19h (edição pendente), Rua 7 E04 sexta 20/11 19h (planejado). Nenhuma dessas datas foi agendada nesta atualização.
+- **MANTIDO:** apenas vídeos, mesmas quatro redes, custo adicional R$ 0, QA e licenças obrigatórios, revisar dados semanalmente; A Última Ligação permanece sem data.
+
+
 ## Rua 7 — Continuidade dos episódios 1 a 3
 - **DECIDIDO:** variar núcleos, elenco e cenários e preservar os locais, personagens e regras visuais já estabelecidos. Usar enquadramentos próprios e planos que mostrem a reação entre os personagens.
 - **CONCLUÍDO COM EVIDÊNCIA:** consolidada a [continuidade vigente](../02_SERIES/RUA7_CONTINUIDADE_ATUAL_E01_E03.md), incluindo as versões vigentes das cenas do E02 e o quadro final de posições. Histórico preservado.
