@@ -2,6 +2,13 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## Direção editorial do canal Cenarra (13/11/2026)
+
+- **DEFINIDO:** Cenarra é a marca que reúne séries curtas originais de gêneros diferentes. Cada série tem seu próprio núcleo recorrente, com identidade visual, vozes, personalidades e relações consistentes. O protagonista pode variar por episódio. Participações entram quando o conflito pede.
+- **REGRA PARA AS SÉRIES:** mostrar cedo quem quer o quê e o que está em jogo. Entregar no próprio vídeo uma resolução, consequência, piada ou descoberta proporcional à promessa da abertura. O arco maior e os ganchos dão continuidade no ritmo adequado a cada gênero. O universo de bairro e o teste cotidiano versus suspense abaixo são aplicação específica da Rua 7.
+- **PAPEL NA GRADE:** O Segredo da Rua 7 segue como série principal, com novela de bairro nas terças às 20h e sextas às 19h. Bichos de Escritório é o próximo teste do canal, com humor de convivência e pequenos conflitos do trabalho, na vaga experimental de quarta às 19h quando o piloto estiver pronto. A Última Ligação fica em desenvolvimento, sem data, como suspense humano serializado em que cada capítulo entrega uma descoberta. Horários de Brasília.
+- **AVALIAÇÃO DO CANAL:** comparar séries dentro da mesma rede, na mesma janela de publicação, com retenção, compartilhamentos por mil visualizações, seguidores atribuídos quando disponíveis e esforço de produção. O piloto de Bichos fornece um primeiro sinal. Buscar repetição em mais de um vídeo antes de aumentar a frequência de uma série.
+
 ## Direção editorial — Rua 7 como novela de bairro (13/11/2026)
 
 - **DECIDIDO NESTA TAREFA:** manter o núcleo recorrente de Mara, Nilo e Beto. Preservar aparência, voz, temperamento e memória das relações. Alternar protagonistas conforme o conflito. Lia entra quando a trama pede, seguindo a continuidade em desenvolvimento. Dália continua em desenvolvimento. Usar figurantes e convidados quando a situação exigir.
