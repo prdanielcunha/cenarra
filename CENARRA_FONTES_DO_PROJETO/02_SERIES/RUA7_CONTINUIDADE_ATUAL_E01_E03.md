@@ -43,9 +43,16 @@ O responsável relatou expressão insuficiente na cena 02. A nova imagem começa
 Novela 3D, 9:16, 8 s. Comece no quadro anexado. Beto à esquerda atrás da banca, Mara ao centro com o desenho, Lia à direita com o buquê. Preserve praça, rostos e roupas. 0–1 s: Lia encara o desenho, arregala os olhos, encolhe os ombros e esmaga o papel do buquê entre os dedos. 1–4 s: só Mara fala, com mágoa e firmeza: “Você disse pro Nilo que eu não queria ver ele?” 4–6,5 s: Mara fecha a boca. Só Lia responde, voz trêmula: “Naquele dia, Mara. Só naquele dia.” 6,5–8 s: Lia fecha a boca. Mara perde a firmeza no olhar. Beto, calado o tempo todo, vira o rosto para Lia. Aproximação curta sem cortar os rostos. PT-BR nativo, papel estalando, som da praça recua. Sem humanos, texto ou falas sobrepostas.
 ```
 
-## E03 · Cena 04 — Era melhor ele não voltar
+## E03 · Cena 04 — Era melhor ele não voltar (versão anterior, substituída)
 A cena 03 foi bem recebida pelo responsável. Direção para os próximos clipes: emoções mais vivas e visíveis no vídeo, com alegria, medo, tristeza, choro e tensão conforme a situação. Mostrar a passagem de uma emoção para outra por voz, rosto e corpo. Quando houver lágrima, pequena, translúcida e visivelmente em movimento. Na cena 04, Lia admite que também aconselhou Nilo a não voltar. O motivo dela segue em aberto. Beto testemunha sem falar. Quadro vertical gerado e conferido. Um clipe de 8 s, vídeo pendente.
 
 ```text
 Novela 3D, 9:16, 8 s. Use a imagem inicial. Mesma praça, luz e figurinos. Beto à esquerda, Mara com o desenho ao centro, Lia com o buquê à direita. 0–2 s: Mara aperta a borda do papel e pergunta em PT-BR, voz ferida: “E o que mais você disse?” Lia escuta de boca fechada. 2–6 s: Mara fecha a boca. Lia engole seco. Só Lia fala em PT-BR: “Que era melhor ele não voltar.” A voz quebra em “voltar”. 6–8 s: Lia fecha a boca e os ombros cedem. Uma lágrima pequena e transparente sai da pálpebra e desce rente à bochecha. Mara recua meio passo, olhos arregalados. Beto franze a testa e fica calado. Aproximação lenta nos dois rostos, Beto ainda no quadro. Som da praça baixa, ouve-se a respiração de Lia. Sem gotas grandes, humanos ou texto.
+```
+
+## E03 · Cena 04 — Nunca mais (versão vigente)
+O responsável confirmou a cronologia: Mara saiu da Rua 7 e retornou depois de dez anos. Nilo ficou. Quando disse que foi atrás de Mara, estava contando que a procurou. Lia afirma na cena 03 que Mara só não queria vê-lo naquele dia. Nesta versão da cena 04, admite que disse a Nilo que Mara nunca mais queria vê-lo. A alteração deliberada do recado substitui a hipótese anterior de simples omissão de “hoje”. O motivo de Lia permanece em aberto. Reutilizar o quadro da cena 04. Um clipe de 8 s. Vídeo corrigido pendente.
+
+```text
+Novela 3D, 9:16, 8 s. Use o quadro da cena 4. Mesma praça e figurinos. Mara ao centro segura o desenho, Lia à direita segura o buquê, Beto à esquerda observa. 0–2 s: Mara aperta o papel e pergunta, voz baixa e ferida: “E o que mais você disse?” 2–6 s: Mara cala. Lia aperta o buquê, engole seco e admite: “Eu disse que você nunca mais queria ver ele.” A voz falha em “nunca mais”. 6–8 s: Lia fecha a boca. Os ombros dela cedem. Uma lágrima pequena e transparente desce rente à bochecha. Mara recua, olhos arregalados. Beto franze a testa, calado. Som da praça baixa. Vozes naturais em português brasileiro. Só quem fala mexe a boca. Plano único com os três rostos visíveis. Sem humanos ou texto.
 ```
