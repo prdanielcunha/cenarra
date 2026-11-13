@@ -82,3 +82,10 @@ A orientação do responsável é criar enquadramentos novos conforme a ação d
 ```text
 Vídeo 9:16, 8 s, novela 3D. Use o novo quadro. Câmera à altura do balcão, por trás do ombro de Mara, tomate desfocada à esquerda. Preserve o mercadinho, o caixa verde, a luz dourada e os figurinos. Nilo, laranja de avental azul-marinho, está atrás do balcão à direita. 0–2 s: seus dedos hesitam e deslizam o desenho alguns centímetros na direção de Mara. Som do papel na madeira. 2–6 s: Nilo ergue os olhos para ela e diz em PT-BR nativo, voz grave e embargada: “Eu guardei. Todos esses anos.” Só Nilo fala e mexe a boca. 6–8 s: fecha a boca, solta o papel e sustenta o olhar. Câmera fixa. Mara permanece de costas, miniatura imóvel. Sem lágrimas visíveis, humanos, texto ou cortes.
 ```
+
+## Cena 04 — Tudo vermelho
+Direção pedida pelo responsável: dar mais peso ao drama e ao suspense já no quadro inicial, manter a atuação dos dois personagens visível em planos conjuntos quando a interação pede, e variar com closes nos momentos decisivos. A imagem nova da cena 04 mostra os dois rostos em foco, o desenho e a miniatura, no mesmo interior. As falas previstas para as tomadas 04 e 05 foram reunidas em um único clipe de 8 s, sequenciais, para mostrar a reação de Nilo ao sorriso de Mara e a mudança dela ao ouvi-lo. A reação final deixa a pergunta sobre a partida para a próxima cena. Imagem gerada e conferida. Vídeo pendente.
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Use a imagem inicial. Plano único dos dois no mercadinho, Mara à esquerda do lado dos clientes, Nilo à direita atrás do balcão. Desenho e miniatura imóveis. 0–3,5 s: Mara olha o desenho, sorri sem querer e diz em PT-BR nativo, voz trêmula: “Você desenhava… e eu escolhia as cores.” Nilo escuta de boca fechada. 3,5–5,8 s: Mara fecha a boca. Nilo se inclina um pouco e responde, com ternura rouca: “Você queria tudo vermelho.” 5,8–8 s: Nilo fecha a boca. Mara ergue o olhar, o sorriso some, a mão se fecha no balcão. Ele percebe e recua de leve. Câmera se aproxima sem perder nenhum rosto. Som baixo da loja, respiração audível na pausa. Olhos úmidos sem gotas. Sem humanos, texto ou falas sobrepostas.
+```
