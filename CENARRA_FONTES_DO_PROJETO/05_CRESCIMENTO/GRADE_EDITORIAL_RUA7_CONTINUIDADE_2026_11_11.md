@@ -1,6 +1,34 @@
 # Cenarra — continuidade das novelinhas e grade editorial de lançamento
 **Decisão editorial revista em 11/11/2026; recomendação de horário revista em 13/11/2026 — branch main**
 
+
+## Expansão editorial aprovada para teste — 13/11/2026 (PREVALECE SOBRE A GRADE ANTERIOR)
+
+**DECIDIDO PELO RESPONSÁVEL:** aumentar a quantidade de vídeos semanais além da Rua 7 e testar o piloto de Bichos de Escritório já gerado, com edição final pendente, sem interromper a continuação de Rua 7. O piloto de A Última Ligação ainda **não foi produzido**, segundo relato do responsável em 13/11.
+
+**RECOMENDAÇÃO OPERACIONAL ATUAL (horários experimentais):**
+| Dia | Horário Brasília | Série | Natureza |
+|---|---|---|---|
+| Terça | 20h | O Segredo da Rua 7 | Vaga prioritária de continuação |
+| Quarta | **19h** | Bichos de Escritório | **Terceira vaga de TESTE**; recorrência depende da existência de capítulos prontos |
+| Sexta | 19h | O Segredo da Rua 7 | Vaga prioritária de continuação |
+
+**Primeiro teste sugerido:** Bichos de Escritório E01 em **quarta-feira, 18/11/2026 às 19h**, após edição, conferência técnica, narrativa e de direitos. O segundo episódio da Rua 7 está pronto conforme relato do responsável e pode sair em **sexta, 13/11 às 19h**, após a conferência final. Rua 7 E03 na terça 17/11 e E04 na sexta 20/11 são **planejamento condicional**, não publicação agendada. **Não alegar que os episódios estão agendados ou publicados sem evidência.**
+
+**Por que quarta às 19h, não domingo?**
+- Brasil, Nolyn 22/10/2026: Instagram quarta +9% contra mediana das contas e domingo -18%; TikTok domingo +9% e quarta 0%. Amostras de marcas, não microdramas ou público Cenarra. https://www.nolyn.ai/pt/guides/melhor-horario-para-postar-no-instagram e https://www.nolyn.ai/pt/guides/melhor-horario-para-postar-no-tiktok
+- Buffer set/2026, 9,6M posts Instagram: quarta melhor dia; quarta às 18h entre principais horários; estudo inclui vários formatos. https://buffer.com/resources/when-is-the-best-time-to-post-on-instagram/
+- Buffer jul/2026, 1,8M vídeos YouTube: quarta 19h entre principais horários para Shorts naquele dia. https://buffer.com/resources/best-time-to-post-on-youtube/
+- Sprout Social mar/2026, ~2 bi engajamentos/307k perfis: quarta tem janela forte Instagram/Facebook/TikTok; domingos em geral são fracos em amostra global. https://sproutsocial.com/insights/best-times-to-post-on-social-media/
+- Não há bônus automático de algoritmo por quarta nem dados próprios suficientes para declarar horário ótimo.
+
+**Proteção da operação enxuta:** começar com **um piloto extra**, não compromisso público de Bichos toda quarta. Se Bichos E02 ainda não estiver pronto, deixar a vaga sem vídeo e seguir com Rua 7; não criar teaser, imagem estática ou shorts reciclados para preencher. Só anunciar estreia semanal de Bichos quando houver capacidade comprovada e preferencialmente pelo menos um episódio aprovado de reserva. **A Última Ligação** permanece desenvolvimento criativo, sem data, sem anúncio de estreia.
+
+**Distribuição:** mesmo master 9:16 nas quatro redes (TikTok, YouTube Shorts, Instagram Reels, Página Cenarra Facebook), preparar legendas/títulos em lote e agendar quando disponível; revisão de resultados uma vez por semana (48h/7 dias, retenção, conclusão, compartilhamentos, pedidos de continuação, inscritos, tempo e créditos). Preservar R$ 0 incremental e QA/licenças. Não atribuir mudança de alcance ao horário sem controlar tema, série, idade da conta e duração.
+
+**Relação com o histórico:** a decisão original de apenas duas vagas permanece abaixo para auditoria histórica; esta revisão registra o pedido explícito de adicionar **uma terceira vaga experimental**.
+
+
 ## Status e escopo
 - **DECIDIDO para o ciclo inicial:** priorizar a continuidade narrativa de **O Segredo da Rua 7**, com os capítulos lançados na grade-base **terça às 20h e sexta às 19h (Brasília)** nas quatro redes da Cenarra, mantendo **dois vídeos narrativos inéditos por semana** e custo adicional R$ 0. Esse horário é experimental.
 - **RELATO DO RESPONSÁVEL (não auditado na integração):** episódio 1 da Rua 7 foi publicado em 10/11/2026, às 20h; métricas e detalhes por plataforma dependem de conferência.
