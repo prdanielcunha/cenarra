@@ -89,3 +89,10 @@ Direção pedida pelo responsável: dar mais peso ao drama e ao suspense já no 
 ```text
 Vídeo 9:16, 8 s, novela 3D. Use a imagem inicial. Plano único dos dois no mercadinho, Mara à esquerda do lado dos clientes, Nilo à direita atrás do balcão. Desenho e miniatura imóveis. 0–3,5 s: Mara olha o desenho, sorri sem querer e diz em PT-BR nativo, voz trêmula: “Você desenhava… e eu escolhia as cores.” Nilo escuta de boca fechada. 3,5–5,8 s: Mara fecha a boca. Nilo se inclina um pouco e responde, com ternura rouca: “Você queria tudo vermelho.” 5,8–8 s: Nilo fecha a boca. Mara ergue o olhar, o sorriso some, a mão se fecha no balcão. Ele percebe e recua de leve. Câmera se aproxima sem perder nenhum rosto. Som baixo da loja, respiração audível na pausa. Olhos úmidos sem gotas. Sem humanos, texto ou falas sobrepostas.
 ```
+
+## Cena 05 — Alguém contou outra versão
+Após o sorriso da cena 04, Mara pergunta por que Nilo a deixou ir. Ele diz que foi procurá-la e que alguém lhe disse que ela não queria vê-lo. A alegação abre uma dúvida sobre o passado. Identidade e intenção de quem falou seguem em aberto. Quadro novo gerado e conferido com os dois personagens e o mesmo balcão, desenho e miniatura. As tomadas propostas da pergunta e da resposta compõem um clipe de 8 s. Vídeo pendente de geração.
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Use a imagem inicial. Mesmo mercadinho, luz e roupas. Mara, tomate, à esquerda do lado dos clientes. Nilo, laranja, à direita atrás do balcão. Ambos visíveis. 0–3 s: Mara crava os dedos no papel, encara Nilo e pergunta em PT-BR nativo, voz baixa que se rompe em “embora”: “Então por que deixou eu ir embora?” Nilo escuta de boca fechada. 3–7 s: Mara fecha a boca. Nilo se endireita num susto, aperta a madeira e responde rouco, em PT-BR: “Eu fui atrás de você. Disseram que você não queria me ver.” 7–8 s: Nilo fecha a boca. Mara solta o papel, olhos arregalados. Aproximação curta com os dois em quadro. Trilha cessa na pergunta. Ouve-se o papel estalar e a respiração. Sem gotas, humanos, texto ou falas sobrepostas.
+``
