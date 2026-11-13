@@ -19,4 +19,8 @@ Missão: desenvolver histórias verticais originais, com dramaturgia forte, univ
 14. Não armazenar credenciais, códigos 2FA, tokens, documentos pessoais, dados bancários nem informações de clientes no GitHub público.
 15. A cada alteração relevante durante tarefa autorizada, atualizar documentação, registro de decisões e GitHub; conferir commit. **Não há sincronização automática em segundo plano.**
 
+
+## Fonte visual obrigatória — Rua 7 (APROVADA em 12/11/2026)
+Antes de criar **qualquer** imagem ou vídeo de O Segredo da Rua 7, ler [LOCK VISUAL APROVADO — 12/11/2026](CENARRA_FONTES_DO_PROJETO/02_SERIES/REFERENCIAS_VISUAIS/RUA7_LOCK_VISUAL_APROVADO_2026_11_12.md) e usar as quatro referências de imagem indicadas ali **como insumo visual real**. Esse lock prevalece para rostos, roupas, proporções, cenário e estilo sobre descrições antigas provisórias. Rejeitar renderizações hiper-realistas/redesigns; preservar as aparências e o CGI 3D estilizado das referências aprovadas. Flow/YouTube Create: prompts de **até 899 caracteres**, 9:16, atuação dramática específica, preferir um falante por clipe, voz nativa PT-BR, emoção facial/corporal e QA de lágrimas em movimento quando houver. Não declarar que referências privadas estão disponíveis no GitHub; apenas seu manifesto textual e hashes.
+
 **Conflitos históricos:** padaria era set da Bíblia inicial; mercadinho + praça é preferência posterior, sem aprovação final. Arcos da carta e do benfeitor anônimo são propostas distintas, não cânone.
