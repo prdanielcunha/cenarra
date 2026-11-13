@@ -1,6 +1,13 @@
 # Estado atual e pendências — fonte da verdade
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
+
+## Aprovação visual e travamento de continuidade — 12/11/2026
+- **APROVADO PELO RESPONSÁVEL:** quatro imagens originais reenviadas em conversa em 12/11 passaram a ser as referências-mestras para **o estilo e as identidades visuais de O Segredo da Rua 7**. Padrão: CGI 3D estilizado de novelinha, expressões adultas intensas, mercadinho dourado, Mara tomate de vinho/grafite, Nilo laranja com folha verde, barba curta grisalha e avental azul-marinho, Beto brócolis com cáqui sem avental.
+- **REJEITADO EXPRESSAMENTE:** redesigns hiper-realistas de Nilo e outras variações geradas nesta conversa; dramatização não autoriza trocar rosto, roupas, proporções, cenário ou linguagem visual.
+- **DOCUMENTADO COM EVIDÊNCIA:** [Lock visual aprovado 12/11](../02_SERIES/REFERENCIAS_VISUAIS/RUA7_LOCK_VISUAL_APROVADO_2026_11_12.md) contém manifestação das 4 referências enviadas, identificadores e SHA-256, regras de expressão/câmera, geografia e QA, e exigência de prompt **≤ 899 caracteres** para Flow/YouTube Create. Esta aprovação visual substitui os status históricos de “aprovação visual pendente” no assunto específico; os registros antigos abaixo são histórico, não status vigente.
+- **PENDENTE:** armazenamento externo persistente e recuperação futura dos bytes das quatro imagens; validar por imagem a saída de cada geração, movimento real das lágrimas, voz PT-BR, sincronismo e direitos comerciais. **PROPOSTA, NÃO CÂNONE:** continuação E03 com confissão de Nilo sobre ter assinado sozinho. Nenhum vídeo E03 foi aprovado nem publicação realizada por esta atualização.
+
 ## Diretriz de continuidade editorial — 11/11/2026
 
 - **DECIDIDO (revisão posterior às recomendações de 09/11):** as duas vagas iniciais de terça e sexta **às 20h** são dedicadas à continuidade dos capítulos de **O Segredo da Rua 7**; próximo alvo é **sexta 13/11, episódio 2**, condicionado ao QA e à finalização.
