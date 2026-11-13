@@ -13,6 +13,11 @@
 - **DOCUMENTADO COM EVIDÊNCIA:** [Lock visual aprovado 12/11](../02_SERIES/REFERENCIAS_VISUAIS/RUA7_LOCK_VISUAL_APROVADO_2026_11_12.md) contém manifestação das 4 referências enviadas, identificadores e SHA-256, regras de expressão/câmera, geografia e QA, e exigência de prompt **≤ 899 caracteres** para Flow/YouTube Create. Esta aprovação visual substitui os status históricos de “aprovação visual pendente” no assunto específico; os registros antigos abaixo são histórico, não status vigente.
 - **PENDENTE:** armazenamento externo persistente e recuperação futura dos bytes das quatro imagens; validar por imagem a saída de cada geração, movimento real das lágrimas, voz PT-BR, sincronismo e direitos comerciais. **PROPOSTA, NÃO CÂNONE:** continuação E03 com confissão de Nilo sobre ter assinado sozinho. Nenhum vídeo E03 foi aprovado nem publicação realizada por esta atualização.
 
+## Horário recomendado após comparação de estudos — 13/11/2026
+- **RECOMENDAÇÃO ATUAL (não publicação agendada):** Rua 7 **terça às 20h e sexta às 19h**, horário de Brasília, nas quatro plataformas. A proposta anterior de 20h nas sextas (registrada abaixo em 11/11) fica superada como orientação editorial. O responsável solicitou avaliação entre 19h e 20h; esta é a conclusão técnica, **não uma confirmação de agendamento**.
+- **MOTIVAÇÃO:** Buffer destaca sexta 19h entre os três melhores horários para Shorts; Nolyn mostra 19h acima de 20h na média de Instagram de marcas brasileiras, enquanto no TikTok brasileiro 20h se destaca. Nenhuma fonte prova benefício específico para o público da Cenarra. [Estudos e grade](../05_CRESCIMENTO/GRADE_EDITORIAL_RUA7_CONTINUIDADE_2026_11_11.md).
+- **PRÓXIMO ALVO:** episódio 2, sexta 13/11 às 19h **somente se aprovado e pronto**. Não declarar postagem nem reagendamento confirmado.
+
 ## Diretriz de continuidade editorial — 11/11/2026
 
 - **DECIDIDO (revisão posterior às recomendações de 09/11):** as duas vagas iniciais de terça e sexta **às 20h** são dedicadas à continuidade dos capítulos de **O Segredo da Rua 7**; próximo alvo é **sexta 13/11, episódio 2**, condicionado ao QA e à finalização.
