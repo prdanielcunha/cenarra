@@ -23,3 +23,10 @@ Atuação intensa com contraste: raiva, afeto, vergonha, alegria e choque. Lágr
 ## Estado
 Concluído: consulta ao histórico recuperado e documentos main; diagnóstico e proposta textual.
 Pendente: aprovação narrativa, confronto com último trecho efetivamente publicado se divergir dos documentos, imagens-mestras de cada tomada, prompts até 899 caracteres, geração e QA audiovisual. Nenhuma publicação ou geração de vídeo executada.
+
+## Revisão da abertura com o vídeo do E01 enviado pelo responsável
+Verificado visualmente: os últimos seis segundos do corte de 35,8 s terminam na praça, com Mara na banca à esquerda, clientes de costas e Nilo com uma sacola de papel na porta à direita, antes da cartela “CONTINUA...”. A indicação anterior de início no interior fica substituída para a tomada 01. O áudio final não foi confirmado. Usar o fotograma colorido de 00:31,85 como referência privada, sem cartela. Tomadas seguintes ainda devem ser adaptadas a essa geografia. Clipe proposto, não gerado.
+
+```text
+Vídeo 9:16, 8 s, CGI 3D de novela brasileira. Comece no quadro anexado. Preserve rostos, roupas, banca à esquerda, porta à direita e luz dourada. 0–2 s: Nilo aperta a sacola de papel na porta; ela amassa com um ruído seco. Ele ergue os olhos para Mara. Os clientes continuam voltados à banca, em silêncio. 2–6 s: a câmera se aproxima de Nilo até o close. Sobrancelhas tensas, olhos marejados, queixo tremendo. Nilo é o único a falar, em PT-BR nativo, voz grave e rouca, falhando em “prometi”: “Mara… eu não esqueci o que te prometi.” 6–8 s: fecha a boca, prende a respiração e sustenta o olhar para a esquerda. Só Nilo mexe os lábios. Som da praça baixa durante a fala. Sem texto, vozes extras ou mudança de figurino.
+```
