@@ -75,3 +75,10 @@ O responsável optou por aproveitar o clipe da cena 02 como está. Para os próx
 ```text
 Vídeo 9:16, 8 s, novela 3D. Use a imagem como primeiro quadro. Mesmo interior, luz e figurinos. Mara, tomate, fica à esquerda do lado dos clientes. Nilo, laranja, fica à direita atrás do balcão. A miniatura permanece imóvel. 0–2 s: Nilo hesita, a mão treme e ele desliza o papel antigo alguns centímetros na direção de Mara. Ouve-se o papel raspar na madeira. 2–6 s: Nilo ergue os olhos para Mara e diz em PT-BR nativo, voz grave e embargada: “Eu guardei. Todos esses anos.” Só Nilo mexe a boca. 6–8 s: ele cala. Mara encara o desenho, afrouxa os dedos e arregala levemente os olhos. Olhos só levemente úmidos, sem gotas ou rastros. Plano único, aproximação suave, sem humanos, texto ou falas extras.
 ```
+
+## Cena 03 revisada — quadro próprio do episódio 2
+A orientação do responsável é criar enquadramentos novos conforme a ação do capítulo, usando os cenários e personagens estabelecidos como referência de continuidade. A nova versão da cena 03 substitui o quadro frontal: câmera à altura do balcão, por trás do ombro de Mara, com Nilo, sua mão e o desenho em destaque. A ação e a fala permanecem. Quadro gerado e conferido. Vídeo pendente.
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Use o novo quadro. Câmera à altura do balcão, por trás do ombro de Mara, tomate desfocada à esquerda. Preserve o mercadinho, o caixa verde, a luz dourada e os figurinos. Nilo, laranja de avental azul-marinho, está atrás do balcão à direita. 0–2 s: seus dedos hesitam e deslizam o desenho alguns centímetros na direção de Mara. Som do papel na madeira. 2–6 s: Nilo ergue os olhos para ela e diz em PT-BR nativo, voz grave e embargada: “Eu guardei. Todos esses anos.” Só Nilo fala e mexe a boca. 6–8 s: fecha a boca, solta o papel e sustenta o olhar. Câmera fixa. Mara permanece de costas, miniatura imóvel. Sem lágrimas visíveis, humanos, texto ou cortes.
+```
