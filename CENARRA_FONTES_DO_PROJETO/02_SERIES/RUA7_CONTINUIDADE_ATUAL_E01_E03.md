@@ -35,3 +35,10 @@ A pesquisa de dramaturgia usou [A Próxima Vítima](https://memoriaglobo.globo.c
 ```text
 Vídeo 9:16, 8 s, novela 3D. Use a imagem da banca. Beto, brócolis de cáqui à esquerda. Lia, ameixa de verde-musgo à direita, segura o buquê. Preserve rostos, roupas e mercadinho ao fundo. Plano único com os dois. 0–2 s: Lia sorri e pergunta em PT-BR nativo: “Leva esse buquê pra mim?” Beto escuta de boca fechada. 2–5 s: Lia fecha a boca. Beto ergue uma sobrancelha e diz, firme, com um meio sorriso: “Levo. A entrega fica cinco reais.” Diga “reais” com entonação de afirmação. 5–8 s: Beto fecha a boca. Lia começa a sorrir, olha para a porta do mercadinho e trava. Os dedos apertam o papel do buquê. Beto percebe e segue o olhar dela. Som de praça e papel amassando. Sem falas extras, humanos ou texto.
 ```
+
+## E03 · Cena 03 — Só naquele dia
+O responsável relatou expressão insuficiente na cena 02. A nova imagem começa no auge do susto de Lia: olhos bem abertos, ombros recolhidos, papel do buquê preso entre os dedos. Mara chega com o esboço; Beto permanece atrás da banca e testemunha a conversa. O preço da entrega não foi aceito em cena. Lia admite que deu o recado, mas limita a fala ao dia em questão. Fica em aberto por que o recado chegou a Nilo com outro sentido. Quadro vertical gerado e conferido. Um clipe de 8 s, vídeo pendente.
+
+```text
+Novela 3D, 9:16, 8 s. Comece no quadro anexado. Beto à esquerda atrás da banca, Mara ao centro com o desenho, Lia à direita com o buquê. Preserve praça, rostos e roupas. 0–1 s: Lia encara o desenho, arregala os olhos, encolhe os ombros e esmaga o papel do buquê entre os dedos. 1–4 s: só Mara fala, com mágoa e firmeza: “Você disse pro Nilo que eu não queria ver ele?” 4–6,5 s: Mara fecha a boca. Só Lia responde, voz trêmula: “Naquele dia, Mara. Só naquele dia.” 6,5–8 s: Lia fecha a boca. Mara perde a firmeza no olhar. Beto, calado o tempo todo, vira o rosto para Lia. Aproximação curta sem cortar os rostos. PT-BR nativo, papel estalando, som da praça recua. Sem humanos, texto ou falas sobrepostas.
+```
