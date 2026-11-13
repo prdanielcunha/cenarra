@@ -19,3 +19,10 @@ Abertura de 8 s, quadro privado em 9:16. Usar um plano conjunto no mesmo lado do
 ```text
 Vídeo 9:16, 8 s, novela 3D. Use a imagem inicial. Mara tomate à esquerda e Nilo laranja à direita, juntos atrás do balcão. Mesmo mercadinho, figurinos, desenho e miniatura imóveis. 0–2 s: Nilo olha para baixo, engole seco, dedos tensos na madeira. Mara espera, sobrancelhas erguidas, boca fechada. 2–5 s: Nilo levanta os olhos e diz em PT-BR nativo, voz rouca, com uma pausa depois do nome: “Foi a Lia. Foi ela que me falou.” Só Nilo mexe a boca. 5–8 s: ele se cala. Mara trava por um instante, depois aperta a mandíbula, como se reconhecesse uma segunda traição. Nilo vê a reação e baixa os olhos. Câmera aproxima devagar com os dois visíveis. Respiração e som baixo da loja. Sem novas gotas, humanos, cortes ou texto.
 ```
+
+## E03 · Cena 02 — Quanto é a entrega?
+Corte do mercadinho para a banca na praça no mesmo fim de tarde. Beto fica atrás da banca com o pedido já separado. Lia fica do lado da freguesia com um buquê. Quadro gerado e conferido. Lia aparece como ameixa roxa adulta com folha verde, casaquinho verde-musgo, blusa creme e saia marrom. Figurino e rosto são a primeira referência candidata para continuidade. Na virada final ela olha para a porta, sem revelar quem viu. Próxima cena pode mostrar Mara chegando com o desenho. Clipe ainda pendente de geração.
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Comece no quadro anexado. Mesma banca listrada na praça, mercadinho ao fundo. Beto, brócolis de cáqui, à esquerda. Lia, ameixa de verde-musgo, à direita com o buquê. Mantenha os dois rostos visíveis. 0–2,5 s: só Lia fala em PT-BR nativo, com um sorriso: “Leva esse buquê pra mim?” Beto escuta de boca fechada. 2,5–5,5 s: só Beto fala, ergue uma sobrancelha, leve e firme: “Levo. Mas quanto é a entrega?” Lia fecha a boca. 5,5–8 s: Beto fecha a boca. Lia quase ri, olha para a porta do mercadinho e o sorriso some. Os dedos apertam o papel do buquê. Beto percebe e segue o olhar dela. Som baixo da praça e do papel. Plano único, sem humanos, texto ou falas sobrepostas.
+```
