@@ -46,3 +46,18 @@ Cena 02: corte direto do close de Nilo para a reação de Mara atrás da banca. 
 ```text
 Vídeo 9:16, 8 s, novela 3D. Comece na imagem anexada. Mesma banca, luz dourada e figurino. Mara é uma tomate vermelha adulta. Toda figura ao fundo é fruta ou legume antropomórfico. Zero humanos. Mara encara Nilo à direita, fora do quadro. 0–2 s: prende a respiração, os dedos pressionam a madeira e o queixo treme. 2–6 s: a câmera se aproxima devagar. Só Mara fala em PT-BR nativo, voz baixa que vacila em “mim” e endurece em “abriu”: “Esqueceu de mim. A loja você abriu.” 6–8 s: fecha a boca, não desvia o olhar. Uma lágrima se solta do olho e desce pela bochecha. Som da praça baixa na fala e volta no silêncio. Sem texto, falas extras ou cortes internos.
 ```
+
+## Correção de continuidade após avaliação do vídeo de 10 s
+O vídeo recebido da reação de Mara mostra a banca externa. O responsável pediu que a conversa aconteça no interior do mercadinho original, com Mara do lado dos clientes. O close externo de Nilo pertence à abertura. A reação com fala na banca fica substituída pela conversa no interior. A banca da praça e o mercadinho são dois lugares separados. Para tornar o deslocamento legível, fazer um plano curto na praça com Nilo recuando pela porta e Mara indo em direção à entrada. Cortar para a referência interior original REF_02, com Mara à esquerda, Nilo à direita e a miniatura sobre o balcão. A miniatura preserva a referência de abertura. O desenho antigo permanece reservado à cena seguinte. Prompts preparados. Gerações corrigidas pendentes.
+
+### Passagem pela praça
+
+```text
+Vídeo 9:16, 4 s, novela 3D. Use o plano geral original da praça como primeiro quadro. Preserve a fachada laranja, a portinha verde à direita e a banca listrada separada à esquerda. Nilo, laranja de avental azul-marinho, recua um passo para dentro da própria loja com a sacola. Mara, tomate de blazer vinho, sai pelo lado livre da banca, contorna o balcão dela e dá os primeiros passos pela praça em direção à porta de Nilo. Plano geral fixo, sem falas. Ouve-se papel e passos no piso. Todo figurante é fruta ou legume antropomórfico. Sem humanos, texto, fusão de cenários ou mudança de roupa.
+```
+
+### Conversa no mercadinho
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Use a referência original do interior como primeiro quadro. Mercadinho fechado por paredes, janela à esquerda, prateleiras ao fundo, caixa verde e balcão de madeira com a miniatura. Mara, tomate de vinho, à esquerda, EM FRENTE ao balcão, do lado dos clientes. Nilo, laranja de avental azul, à direita, ATRÁS do balcão. Ambos mantêm suas posições. 0–2 s: Mara finca os dedos na madeira e encara Nilo. 2–6 s: só Mara fala, PT-BR nativo, a voz falha em “mim” e endurece em “abriu”: “Esqueceu de mim. A loja você abriu.” Nilo escuta de boca fechada e baixa os olhos. 6–8 s: lágrima de Mara escorre e ela sustenta o olhar. Câmera firme, som baixo da loja. Elenco só de frutas e legumes. Sem humanos, banca externa, texto ou vozes extras.
+```
