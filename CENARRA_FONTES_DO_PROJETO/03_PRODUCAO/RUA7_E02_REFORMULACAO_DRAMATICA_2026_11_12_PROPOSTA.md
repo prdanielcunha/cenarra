@@ -103,3 +103,10 @@ O responsável observou que na cena 04 Mara termina ao lado de Nilo. Para seguir
 ```text
 Vídeo 9:16, 8 s, novela 3D. Use o quadro corrigido. Mara, tomate à esquerda, e Nilo, laranja à direita, começam juntos ATRÁS do balcão, do mesmo lado, como no clipe anterior. Preserve luz, roupas, desenho e miniatura. 0–3 s: Mara pressiona os dedos na madeira, encara Nilo e pergunta em PT-BR nativo, voz falhando: “Então por que deixou eu ir embora?” Nilo escuta de boca fechada. 3–7 s: só Nilo fala, rouco e assustado: “Eu fui atrás de você. Disseram que você não queria me ver.” Mara escuta de boca fechada. 7–8 s: Nilo se cala. Mara tira a mão do balcão e recua meio passo para trás, ainda no mesmo lado, olhos arregalados. Mantenha os dois no quadro. Som baixo da loja e respiração no silêncio. Sem trocar de lado, gotas, humanos ou texto.
 ```
+
+## Cena 06 — Quem te disse isso?
+O responsável gostou da cena anterior e pediu mais drama, lágrimas e expressão. Esta cena começa no fim do recuo, com Mara e Nilo ainda juntos atrás do balcão. O quadro inicial tem pálpebra úmida. Uma lágrima única e proporcional deve nascer e correr durante a animação. Nilo reage sem falar. O silêncio após a pergunta é o gancho proposto para fechar o episódio. Quadro gerado e conferido. Vídeo pendente de geração e avaliação.
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Use a imagem inicial. Mara, tomate à esquerda, e Nilo, laranja à direita, seguem juntos atrás do balcão. Mesmos objetos, luz e roupas. 0–2 s: Mara termina o recuo, arregala os olhos e tenta puxar o ar. Nilo endurece a mandíbula. 2–4 s: só Mara fala, PT-BR nativo, voz falha que ganha firmeza: “Quem te disse isso?” 4–8 s: Mara fecha a boca, o lábio inferior treme. Uma única lágrima minúscula, transparente, nasce na pálpebra e corre devagar pela bochecha em um fio fino, rente ao rosto. Nilo prende o ar e desvia os olhos, boca fechada. Aproximação lenta com os dois visíveis. Respiração e silêncio da loja. Corte final no olhar desviado. Sem gotas grandes, falas extras, humanos ou texto.
+```
