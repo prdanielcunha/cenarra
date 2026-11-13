@@ -37,3 +37,12 @@ Imagem vertical gerada como opção de primeiro quadro a partir do fotograma de 
 ```text
 Vídeo 9:16, 8 s, CGI 3D de novela brasileira. Use a imagem de Nilo na porta como primeiro quadro. Preserve rosto, barba, folha, roupa e luz dourada. Nilo olha para Mara à esquerda, fora de quadro. 0–2 s: os dedos apertam a sacola, o papel estala e Nilo engole seco. 2–6 s: aproximação suave. Queixo treme. Só Nilo fala, em português brasileiro nativo, com voz grave e rouca que falha em “prometi”: “Mara… eu não esqueci o que te prometi.” 6–8 s: fecha a boca e sustenta o olhar; uma lágrima sai da pálpebra inferior e escorre pela bochecha. Som da praça baixa na fala. Sem outros personagens, falas ou texto.
 ```
+
+## Regra de elenco e cena 02 na praça
+**Decidido pelo responsável:** em O Segredo da Rua 7, todos os habitantes, inclusive figurantes, são frutas ou legumes antropomórficos. Nenhum humano ou figura de cabeça humana. Preservar o elenco recorrente e os modelos aprovados. Mara é tomate, Nilo é laranja, Beto é brócolis. Beto volta ao quadro quando a ação pedir.
+
+Cena 02: corte direto do close de Nilo para a reação de Mara atrás da banca. Ela olha para a direita do quadro em direção à porta do mercadinho. Nilo e Beto ficam fora deste enquadramento. O balcão da tomada é o da banca ao ar livre. Plano proposto, vídeo pendente.
+
+```text
+Vídeo 9:16, 8 s, novela 3D. Comece na imagem anexada. Mesma banca, luz dourada e figurino. Mara é uma tomate vermelha adulta. Toda figura ao fundo é fruta ou legume antropomórfico. Zero humanos. Mara encara Nilo à direita, fora do quadro. 0–2 s: prende a respiração, os dedos pressionam a madeira e o queixo treme. 2–6 s: a câmera se aproxima devagar. Só Mara fala em PT-BR nativo, voz baixa que vacila em “mim” e endurece em “abriu”: “Esqueceu de mim. A loja você abriu.” 6–8 s: fecha a boca, não desvia o olhar. Uma lágrima se solta do olho e desce pela bochecha. Som da praça baixa na fala e volta no silêncio. Sem texto, falas extras ou cortes internos.
+```
