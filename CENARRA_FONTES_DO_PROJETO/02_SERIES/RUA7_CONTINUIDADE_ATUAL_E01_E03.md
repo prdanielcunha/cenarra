@@ -63,3 +63,6 @@ Mara, que foi quem deixou a Rua 7, pergunta por que Lia mudou o recado. Nesta pr
 ```text
 Novela 3D, 9:16, 8 s. Comece no quadro anexado. Mesma praça, luz e roupas. Beto à esquerda atrás da banca, Mara ao centro com o desenho, Lia à direita com o buquê. 0–2 s: só Mara fala, olhos fixos em Lia, voz ferida: “Por que você fez isso?” 2–6,5 s: Mara fecha a boca. Lia aperta o buquê, tenta sustentar o olhar e responde: “Eu tinha medo de perder você. E perdi do mesmo jeito.” Pausa entre as frases, voz quebra em “perdi”. 6,5–8 s: Lia fecha a boca. Mara baixa o desenho, o queixo treme e ela vira o rosto. Beto aperta a borda da banca, calado. Uma lágrima fina já no rosto de Lia avança rente à bochecha. Vozes em PT-BR nativo, som da praça baixo. Plano único. Sem humanos, texto ou sobreposição de falas.
 ```
+
+## E03 · Aviso durante a geração
+Em 13/11 o responsável relatou duas tentativas com o aviso de figuras famosas, após receber a cena 05. A captura não identifica a causa nem confirma qual prompt foi usado. Os personagens da Rua 7 são fictícios. A opção de usar o quadro original em Vídeo → Frames no Flow foi preparada, sem geração verificada. Preservar a sequência vigente: na cena 04 Lia admite que disse a Nilo que Mara nunca mais queria vê-lo; na 05 explica seu medo de perder Mara.
