@@ -2,7 +2,8 @@
 
 - **Confirmado pelo responsável:** sexta-feira, 13/11/2026, às 19h de Brasília. Distribuição prevista no YouTube Shorts, TikTok, Instagram Reels e Página Cenarra no Facebook.
 - **Próximo capítulo planejado:** terça-feira, 17/11/2026, às 20h de Brasília.
-- **Preparado e conferido:** capa `CENARRA_Rua7_EP02_Capa.jpg`, 1080 × 1920, com quadro do próprio episódio por volta de 00:52. A data do próximo capítulo vai nas legendas. A capa leva o título “10 anos depois” e a identificação da série e do episódio.
+- **Capa recomendada para o E02:** versão vertical “10 ANOS DEPOIS” com a identidade da capa do E01: nome da série e número no topo, lettering em creme e dourado com contorno vinho, enquadramento com Mara e Nilo e desenho no balcão. Capa criada a partir da referência do E01 e de um quadro do E02 por volta de 00:52. A versão anterior com tipografia serifada fica no histórico.
+- **Recomendação para as legendas:** informar o próximo capítulo ao final do texto. Para comunicar a grade recorrente, usar “Novos capítulos às terças, às 20h, e às sextas, às 19h (horário de Brasília)”. A capa fica sem data e horário.
 - **Verificação do arquivo recebido:** 64,47 s, 512 × 910, 30 fps, áudio AAC. Preferir exportação do projeto original em 1080 × 1920, 30 fps. Em YouTube Shorts com mais de um minuto, conferir a verificação de direitos autorais. Publicação e agendamento pendentes de confirmação.
 
 ## YouTube Shorts
