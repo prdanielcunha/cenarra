@@ -117,3 +117,10 @@ A pedido do responsável em 13/11, a passagem agora antecede a fala na porta. A 
 ```text
 Novela 3D, 9:16, 8 s. Comece na foto aberta da praça. Preserve rostos, roupas, luz dourada, banca à esquerda e porta verde à direita. 0–2 s: Nilo, laranja de avental azul, aperta a sacola e encara Mara na banca. Mara, tomate de vinho, percebe o olhar e fica séria. 2–6 s: Mara sai pela lateral da banca, contorna os caixotes e caminha pelo piso livre até a loja. A câmera acompanha suavemente para a direita, sem cortes. Nilo permanece no batente, seguindo Mara com os olhos. 6–8 s: Mara para a um passo dele, à esquerda do quadro. Nilo engole seco e aperta a sacola. Termine com os dois se olhando em silêncio. Passos, papel amassando, murmúrio da praça. Sem falas, humanos, texto ou mudança de cenário.
 ```
+
+## Abertura revisada — preservar o rosto de Nilo no deslocamento
+O responsável relatou que a geração anterior alterou o rosto e removeu o cavanhaque. A versão vigente usa plano geral fixo; apenas Mara percorre a praça, enquanto Nilo mantém a pose ao fundo. Usar o plano aberto como quadro inicial. Na montagem, cortar para o close original de Nilo quando Mara parar. A nova geração ainda não foi verificada.
+
+```text
+Novela 3D, vertical 9:16, 8 s. Use a foto aberta da praça. Plano geral fixo, sem zoom. Preserve banca, porta verde, luz e roupas. Mara, tomate de vinho, vê Nilo e sai pela lateral da banca. Ela contorna os caixotes e caminha pelo piso livre até ficar a um passo dele, à esquerda. Nilo fica imóvel no batente, pequeno ao fundo à direita, segurando a sacola com as duas mãos. Preserve o rosto exato de Nilo: laranja adulta, cavanhaque curto e bigode grisalhos, sobrancelhas grossas escuras, olhos castanhos e uma folha verde. Camisa bege e avental azul-marinho. Nilo não move a boca, não vira a cabeça nem se aproxima da câmera. Termine no instante em que Mara para. Som de passos e da praça. Sem falas, humanos, texto ou mudança de rosto.
+```
