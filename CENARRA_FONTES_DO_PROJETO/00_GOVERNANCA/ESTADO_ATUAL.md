@@ -2,6 +2,11 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## Rua 7 — Continuidade dos episódios 1 a 3
+- **DECIDIDO:** variar núcleos, elenco e cenários e preservar os locais, personagens e regras visuais já estabelecidos. Usar enquadramentos próprios e planos que mostrem a reação entre os personagens.
+- **CONCLUÍDO COM EVIDÊNCIA:** consolidada a [continuidade vigente](../02_SERIES/RUA7_CONTINUIDADE_ATUAL_E01_E03.md), incluindo as versões vigentes das cenas do E02 e o quadro final de posições. Histórico preservado.
+- **PROPOSTO:** E03 abre com a resposta de Nilo e muda para a praça com Beto. A confissão sobre assinatura registrada abaixo é uma alternativa histórica. Lia e Dália continuam em desenvolvimento. Quadro de abertura do E03 gerado em mídia privada. Geração do vídeo, montagem e publicação não verificadas.
+
 ## Aprovação visual e travamento de continuidade — 12/11/2026
 - **APROVADO PELO RESPONSÁVEL:** quatro imagens originais reenviadas em conversa em 12/11 passaram a ser as referências-mestras para **o estilo e as identidades visuais de O Segredo da Rua 7**. Padrão: CGI 3D estilizado de novelinha, expressões adultas intensas, mercadinho dourado, Mara tomate de vinho/grafite, Nilo laranja com folha verde, barba curta grisalha e avental azul-marinho, Beto brócolis com cáqui sem avental.
 - **REJEITADO EXPRESSAMENTE:** redesigns hiper-realistas de Nilo e outras variações geradas nesta conversa; dramatização não autoriza trocar rosto, roupas, proporções, cenário ou linguagem visual.
