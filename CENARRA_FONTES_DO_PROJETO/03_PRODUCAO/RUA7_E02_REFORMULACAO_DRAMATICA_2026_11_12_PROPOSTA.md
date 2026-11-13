@@ -30,3 +30,10 @@ Verificado visualmente: os últimos seis segundos do corte de 35,8 s terminam na
 ```text
 Vídeo 9:16, 8 s, CGI 3D de novela brasileira. Comece no quadro anexado. Preserve rostos, roupas, banca à esquerda, porta à direita e luz dourada. 0–2 s: Nilo aperta a sacola de papel na porta; ela amassa com um ruído seco. Ele ergue os olhos para Mara. Os clientes continuam voltados à banca, em silêncio. 2–6 s: a câmera se aproxima de Nilo até o close. Sobrancelhas tensas, olhos marejados, queixo tremendo. Nilo é o único a falar, em PT-BR nativo, voz grave e rouca, falhando em “prometi”: “Mara… eu não esqueci o que te prometi.” 6–8 s: fecha a boca, prende a respiração e sustenta o olhar para a esquerda. Só Nilo mexe os lábios. Som da praça baixa durante a fala. Sem texto, vozes extras ou mudança de figurino.
 ```
+
+## Quadro de abertura em close de Nilo
+Imagem vertical gerada como opção de primeiro quadro a partir do fotograma de 00:31,85 e das quatro referências aprovadas. Nilo segue na porta, de olho em Mara fora de quadro à esquerda. Sacola e mãos visíveis, olhos marejados. Na montagem, usar o plano geral do E01 apenas como breve raccord opcional. Usar o prompt abaixo com o novo close. A imagem é uma referência de produção, não um novo modelo aprovado de personagem. Vídeo pendente de geração e avaliação.
+
+```text
+Vídeo 9:16, 8 s, CGI 3D de novela brasileira. Use a imagem de Nilo na porta como primeiro quadro. Preserve rosto, barba, folha, roupa e luz dourada. Nilo olha para Mara à esquerda, fora de quadro. 0–2 s: os dedos apertam a sacola, o papel estala e Nilo engole seco. 2–6 s: aproximação suave. Queixo treme. Só Nilo fala, em português brasileiro nativo, com voz grave e rouca que falha em “prometi”: “Mara… eu não esqueci o que te prometi.” 6–8 s: fecha a boca e sustenta o olhar; uma lágrima sai da pálpebra inferior e escorre pela bochecha. Som da praça baixa na fala. Sem outros personagens, falas ou texto.
+```
