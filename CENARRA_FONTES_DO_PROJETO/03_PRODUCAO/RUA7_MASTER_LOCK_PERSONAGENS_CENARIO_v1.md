@@ -3,6 +3,9 @@
 **Status:** REFERÊNCIA VISUAL DE PRÉ-PRODUÇÃO DERIVADA DAS IMAGENS DO PRIMEIRO LOTE; APROVAÇÃO FINAL PENDENTE.  
 **Autoria e uso:** referências originais geradas no projeto. Os arquivos PNG mestre NÃO estão armazenados no repositório GitHub público; devem ser preservados no pacote de produção privado, em diretório permanente / drive. Este texto não substitui as imagens de referência.
 
+
+> **ATUALIZAÇÃO NORMATIVA 12/11/2026 — APROVADO:** o responsável aprovou quatro imagens originais como base visual obrigatória da Rua 7 e rejeitou as variantes hiper-realistas. Ver [RUA7_LOCK_VISUAL_APROVADO_2026_11_12.md](../02_SERIES/REFERENCIAS_VISUAIS/RUA7_LOCK_VISUAL_APROVADO_2026_11_12.md). Para visual, rosto, expressão, cenário, roupas e proporções, o novo documento e seus arquivos de referência prevalecem sobre este v1 histórico. O status “aprovação final pendente” no cabeçalho acima descreve apenas a situação em 06/11/2026. Não usar hiper-realismo. Usar imagens físicas e prompts de até 899 caracteres para Flow/YouTube Create.
+
 ## Regra inegociável
 Nunca alterar espécie, morfologia da cabeça, cor de pele/casca, folhas, textura, proporção geral, roupa-base, acessórios, voz ou ocupação de personagem de um plano para outro. Nunca introduzir uma fruta nova usando nome de personagem existente. Quando um gerador trocar personagem, rosto ou objeto, **REJEITAR** a imagem, nunca tratar como um `re-design` válido. Não pedir storyboard em colagem ou com balões/legendas: imagens devem ser quadros **individualizados** em retrato 9:16, sem palavras.
 
