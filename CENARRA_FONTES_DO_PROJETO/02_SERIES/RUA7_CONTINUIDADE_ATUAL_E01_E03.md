@@ -56,3 +56,10 @@ O responsável confirmou a cronologia: Mara saiu da Rua 7 e retornou depois de d
 ```text
 Novela 3D, 9:16, 8 s. Use o quadro da cena 4. Mesma praça e figurinos. Mara ao centro segura o desenho, Lia à direita segura o buquê, Beto à esquerda observa. 0–2 s: Mara aperta o papel e pergunta, voz baixa e ferida: “E o que mais você disse?” 2–6 s: Mara cala. Lia aperta o buquê, engole seco e admite: “Eu disse que você nunca mais queria ver ele.” A voz falha em “nunca mais”. 6–8 s: Lia fecha a boca. Os ombros dela cedem. Uma lágrima pequena e transparente desce rente à bochecha. Mara recua, olhos arregalados. Beto franze a testa, calado. Som da praça baixa. Vozes naturais em português brasileiro. Só quem fala mexe a boca. Plano único com os três rostos visíveis. Sem humanos ou texto.
 ```
+
+## E03 · Cena 05 — Perdi do mesmo jeito
+Mara, que foi quem deixou a Rua 7, pergunta por que Lia mudou o recado. Nesta proposta, Lia admite que temia perder Mara, sua amiga. O medo explica a atitude sem desculpá-la. A próxima cena ainda pode esclarecer por que Lia via a reaproximação com Nilo como uma ameaça à amizade. Manter a praça, os três personagens, o desenho e o buquê. Quadro gerado e conferido. Um clipe de 8 s. Vídeo pendente de geração.
+
+```text
+Novela 3D, 9:16, 8 s. Comece no quadro anexado. Mesma praça, luz e roupas. Beto à esquerda atrás da banca, Mara ao centro com o desenho, Lia à direita com o buquê. 0–2 s: só Mara fala, olhos fixos em Lia, voz ferida: “Por que você fez isso?” 2–6,5 s: Mara fecha a boca. Lia aperta o buquê, tenta sustentar o olhar e responde: “Eu tinha medo de perder você. E perdi do mesmo jeito.” Pausa entre as frases, voz quebra em “perdi”. 6,5–8 s: Lia fecha a boca. Mara baixa o desenho, o queixo treme e ela vira o rosto. Beto aperta a borda da banca, calado. Uma lágrima fina já no rosto de Lia avança rente à bochecha. Vozes em PT-BR nativo, som da praça baixo. Plano único. Sem humanos, texto ou sobreposição de falas.
+```
