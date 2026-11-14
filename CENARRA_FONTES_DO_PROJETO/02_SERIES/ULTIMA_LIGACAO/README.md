@@ -11,7 +11,7 @@ Registro de 14/11/2026, consolidado a partir das decisões recuperadas da conver
 
 ## Começar ou retomar a produção
 
-O [guia de imagens, episódios e YouTube Create](GUIA_DE_PRODUCAO.md) reúne a direção visual, as referências de cada personagem, o ponto de retomada e o modelo de prompt. A tomada mais recente preparada é o contraplano de Rafael em E02 C02.
+O [guia de imagens, episódios e YouTube Create](GUIA_DE_PRODUCAO.md) reúne a direção visual, as referências de cada personagem, o ponto de retomada e o modelo de prompt. A tomada mais recente preparada é a reação de Clara em E02 C03.
 
 ## Consultar antes de produzir
 
@@ -43,6 +43,8 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 
 - [C01 — A pergunta de Clara](E02_C01_ABERTURA.md). Quadro inicial em três quartos e prompt preparados. Animação e emenda pendentes de verificação. Só Clara fala; Rafael está no corredor, fora de quadro.
 - [C02 — A resposta de Rafael](E02_C02_RESPOSTA.md). Quadro inicial e prompt preparados. Só Rafael fala; animação e emenda pendentes de verificação.
+
+- [C03 — Na minha porta?](E02_C03_NA_MINHA_PORTA.md). Quadro e prompt preparados. Só Clara fala; animação e emenda a verificar.
 
 ## Validação pendente
 
