@@ -2,6 +2,11 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## A Última Ligação — referências de produção em 14/11/2026
+- **DIREÇÃO ESCOLHIDA:** humanos adultos em animação 3D cinematográfica com estilização moderada. A [bíblia de continuidade v2](../02_SERIES/ULTIMA_LIGACAO/BIBLIA_DE_CONTINUIDADE.md) reúne quatro fichas, dois cenários, imagens e regras de prompt, continuidade e atuação.
+- **REFERÊNCIAS CRIADAS:** close 3D de Clara, elenco de corpo inteiro e prancha da sala 704 e do corredor. Consultar antes de cada geração junto com o roteiro vigente.
+- **PENDENTE EM VÍDEO:** validar a identidade em mudança de ângulo, atuação, vozes e interação. O roteiro de E01 e as hipóteses de trama seguem seu estado próprio.
+
 ## A Última Ligação — auditoria de direção em 14/11/2026
 - **ANÁLISE CONCLUÍDA:** [auditoria visual e narrativa](../02_SERIES/ULTIMA_LIGACAO_AUDITORIA_VISUAL_E_NARRATIVA_2026_11_14.md), com fontes, limites de acesso ao chat e comparação das referências. Quadro fotográfico bom; produção ainda não validada.
 - **RECOMENDAÇÃO EDITORIAL, NÃO APROVAÇÃO:** testar humanos adultos 3D semirrealistas cinematográficos, preservando candidata Clara e comparando uma cena com o fotorrealismo existente. Não altera lock de Rua 7 nem apaga a proposta v1. Não há evidência de estilo que garanta viralização.
