@@ -1,6 +1,12 @@
 # CENARRA — Grade-alvo de seis episódios por semana (2 por série)
 **Revisão: 14/11/2026 · Estado: DESEJO DO RESPONSÁVEL + PROPOSTA OPERACIONAL DE TESTE, NÃO AGENDAMENTO CONFIRMADO · Branch: main**
 
+## Ajuste de estreia confirmado pelo responsável — 14/11/2026
+
+- **DECIDIDO — janela-alvo de estreia:** **Bichos de Escritório E01 em segunda-feira, 16/11/2026, às 19h (Brasília)**, substituindo a exceção anterior de quarta 18/11. O responsável informa que já tem os clipes e falta editar. **Pendente**: master final, QA, direitos e publicação/agendamento; nenhum envio às redes foi realizado.
+- **GRADE-ALVO MANTIDA:** seg/qui Bichos, ter/sex Rua 7, qua/dom A Última Ligação; sábado livre. A confirmação dessa janela de estreia **não confirma automaticamente as demais datas, nem seis episódios prontos**. Quinta 19/11 Bichos E02 apenas se produzido e aprovado. A Última Ligação segue sem estreia definida.
+- **ACOMPANHAMENTO:** revisar qualidade e resultados em 48 horas e sete dias; a primeira edição de Bichos precisa de capa/título/legenda diferenciáveis e texto claro de episódio 1, sem prometer episódios futuros sem reserva.
+
 ## Solicitação e decisões preservadas
 - **OBJETIVO EXPRESSO DO RESPONSÁVEL:** dois episódios por semana de cada uma das três séries (O Segredo da Rua 7, Bichos de Escritório, A Última Ligação), intercalando os dias e com mínimo de trabalho adicional.
 - **DECIDIDO/MANTIDO:** somente vídeos originais, mesmo master adaptado às quatro redes; custo incremental R$ 0; capítulos de Rua 7 às terças 20h e sextas 19h; roteiro/continuidade/identidade/QA e direitos antes de publicar; evitar gestão diária.
@@ -26,8 +32,8 @@ Cada série recebe capítulos com 3 ou 4 dias de intervalo. Domingo às 20h **n�
 Fontes: https://support.google.com/flow/answer/16526234?hl=pt-BR ; https://support.google.com/youtube/answer/13616979?co=YOUTUBE._YTVideoType%3Dshorts&hl=en
 
 ## Rampa proposta com datas (sem anúncios ao público)
-**Semana de 16–22/11/2026:** preservar alvo Rua 7 E03 na terça 17/11 às 20h e E04 na sexta 20/11 às 19h, ambos condicionais à produção e QA. Fazer estreia-piloto Bichos E01 na **quarta, 18/11, 19h** (exceção de transição já documentada; só após editar, revisar e checar direitos). Não ocupar as demais vagas com vídeos não prontos ou versões pobres.
-**Após o piloto:** se Bichos E02 e E03 estiverem efetivamente prontos, migrar para segundas 19h e quintas 19h; primeira segunda possível é 23/11, condicionada, sem anunciar data antecipadamente.
+**Semana de 16–22/11/2026 — REVISTA em 14/11:** o responsável gostou da grade-alvo e **escolheu antecipar Bichos de Escritório E01 para segunda 16/11 às 19h (Brasília)**. Segundo o responsável, os clipes do episódio já estão gerados e faltam apenas edição e revisão; **não está publicado/agendado nem aprovado por QA**. Rua 7 E03 terça 17/11 às 20h e E04 sexta 20/11 às 19h permanecem metas condicionais. **Bichos E02 quinta 19/11 às 19h é apenas possível se estiver efetivamente pronto, revisado e com licença verificada**; não inventar status ou anunciar como garantido. Quarta/domingo seguem reservados apenas na grade-alvo para A Última Ligação, sem vídeos finalizados. Não publicar vídeos ruins ou ocupar vagas com preenchimento.
+**Após a estreia de segunda:** manter as janelas de segunda 19h e quinta 19h como **meta de frequência para Bichos**, mas a quinta só ocorre se E02 estiver editado, validado e com direitos verificados. A partir da semana seguinte, continuar apenas se existir produção sustentável; não anunciar dois episódios semanais de Bichos antes de comprovar capacidade.
 **A Última Ligação:** desenvolver piloto, personagens, set e ao menos dois episódios com continuidade e QA, só então reservar quarta 19h e domingo 20h e anunciar estreias. Não indicar estreia calendarizada hoje.
 **Gatilho para 6 por semana:** em pelo menos duas semanas consecutivas cumprir quatro ou mais vídeos sem prejuízo de qualidade, ter dois episódios de cada série em condições de agendamento (idealmente pelo menos um de reserva por série), verificar licenças das ferramentas, demanda de retrabalho e capacidade de geração; publicar 6 apenas se isso for sustentável. O número é objetivo, não obrigação.
 
