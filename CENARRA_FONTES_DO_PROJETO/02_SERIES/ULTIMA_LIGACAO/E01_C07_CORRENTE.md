@@ -2,11 +2,11 @@
 
 **Estado:** prompt preparado para teste no YouTube Create. Clipe de 10 s conforme duração observada neste fluxo.
 
-**Quadro de abertura:** Clara do lado de dentro do 704, mão esquerda na maçaneta, celular abaixado na mão direita. A porta de nogueira está fechada, com a corrente presa. Se o vídeo da C06 terminou com essa posição, é possível usar o último quadro válido do clipe para continuar o movimento. Para Rafael, consultar a C04 e a [prancha do elenco](REFERENCIAS/ELENCO_CORPO_INTEIRO.png), segundo personagem da esquerda.
+**Quadro de abertura revisado:** Clara está dentro do 704, mão esquerda na maçaneta e celular abaixado na direita. A folha de nogueira já está alguns centímetros entreaberta, com a corrente presa. Um olho, parte do rosto e da jaqueta de Rafael aparecem pela fresta, do lado do corredor. O quadro inclui as duas identidades desde o início da geração. A imagem anterior, com a porta fechada, serve como quadro de transição da C06. Usar a [prancha do elenco](REFERENCIAS/ELENCO_CORPO_INTEIRO.png) para conferir Rafael, segundo da esquerda.
 
-## Prompt · 826/900 caracteres
+## Prompt · 801/900 caracteres
 
-> 9:16, 10s, 3D adulto cinematográfico estilizado. Use o quadro inicial anexado. Clara: cabelo castanho ondulado, olhos castanhos, pinta na maçã esquerda, casaco vinho, blusa creme, joias douradas. Dentro do 704, celular preto abaixado na direita, mão esquerda na maçaneta. Porta de nogueira, luz âmbar e azul da chuva. 0–3s: prende o ar e puxa a porta para dentro até a corrente esticar com um estalo. 3–5s: pela fresta, surge Rafael no corredor: moreno, cachos pretos curtos, barba e bigode curtos, jaqueta azul-petróleo, camiseta grafite. 5–8s: Clara o encara, olhos molhados e voz PT-BR trêmula e firme: “Foi você que fez isso, Rafael?” Só a boca dela acompanha a fala. 8–10s: Rafael perde o fôlego, desvia os olhos por um instante e volta a encará-la calado. Porta só na fresta. Sem foto, telefone tocando, extras ou texto.
+> 9:16, 10s, 3D adulto cinematográfico estilizado. Use a imagem anexada. Clara dentro do 704: cabelo castanho ondulado, pinta na maçã esquerda, casaco vinho, blusa creme e joias douradas. Celular preto baixo na mão direita. Mão esquerda na maçaneta. Rafael já aparece parcialmente pela fresta, no corredor: moreno, cachos pretos curtos, barba e bigode curtos, jaqueta azul-petróleo. 0–3s: Clara prende o ar e puxa a porta só mais alguns centímetros, até a corrente esticar com um estalo. 3–7s: encara Rafael, uma lágrima escorre, e pergunta em PT-BR, trêmula e firme: “Foi você que fez isso, Rafael?” Só Clara mexe os lábios. 7–10s: Rafael desvia o olhar brevemente e volta a encará-la em silêncio. Câmera estável. Porta entreaberta, corrente presa, luz âmbar e azul da chuva. Sem foto, extras ou texto.
 
 ## Continuidade
 
