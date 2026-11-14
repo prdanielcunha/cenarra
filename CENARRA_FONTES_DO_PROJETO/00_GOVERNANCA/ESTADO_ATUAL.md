@@ -2,6 +2,12 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## A Última Ligação — ponto de retomada em 14/11/2026
+- **DECIDIDO:** 3D adulto cinematográfico de estilização moderada com acabamento mais natural. [Guia de imagens, elenco, episódios e YouTube Create](../02_SERIES/ULTIMA_LIGACAO/GUIA_DE_PRODUCAO.md).
+- **E01:** a C11 termina com Rafael dizendo “Essa foto foi tirada ontem” no corredor. Quadro e prompt de encerramento preparados; montagem final e publicação não verificadas.
+- **E02 C01:** quadro corrigido e prompt registrados. Só Clara fala, dentro do 704; Rafael permanece fora de quadro no corredor. Clipe e emenda ainda pendentes de verificação.
+- **PRÓXIMA CENA PROPOSTA:** E02 C02 em contraplano com Rafael visível, reagindo e respondendo. Fala e pista seguintes em desenvolvimento.
+
 ## A Última Ligação — referências de produção em 14/11/2026
 - **CONSOLIDADO:** [índice de produção da série](../02_SERIES/ULTIMA_LIGACAO/README.md) reúne escolhas recuperadas da conversa, as fontes vigentes e as validações pendentes.
 - **DIREÇÃO ESCOLHIDA:** humanos adultos em animação 3D cinematográfica com estilização moderada. A [bíblia de continuidade v2](../02_SERIES/ULTIMA_LIGACAO/BIBLIA_DE_CONTINUIDADE.md) reúne quatro fichas, dois cenários, imagens e regras de prompt, continuidade e atuação.

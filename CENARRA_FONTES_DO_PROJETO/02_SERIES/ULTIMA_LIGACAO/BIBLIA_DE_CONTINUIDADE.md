@@ -2,6 +2,8 @@
 
 Direção de produção escolhida em 14/11/2026: personagens humanos adultos em animação 3D cinematográfica, com estilização moderada. Este documento rege a aparência, a encenação e os prompts da série. A [bíblia narrativa v1](../ULTIMA_LIGACAO_BIBLIA_E01_v1_PROPOSTA_2026_11_14.md) conserva o roteiro e as hipóteses de trama. As fichas novas são especificações de trabalho. A validação de voz e movimento será feita nos clipes.
 
+O [guia de produção](GUIA_DE_PRODUCAO.md) consolida a aplicação visual por tomada, o progresso de E01/E02 e o padrão de 10 segundos do YouTube Create. O exemplo de 7 segundos abaixo descreve um teste de atuação e não substitui os 10 segundos de geração observados nesse fluxo.
+
 ## Estilo da série
 
 Volumetria 3D com planos do rosto esculpidos, proporções adultas, olhos castanhos de tamanho moderadamente estilizado, pele fosca com textura fina, mechas modeladas e tecidos com trama visível. Preservar idade, assimetrias e silhueta. Sem aparência fotográfica, proporções infantis, pele plástica, maquiagem de editorial ou olhos desproporcionais. Formato vertical 9:16, rosto legível na tela pequena, profundidade de campo graduada, luz azul de chuva e âmbar nos interiores noturnos. A luz deve deixar olhos, boca e gesto principal legíveis. Usar closes para reações e planos médios para estabelecer postura, objetos e distância entre pessoas. Evitar câmera que orbita personagens durante falas. Os lugares têm escala e materialidade de um prédio residencial brasileiro.

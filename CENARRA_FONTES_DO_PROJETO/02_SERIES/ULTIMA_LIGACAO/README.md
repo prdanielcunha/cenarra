@@ -9,6 +9,10 @@ Registro de 14/11/2026, consolidado a partir das decisões recuperadas da conver
 - **Continuidade em toda geração:** usar as imagens de referência e repetir no prompt os traços reconhecíveis de cada personagem em quadro, corpo, figurino, acessórios e estado dos objetos, além da geografia e da luz do cenário. Em continuação direta, usar o último quadro válido para herdar posição, gesto e estado emocional.
 - **Atuação:** emoção intensa e legível no rosto, na voz e no corpo. Especificar reação inicial, mudança e ápice por tomada, incluindo olhar, respiração e gesto. Em cenas de escuta, atuação silenciosa. Nas falas, apenas o falante move os lábios. Quando a cena pedir choro, conferir a trajetória da lágrima em movimento.
 
+## Começar ou retomar a produção
+
+O [guia de imagens, episódios e YouTube Create](GUIA_DE_PRODUCAO.md) reúne a direção visual, as referências de cada personagem, o ponto de retomada e o modelo de prompt. O próximo plano a preparar é o contraplano de Rafael em E02 C02.
+
 ## Consultar antes de produzir
 
 | Material | Uso | Estado |
@@ -34,6 +38,11 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 - [C10 — Clara reconhece o casaco](E01_C10_RECONHECIMENTO.md). Quadro inicial e prompt preparados para geração.
 - [C11 — Rafael revela a data da foto](E01_C11_ONTEM.md). Quadro inicial e prompt do encerramento preparados para geração.
 - Neste fluxo, o YouTube Create entrega clipes de 10 s, conforme observado pelo responsável. Os tempos do storyboard são de montagem. Ajustar a duração final do episódio no corte.
+
+## Episódio 2
+
+- [C01 — A pergunta de Clara](E02_C01_ABERTURA.md). Quadro inicial em três quartos e prompt preparados. Animação e emenda pendentes de verificação. Só Clara fala; Rafael está no corredor, fora de quadro.
+- C02 — próximo plano proposto. Rafael visível no corredor para reagir e responder; ver o [ponto de retomada](GUIA_DE_PRODUCAO.md#ponto-de-retomada).
 
 ## Validação pendente
 
