@@ -26,6 +26,8 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 
 - [C01 — quadro inicial e prompts para Flow e YouTube Create](E01_C01_ABERTURA.md). O clipe segue em teste.
 
+- [C06 — aviso de Helena e transição para a fechadura](E01_C06_AVISO.md). Prompt preparado para teste no YouTube Create.
+
 ## Validação pendente
 
 Validar identidade neutra e em perfil, conversa PT-BR, voz de Helena em off, mãos com telefone e fotografia, lágrima em movimento, escala entre personagens e geografia da porta em contraplano. As hipóteses de mistério e as correções do roteiro seguem em revisão. A escolha do estilo e as imagens estáticas ainda precisam passar pelo teste de animação.
