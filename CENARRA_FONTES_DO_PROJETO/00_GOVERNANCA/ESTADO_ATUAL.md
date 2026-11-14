@@ -2,6 +2,12 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## Estreia de Bichos antecipada — decisão de 14/11/2026
+- **ESCOLHIDO PELO RESPONSÁVEL:** tentar publicar **Bichos de Escritório episódio 1, segunda 16/11/2026 às 19h (Brasília)**, no dia da própria grade-alvo. Relato: clipes já gerados, falta editar. **NÃO EXECUTADO:** edição final, revisão de continuidade/voz/capa/direitos, agendamento e publicação não verificados.
+- **SUBSTITUI A DATA TRANSITÓRIA DE 18/11** registrada no plano anterior. **Quinta 19/11 às 19h, Bichos E02: SOMENTE SE PRODUZIDO/APROVADO.** Rua 7 permanece terça 20h e sexta 19h, capítulos futuros dependem de disponibilidade e QA. A Última Ligação ainda sem episódio pronto ou estreia marcada.
+- **FONTE:** [Grade-alvo 14/11 revisada](../05_CRESCIMENTO/GRADE_ALVO_6_EPISODIOS_SEMANAIS_2026_11_14.md). Objetivo de seis episódios semanais permanece condicional à capacidade comprovada.
+
+
 ## Grade-alvo de duas publicações por série (14/11/2026)
 
 - **OBJETIVO EXPRESSO PELO RESPONSÁVEL:** publicar **dois episódios por semana de cada série** (Rua 7, Bichos de Escritório, A Última Ligação), intercalados, com mínimo de operação manual.
