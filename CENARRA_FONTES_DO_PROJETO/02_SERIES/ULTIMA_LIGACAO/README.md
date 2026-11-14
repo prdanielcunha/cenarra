@@ -30,6 +30,7 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 
 - [C07 — Clara abre a porta com a corrente](E01_C07_CORRENTE.md). Clipe gerado segundo a pessoa responsável.
 - [C08 — resposta de Rafael e fotografia](E01_C08_FOTOGRAFIA.md). Quadro inicial e prompt preparados para geração.
+- [C09 — revelação da fotografia](E01_C09_REVELACAO.md). Quadro inicial e prompt preparados para geração.
 - Neste fluxo, o YouTube Create entrega clipes de 10 s, conforme observado pelo responsável. Os tempos do storyboard são de montagem. Ajustar a duração final do episódio no corte.
 
 ## Validação pendente
