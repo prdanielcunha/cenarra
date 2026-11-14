@@ -31,6 +31,10 @@ Estúdio digital independente de entretenimento e ficção original.
 - [Lock visual aprovado: quatro referências, rostos, figurinos, mercadinho, emoção e QA](CENARRA_FONTES_DO_PROJETO/02_SERIES/REFERENCIAS_VISUAIS/RUA7_LOCK_VISUAL_APROVADO_2026_11_12.md). **Obrigatório antes de toda geração** de imagem/vídeo da Rua 7.
 - Imagens originais permanecem em mídia privada; GitHub contém identificadores e hashes. As variantes hiper-realistas de Nilo estão rejeitadas como master.
 
+## A Última Ligação
+
+- [Referência de produção da série](CENARRA_FONTES_DO_PROJETO/02_SERIES/ULTIMA_LIGACAO/README.md), com decisões, bíblia de continuidade, imagens, roteiro de E01 e auditoria.
+
 ## Fonte operacional atual — v1.4
 
 - [Operação 100% vídeos e GitHub como fonte oficial](CENARRA_FONTES_DO_PROJETO/05_CRESCIMENTO/OPERACAO_ENXUTA_E_GITHUB_FONTE_OFICIAL_v1_4.md)

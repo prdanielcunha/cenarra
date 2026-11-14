@@ -3,6 +3,7 @@
 
 
 ## A Última Ligação — referências de produção em 14/11/2026
+- **CONSOLIDADO:** [índice de produção da série](../02_SERIES/ULTIMA_LIGACAO/README.md) reúne escolhas recuperadas da conversa, as fontes vigentes e as validações pendentes.
 - **DIREÇÃO ESCOLHIDA:** humanos adultos em animação 3D cinematográfica com estilização moderada. A [bíblia de continuidade v2](../02_SERIES/ULTIMA_LIGACAO/BIBLIA_DE_CONTINUIDADE.md) reúne quatro fichas, dois cenários, imagens e regras de prompt, continuidade e atuação.
 - **REFERÊNCIAS CRIADAS:** close 3D de Clara, elenco de corpo inteiro e prancha da sala 704 e do corredor. Consultar antes de cada geração junto com o roteiro vigente.
 - **PENDENTE EM VÍDEO:** validar a identidade em mudança de ângulo, atuação, vozes e interação. O roteiro de E01 e as hipóteses de trama seguem seu estado próprio.
