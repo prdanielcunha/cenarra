@@ -66,3 +66,10 @@ Novela 3D, 9:16, 8 s. Comece no quadro anexado. Mesma praça, luz e roupas. Beto
 
 ## E03 · Aviso durante a geração
 Em 13/11 o responsável relatou duas tentativas com o aviso de figuras famosas, após receber a cena 05. A captura não identifica a causa nem confirma qual prompt foi usado. Os personagens da Rua 7 são fictícios. A opção de usar o quadro original em Vídeo → Frames no Flow foi preparada, sem geração verificada. Preservar a sequência vigente: na cena 04 Lia admite que disse a Nilo que Mara nunca mais queria vê-lo; na 05 explica seu medo de perder Mara.
+
+## E03 · Cena 06 — Passos na praça
+Continuação da cena 05, após a confissão de Lia. Mara revela que, antes de sair da Rua 7, esperou que Nilo a procurasse. Isso continua compatível com a versão de Nilo de que ele tentou procurá-la. Beto escuta passos, avista Nilo fora do quadro e avisa Mara. Lia ouve em silêncio, com o mesmo buquê e um rastro de lágrima. A entrada de Nilo fica para a tomada seguinte. Quadro vertical gerado e conferido. Um clipe de 8 s. Vídeo pendente.
+
+```text
+Novela 3D, vertical 9:16, 8 s. Use o quadro inicial. Mesma praça, luz, rostos e roupas. Beto atrás da banca à esquerda, Mara ao centro com o desenho baixo, Lia à direita com o buquê. 0–4 s: só Mara fala em PT-BR natural, olhando o papel, com o queixo tremendo: “Antes de ir embora, eu esperei ele me procurar.” Lia ouve de boca fechada, os ombros cedem. 4–6 s: Mara fecha a boca. Passos soam fora do quadro. Beto se inclina, avista Nilo fora do quadro e diz, baixo e tenso: “Mara… é o Nilo.” Só Beto mexe a boca. 6–8 s: Beto se cala. Mara aperta o desenho e ergue o olhar para a porta, assustada. Lia prende a respiração. Plano único com os três visíveis. Nilo fica fora do quadro. Sem gotas novas, humanos ou texto.
+```
