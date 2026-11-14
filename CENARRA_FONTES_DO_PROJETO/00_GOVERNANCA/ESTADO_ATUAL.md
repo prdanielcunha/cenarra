@@ -6,7 +6,7 @@
 - **DECIDIDO:** 3D adulto cinematográfico de estilização moderada com acabamento mais natural. [Guia de imagens, elenco, episódios e YouTube Create](../02_SERIES/ULTIMA_LIGACAO/GUIA_DE_PRODUCAO.md).
 - **E01:** a C11 termina com Rafael dizendo “Essa foto foi tirada ontem” no corredor. Quadro e prompt de encerramento preparados; montagem final e publicação não verificadas.
 - **E02 C01:** quadro corrigido e prompt registrados. Só Clara fala, dentro do 704; Rafael permanece fora de quadro no corredor. Clipe e emenda ainda pendentes de verificação.
-- **PRÓXIMA CENA PROPOSTA:** E02 C02 em contraplano com Rafael visível, reagindo e respondendo. Fala e pista seguintes em desenvolvimento.
+- **E02 C02 PREPARADA:** [quadro e prompt do contraplano de Rafael](../02_SERIES/ULTIMA_LIGACAO/E02_C02_RESPOSTA.md). Clipe e emenda a verificar. A pista visual seguinte segue proposta.
 
 ## A Última Ligação — referências de produção em 14/11/2026
 - **CONSOLIDADO:** [índice de produção da série](../02_SERIES/ULTIMA_LIGACAO/README.md) reúne escolhas recuperadas da conversa, as fontes vigentes e as validações pendentes.
