@@ -1,6 +1,6 @@
 # A Última Ligação · E01 · Cena 06 — O aviso
 
-**Estado:** prompt preparado para teste. A pessoa responsável informou que usou o prompt da C05. O vídeo resultante e seu fotograma final ainda precisam de validação visual.
+**Estado:** clipe C06 gerado no YouTube Create, conforme relato da pessoa responsável. Resultado visual e quadro final ainda não inspecionados. O aplicativo exporta 10 s neste fluxo. O prompt abaixo é o registro usado na produção, com 7 s de ação planejada.
 
 **Referência inicial:** último quadro válido do vídeo da C05. Conferir a identidade da Clara com [o close de referência](REFERENCIAS/CLARA_LIGACAO_3D.png) e a geografia da sala 704 com [o painel esquerdo da prancha](REFERENCIAS/APARTAMENTO_704_E_CORREDOR.png).
 

@@ -28,6 +28,9 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 
 - [C06 — aviso de Helena e transição para a fechadura](E01_C06_AVISO.md). Prompt preparado para teste no YouTube Create.
 
+- [C07 — Clara abre a porta com a corrente](E01_C07_CORRENTE.md). Quadro inicial e prompt para teste no YouTube Create.
+- Neste fluxo, o YouTube Create entrega clipes de 10 s, conforme observado pelo responsável. Os tempos do storyboard são de montagem. Ajustar a duração final do episódio no corte.
+
 ## Validação pendente
 
 Validar identidade neutra e em perfil, conversa PT-BR, voz de Helena em off, mãos com telefone e fotografia, lágrima em movimento, escala entre personagens e geografia da porta em contraplano. As hipóteses de mistério e as correções do roteiro seguem em revisão. A escolha do estilo e as imagens estáticas ainda precisam passar pelo teste de animação.
