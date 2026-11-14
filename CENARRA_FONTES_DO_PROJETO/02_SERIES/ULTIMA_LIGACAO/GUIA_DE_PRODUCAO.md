@@ -38,6 +38,7 @@ Anexar os insumos visuais à geração. Use a [prancha de elenco](REFERENCIAS/EL
 | **E02 C02 — A resposta de Rafael** | Próximo plano proposto: Rafael visível no corredor, olhando para Clara à esquerda da tela, conforme o eixo de C01. Ele hesita e responde ou indica a origem da foto. | [Quadro e prompt preparados](E02_C02_RESPOSTA.md). Fala de trabalho. Clipe, voz e emenda ainda a verificar. |
 | **E02 C03 — Na minha porta?** | Clara olha a foto, desconfia que a mulher parou à sua porta e pergunta a Rafael. A hipótese fica aberta. | [Quadro e prompt preparados](E02_C03_NA_MINHA_PORTA.md). Clipe, voz e emenda a verificar. |
 | **E02 C04 — A chave** | Rafael afirma que a mulher parou no 704 e tirou uma chave do bolso. A origem e o uso da chave seguem em aberto. | [Quadro e prompt preparados](E02_C04_A_CHAVE.md). Fala de trabalho. Clipe e emenda a verificar. |
+| **E02 C05 — Me mostra** | Clara recua ao ouvir sobre a chave, se recompõe e pede para ver a gravação. | [Quadro e prompt preparados](E02_C05_ME_MOSTRA.md). Fala de trabalho. Clipe e emenda a verificar. |
 
 ### Próximos passos e proposta narrativa
 
