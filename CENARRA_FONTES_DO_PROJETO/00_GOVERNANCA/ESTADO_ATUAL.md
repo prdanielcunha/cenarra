@@ -2,6 +2,11 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## A Última Ligação — primeira pré-produção em 14/11/2026
+- **PROPOSTO, NÃO APROVADO:** preservadas Clara (31), Rafael (35), mãe Helena e apartamento/corredor da Bíblia histórica v0; desenvolvidos mistério central, elenco, sets candidatos e roteiro de 11 cenas / 74 segundos para E01 "A ligação impossível". Documento: [Bíblia e E01 v1 proposta](../02_SERIES/ULTIMA_LIGACAO_BIBLIA_E01_v1_PROPOSTA_2026_11_14.md).
+- **IMAGEM GERADA, NÃO APROVADA:** primeira imagem candidata de Clara com expressão de choque e choro, quadros privados 1080×1920 e derivação interpolada 2160×3840; hashes e descrição no documento. **Não publicada no GitHub público**; identidade, set e continuidade dependem de aprovação e teste em segunda tomada.
+- **PENDENTES:** validar protagonista/personagens/cenários, teste de animação, voz PT-BR e licença comercial, geração completa, edição, QA, publicação e horários. **Não há vídeo pronto, data de estreia ou receita confirmada.**
+
 ## Estreia de Bichos antecipada — decisão de 14/11/2026
 - **ESCOLHIDO PELO RESPONSÁVEL:** tentar publicar **Bichos de Escritório episódio 1, segunda 16/11/2026 às 19h (Brasília)**, no dia da própria grade-alvo. Relato: clipes já gerados, falta editar. **NÃO EXECUTADO:** edição final, revisão de continuidade/voz/capa/direitos, agendamento e publicação não verificados.
 - **SUBSTITUI A DATA TRANSITÓRIA DE 18/11** registrada no plano anterior. **Quinta 19/11 às 19h, Bichos E02: SOMENTE SE PRODUZIDO/APROVADO.** Rua 7 permanece terça 20h e sexta 19h, capítulos futuros dependem de disponibilidade e QA. A Última Ligação ainda sem episódio pronto ou estreia marcada.
