@@ -39,6 +39,7 @@ Anexar os insumos visuais à geração. Use a [prancha de elenco](REFERENCIAS/EL
 | **E02 C03 — Na minha porta?** | Clara olha a foto, desconfia que a mulher parou à sua porta e pergunta a Rafael. A hipótese fica aberta. | [Quadro e prompt preparados](E02_C03_NA_MINHA_PORTA.md). Clipe, voz e emenda a verificar. |
 | **E02 C04 — A chave** | Rafael afirma que a mulher parou no 704 e tirou uma chave do bolso. A origem e o uso da chave seguem em aberto. | [Quadro e prompt preparados](E02_C04_A_CHAVE.md). Fala de trabalho. Clipe e emenda a verificar. |
 | **E02 C05 — Me mostra** | Clara recua ao ouvir sobre a chave, se recompõe e pede para ver a gravação. | [Quadro e prompt preparados](E02_C05_ME_MOSTRA.md). Fala de trabalho. Clipe e emenda a verificar. |
+| **E02 C06 — Olha o que acontece depois** | Rafael confirma que tem a gravação e ergue seu celular. Clara permanece dentro do 704. | [Quadro e prompt preparados](E02_C06_A_GRAVACAO.md). Fala de trabalho. Clipe e emenda a verificar. |
 
 ### Próximos passos e proposta narrativa
 

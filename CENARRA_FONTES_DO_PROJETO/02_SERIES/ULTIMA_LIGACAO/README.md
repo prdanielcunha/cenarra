@@ -11,7 +11,7 @@ Registro de 14/11/2026, consolidado a partir das decisões recuperadas da conver
 
 ## Começar ou retomar a produção
 
-O [guia de imagens, episódios e YouTube Create](GUIA_DE_PRODUCAO.md) reúne a direção visual, as referências de cada personagem, o ponto de retomada e o modelo de prompt. A tomada mais recente preparada é a reação de Clara em E02 C05.
+O [guia de imagens, episódios e YouTube Create](GUIA_DE_PRODUCAO.md) reúne a direção visual, as referências de cada personagem, o ponto de retomada e o modelo de prompt. A tomada mais recente preparada é Rafael mostrando o celular em E02 C06.
 
 ## Consultar antes de produzir
 
@@ -49,6 +49,8 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 - [C04 — A chave](E02_C04_A_CHAVE.md). Quadro e prompt preparados. Só Rafael fala. A pista segue como relato dele; clipe e emenda a verificar.
 
 - [C05 — Me mostra](E02_C05_ME_MOSTRA.md). Quadro e prompt preparados. Clara exige ver a gravação; clipe e emenda a verificar.
+
+- [C06 — Olha o que acontece depois](E02_C06_A_GRAVACAO.md). Quadro e prompt preparados. Rafael prepara a gravação no celular; clipe e emenda a verificar.
 
 ## Validação pendente
 
