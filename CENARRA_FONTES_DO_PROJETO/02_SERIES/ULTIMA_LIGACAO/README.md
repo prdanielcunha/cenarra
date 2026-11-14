@@ -32,6 +32,7 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 - [C08 — resposta de Rafael e fotografia](E01_C08_FOTOGRAFIA.md). Quadro inicial e prompt preparados para geração.
 - [C09 — revelação da fotografia](E01_C09_REVELACAO.md). Quadro inicial e prompt preparados para geração.
 - [C10 — Clara reconhece o casaco](E01_C10_RECONHECIMENTO.md). Quadro inicial e prompt preparados para geração.
+- [C11 — Rafael revela a data da foto](E01_C11_ONTEM.md). Quadro inicial e prompt do encerramento preparados para geração.
 - Neste fluxo, o YouTube Create entrega clipes de 10 s, conforme observado pelo responsável. Os tempos do storyboard são de montagem. Ajustar a duração final do episódio no corte.
 
 ## Validação pendente
