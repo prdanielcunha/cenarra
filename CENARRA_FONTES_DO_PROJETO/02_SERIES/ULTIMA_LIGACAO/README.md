@@ -11,7 +11,7 @@ Registro de 14/11/2026, consolidado a partir das decisões recuperadas da conver
 
 ## Começar ou retomar a produção
 
-O [guia de imagens, episódios e YouTube Create](GUIA_DE_PRODUCAO.md) reúne a direção visual, as referências de cada personagem, o ponto de retomada e o modelo de prompt. A tomada mais recente preparada é a reação de Clara em E02 C08.
+O [guia de imagens, episódios e YouTube Create](GUIA_DE_PRODUCAO.md) reúne a direção visual, as referências de cada personagem, o ponto de retomada e o modelo de prompt. A tomada mais recente preparada é o gancho proposto de E02 C09.
 
 ## Consultar antes de produzir
 
@@ -55,6 +55,8 @@ O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo in
 - [C07 — A porta cede](E02_C07_A_PORTA_CEDE.md). Quadro e prompt preparados. Insert da gravação com a mulher de costas; clipe e emenda a verificar.
 
 - [C08 — Eu troquei a fechadura](E02_C08_FECHADURA.md). Quadro e prompt preparados. Clara reage à gravação; clipe e emenda a verificar.
+
+- [C09 — Agora há pouco](E02_C09_AGORA_HA_POUCO.md). Quadro e prompt preparados. Rafael distingue a foto da gravação; gancho de encerramento proposto, montagem a verificar.
 
 ## Validação pendente
 
