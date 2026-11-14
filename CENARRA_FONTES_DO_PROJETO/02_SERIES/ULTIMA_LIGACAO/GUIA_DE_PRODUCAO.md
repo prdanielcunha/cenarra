@@ -37,6 +37,7 @@ Anexar os insumos visuais à geração. Use a [prancha de elenco](REFERENCIAS/EL
 | **E02 C01 — A pergunta de Clara** | Retoma imediatamente depois da fala de Rafael. Somente Clara fala: “Minha mãe morreu há onze anos. Quem tirou essa foto, Rafael?”. Clara em três quartos dentro do 704, foto na mão esquerda. Rafael fora de quadro à direita. Porta e corrente fora do enquadramento. | Quadro inicial corrigido produzido e prompt registrado em [C01](E02_C01_ABERTURA.md). Referência da conversa: “Clara reage à foto de ontem.png”. Diálogo em roteiro de trabalho. Animação, voz e emenda com E01 pendentes de verificação. |
 | **E02 C02 — A resposta de Rafael** | Próximo plano proposto: Rafael visível no corredor, olhando para Clara à esquerda da tela, conforme o eixo de C01. Ele hesita e responde ou indica a origem da foto. | [Quadro e prompt preparados](E02_C02_RESPOSTA.md). Fala de trabalho. Clipe, voz e emenda ainda a verificar. |
 | **E02 C03 — Na minha porta?** | Clara olha a foto, desconfia que a mulher parou à sua porta e pergunta a Rafael. A hipótese fica aberta. | [Quadro e prompt preparados](E02_C03_NA_MINHA_PORTA.md). Clipe, voz e emenda a verificar. |
+| **E02 C04 — A chave** | Rafael afirma que a mulher parou no 704 e tirou uma chave do bolso. A origem e o uso da chave seguem em aberto. | [Quadro e prompt preparados](E02_C04_A_CHAVE.md). Fala de trabalho. Clipe e emenda a verificar. |
 
 ### Próximos passos e proposta narrativa
 
