@@ -2,6 +2,15 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## Grade-alvo de duas publicações por série (14/11/2026)
+
+- **OBJETIVO EXPRESSO PELO RESPONSÁVEL:** publicar **dois episódios por semana de cada série** (Rua 7, Bichos de Escritório, A Última Ligação), intercalados, com mínimo de operação manual.
+- **GRADE-ALVO PROPOSTA, AINDA NÃO IMPLEMENTADA:** segunda 19h Bichos; terça 20h Rua 7; quarta 19h A Última Ligação; quinta 19h Bichos; sexta 19h Rua 7; domingo 20h A Última Ligação; sábado sem publicação. Horário de Brasília. **6 masters inéditos = 24 publicações**, se capacidade demonstrada.
+- **VIABILIDADE NÃO COMPROVADA:** Flow gratuito apenas 50 créditos/dia, 10 por geração Veo Lite; máximo bruto ideal de 35 gerações de 8 s/semana, insuficiente para 6 episódios de 60s sem ferramentas complementares. Necessário QA e reserva antes de anunciar uma grade pública. Nenhum novo episódio, agendamento ou publicação confirmado por este documento.
+- **RAMP-UP (PROPOSTO):** semana 16–22/11 continuar Rua 7 terça/sexta e publicar somente Bichos E01 na quarta 18/11 às 19h se editado/aprovado; migrar Bichos para segunda/quinta somente quando houver capítulos suficientes; A Última Ligação sem data até ter pilotos e condições de produção. [Grade, estudos e critérios](../05_CRESCIMENTO/GRADE_ALVO_6_EPISODIOS_SEMANAIS_2026_11_14.md).
+- **HISTÓRICO:** os registros de 13/11 e anteriores abaixo são etapas anteriores, não promessa ativa de apenas duas ou três publicações para sempre. A meta ampliada é condicional.
+
+
 ## Direção editorial do canal Cenarra (13/11/2026)
 
 - **DEFINIDO:** Cenarra é a marca que reúne séries curtas originais de gêneros diferentes. Cada série tem seu próprio núcleo recorrente, com identidade visual, vozes, personalidades e relações consistentes. O protagonista pode variar por episódio. Participações entram quando o conflito pede.
