@@ -2,6 +2,11 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+## A Última Ligação — auditoria de direção em 14/11/2026
+- **ANÁLISE CONCLUÍDA:** [auditoria visual e narrativa](../02_SERIES/ULTIMA_LIGACAO_AUDITORIA_VISUAL_E_NARRATIVA_2026_11_14.md), com fontes, limites de acesso ao chat e comparação das referências. Quadro fotográfico bom; produção ainda não validada.
+- **RECOMENDAÇÃO EDITORIAL, NÃO APROVAÇÃO:** testar humanos adultos 3D semirrealistas cinematográficos, preservando candidata Clara e comparando uma cena com o fotorrealismo existente. Não altera lock de Rua 7 nem apaga a proposta v1. Não há evidência de estilo que garanta viralização.
+- **PENDENTES:** teste visual/atuação, coerência das pistas e motivações do E01, aprovação de masters. Nenhum novo vídeo, lançamento ou mudança de grade executado.
+
 ## A Última Ligação — primeira pré-produção em 14/11/2026
 - **PROPOSTO, NÃO APROVADO:** preservadas Clara (31), Rafael (35), mãe Helena e apartamento/corredor da Bíblia histórica v0; desenvolvidos mistério central, elenco, sets candidatos e roteiro de 11 cenas / 74 segundos para E01 "A ligação impossível". Documento: [Bíblia e E01 v1 proposta](../02_SERIES/ULTIMA_LIGACAO_BIBLIA_E01_v1_PROPOSTA_2026_11_14.md).
 - **IMAGEM GERADA, NÃO APROVADA:** primeira imagem candidata de Clara com expressão de choque e choro, quadros privados 1080×1920 e derivação interpolada 2160×3840; hashes e descrição no documento. **Não publicada no GitHub público**; identidade, set e continuidade dependem de aprovação e teste em segunda tomada.
