@@ -22,6 +22,10 @@ Registro de 14/11/2026, consolidado a partir das decisões recuperadas da conver
 
 O close rege o rosto de Clara e mostra o auge da reação. A prancha de corpo inteiro rege a silhueta e o figurino. A prancha de cenários e a ficha do 704 regem a geografia. Para abrir a ligação com progressão emocional, a primeira tomada precisa de um quadro de escuta com a mesma identidade antes da reação com lágrima.
 
+## Episódio 1
+
+- [C01 — quadro inicial e prompts para Flow e YouTube Create](E01_C01_ABERTURA.md). O clipe segue em teste.
+
 ## Validação pendente
 
 Validar identidade neutra e em perfil, conversa PT-BR, voz de Helena em off, mãos com telefone e fotografia, lágrima em movimento, escala entre personagens e geografia da porta em contraplano. As hipóteses de mistério e as correções do roteiro seguem em revisão. A escolha do estilo e as imagens estáticas ainda precisam passar pelo teste de animação.
