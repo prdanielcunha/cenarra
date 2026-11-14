@@ -2,14 +2,14 @@
 
 **Estado:** quadro inicial corrigido e conferido visualmente. Prompt preparado. Fala e pista de trabalho; animação e emenda ainda a verificar.
 
-Após “Ela... parou na minha porta?” em [C03](E02_C03_NA_MINHA_PORTA.md), cortar para Rafael no corredor. A câmera abre para um plano médio, mostrando o rosto e a mão tensa junto à coxa. Clara está dentro, fora de quadro à esquerda, com a foto na mão esquerda. A porta do 704 permanece entreaberta para dentro e sua fresta é visível no quadro corrigido, com luz fria do apartamento ao fundo. A corrente continua presa do lado de dentro, fora de quadro. A imagem corrigida na conversa substitui a que fazia a porta parecer fechada. Rafael fica no corredor e não toca na porta.
+Após “Ela... parou na minha porta?” em [C03](E02_C03_NA_MINHA_PORTA.md), cortar para um plano por cima do ombro de Clara. Ela está à esquerda, dentro do 704, com a foto na mão esquerda abaixo do enquadramento. Rafael está em foco à direita, no corredor, olhando para ela e falando baixo. A porta permanece entreaberta, com a corrente presa do lado de dentro, fora de quadro. Ambos ficam do mesmo lado da soleira em que já estavam, sem tocar na porta. O quadro corrigido da conversa substitui os takes isolados de Rafael.
 
 Rafael afirma que era a porta de Clara e que a mulher tirou uma chave do bolso. A imagem impressa de E01 C09 não comprova essas duas informações. A chave existe como informação da fala nesta tomada. Não confirmar de quem é, se abre a porta ou quem é a mulher. Próxima reação proposta: Clara pede para ver a gravação ou questiona de onde Rafael tirou a informação.
 
-## YouTube Create · 844 caracteres
+## YouTube Create · 782 caracteres
 
 ```text
-9:16, 10s. Use a imagem como primeiro quadro. 3D adulto cinematográfico, plano médio. Só Rafael no corredor do 704: cachos pretos, barba curta, jaqueta azul-petróleo e camiseta grafite. Clara fora de quadro à esquerda. 0–2s: ele firma os pés, contrai a mão junto à coxa e encara Clara com a testa tensa. 2–7s: só Rafael fala em PT-BR nativo, voz grave e baixa: “Na sua. E ela tirou uma chave do bolso.” Faça uma pausa após “Na sua” e pese a palavra “chave”. 7–10s: ele fecha a boca, solta o ar pelo nariz e sustenta o olhar. Leve avanço de câmera na revelação. Arandela âmbar, elevador desfocado e chuva abafada. Preserve rosto e roupa. Porta do 704 entreaberta e imóvel, com a mesma fresta. Corrente presa por dentro, fora de quadro. Rafael fica no corredor e não toca na porta. Sem chave em quadro, outras pessoas, música, legendas ou cortes.
+9:16, 10s. Use a imagem como primeiro quadro. 3D adulto cinematográfico. Plano por cima do ombro de Clara. À esquerda, Clara de costas, cabelo ondulado e casaco vinho, dentro do 704. Rafael em foco no corredor, à direita, cachos pretos, barba curta, jaqueta azul-petróleo. Porta entreaberta e imóvel; corrente presa por dentro, fora de quadro. 0–2s: Rafael encara Clara, prende o ar e tensiona o maxilar. 2–7s: só Rafael fala em PT-BR nativo, voz grave e baixa: “Na sua. E ela tirou uma chave do bolso.” Pausa após “Na sua”; dê peso a “chave”. 7–10s: Rafael fecha a boca e sustenta o olhar. Clara enrijece o ombro, calada, sem mover os lábios. Arandela âmbar, chuva abafada. Câmera fixa. Ninguém toca na porta. Preserve rostos e posições. Sem chave visível, música, texto ou cortes.
 ```
 
 Na edição, dar espaço à pausa depois de “Na sua” e cortar após o olhar final de Rafael ficar legível.
