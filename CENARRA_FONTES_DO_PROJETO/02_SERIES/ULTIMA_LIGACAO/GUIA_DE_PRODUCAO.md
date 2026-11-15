@@ -43,6 +43,7 @@ Anexar os insumos visuais à geração. Use a [prancha de elenco](REFERENCIAS/EL
 | **E02 C07 — A porta cede** | Na gravação, a mulher de casaco ferrugem usa a chave e a porta do 704 cede. Ela permanece fora e de costas. | [Quadro e prompt preparados](E02_C07_A_PORTA_CEDE.md). Revelação de trabalho. Clipe e emenda a verificar. |
 | **E02 C08 — Eu troquei a fechadura** | Clara vê a porta ceder no vídeo e revela que trocou a fechadura na semana anterior. | [Quadro e prompt preparados](E02_C08_FECHADURA.md). Fala de trabalho. Clipe e emenda a verificar. |
 | **E02 C09 — Agora há pouco** | Rafael distingue a foto de ontem do vídeo que ele afirma ser de poucos minutos atrás. | [Quadro e prompt preparados](E02_C09_AGORA_HA_POUCO.md). Gancho de encerramento proposto. Clipe e montagem a verificar. |
+| **E03 C01 — O som atrás dela** | No instante seguinte ao fim de E02, Clara fecha a porta do 704 por dentro e reage a um baque vindo da sala. | [Quadro e prompt preparados](E03_C01_O_SOM_ATRAS_DELA.md). Origem do ruído em aberto. Clipe e emenda a verificar. |
 
 ### Próximos passos e proposta narrativa
 
