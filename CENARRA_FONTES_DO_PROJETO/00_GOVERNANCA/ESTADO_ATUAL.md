@@ -2,6 +2,13 @@
 **Base registrada em 06/11/2026. Última revisão de produção em 08/11/2026.**
 
 
+
+## No Escritório — título definido em 15/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** o título público da série de animais no escritório é **No Escritório**. Os arquivos históricos usam Bichos de Escritório e os identificadores `BICHOS_P01`, `BICHOS_P02` e `BICHOS_P03`.
+- **TÍTULO DE TEMPORADA PROPOSTO:** **A Demissão que Ninguém Pediu**. A promoção por engano leva à carta de demissão que Téo reconhece pela assinatura, embora diga que nunca pediu para sair. O crachá, a segunda carta e a chave desenvolvem a intriga nos capítulos seguintes.
+- **EP. 01:** **Promoção por Engano**. A proposta de capa vertical traz Téo assustado com a carta em primeiro plano e o troféu na mesa. Chamada: **EU NÃO PEDI DEMISSÃO**. A montagem segue o [roteiro de oito clipes](../03_PRODUCAO/BICHOS_P01_MONTAGEM_60S_GANCHO_CARTA_PROPOSTA.md). Edição final e publicação não verificadas.
+
 ## A Última Ligação — ponto de retomada em 14/11/2026
 - **DECIDIDO:** 3D adulto cinematográfico de estilização moderada com acabamento mais natural. [Guia de imagens, elenco, episódios e YouTube Create](../02_SERIES/ULTIMA_LIGACAO/GUIA_DE_PRODUCAO.md).
 - **E01:** a C11 termina com Rafael dizendo “Essa foto foi tirada ontem” no corredor. Quadro e prompt de encerramento preparados; montagem final e publicação não verificadas.

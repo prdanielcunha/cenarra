@@ -9,7 +9,7 @@ Estúdio digital independente de entretenimento e ficção original.
 - **Marca-mãe:** Cenarra; o identificador `@cenarratv` é uma proposta e requer verificação diretamente nas plataformas.
 - **Canais previstos:** TikTok, YouTube, Instagram e uma Página do Facebook separada do perfil pessoal.
 - **Primeiro idioma:** português brasileiro. Preparação para adaptações futuras em espanhol e inglês.
-- **Formatos exploratórios:** `O Segredo da Rua 7` (frutas/legumes 3D), `Bichos de Escritório` (animais) e `A Última Ligação` (ficção humana sintética).
+- **Formatos exploratórios:** `O Segredo da Rua 7` (frutas/legumes 3D), `No Escritório` (animais, desenvolvida inicialmente como Bichos de Escritório) e `A Última Ligação` (ficção humana sintética).
 - **Método criativo:** universos fixos, lugares reconhecíveis, elenco recorrente, episódios compreensíveis individualmente e arcos de temporada.
 - **Laboratório de Histórias:** pesquisa de conflitos humanos e debates públicos para subsidiar **roteiros originais**, jamais reprodução disfarçada de relatos.
 - **Orçamento incremental:** R$ 0 na fase de teste. Licenças comerciais precisam ser verificadas.
