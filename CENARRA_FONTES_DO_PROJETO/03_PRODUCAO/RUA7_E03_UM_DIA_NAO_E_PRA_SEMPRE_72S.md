@@ -123,6 +123,10 @@ Prévia reprovada por divergência visual observada em captura: Mara apareceu co
 9:16, 10s. Use a imagem anexada como primeiro quadro. Plano único fixo, mesmo 3D, luz e banca à esquerda. Mara no centro: mesmas sépalas curvas, rosto, cílios, argolas, corrente dourada e blusa vinho de decote V com botões sob o blazer. Beto à esquerda atrás da banca: rosto largo e expressivo, olhos castanhos, copa densa e camisa cáqui com dois bolsos. Lia à direita com o mesmo buquê. 0–2s: Mara baixa o desenho aberto até a beirada da banca à sua esquerda. Preserve o desenho do toldo. 2–6s: sem mover os pés, encara Lia e só Mara fala em PT-BR: “Olha pra mim, Lia. Você mudou meu recado?” A voz ganha força e a mandíbula treme. 6–10s: Lia aperta o buquê e desvia os olhos; Beto reage só com as sobrancelhas. Ambos de boca fechada. Desenho fica no tampo. Sem zoom, cortes, troca de roupa ou redesenho.
 ```
 
+**Nova prévia reprovada — QA em 16/11/2026.** O export de 10 s já abre com Beto redesenhado como rosto de pele humana sob a copa e entre Mara e Lia. O desenho e o buquê estão presentes, mas a banca foi reposicionada para o primeiro plano; roupa, rosto e proporções também variam em relação às fotos de referência enviadas pelo responsável. A captura anterior e a revisão do texto não demonstraram fidelidade em vídeo. O prompt acima fica como histórico da tentativa; não repetir a geração do trio para esta entrega sem mudar a abordagem.
+
+**Montagem alternativa preparada e conferida visualmente.** Usa as duas fotos originais sem redesenhar personagens: abre no trio com o papel nas mãos de Mara, corta para o detalhe do desenho pousado e sustenta a reação de Lia durante a fala em áudio. O áudio do export é provisório e requer escuta de voz, frase e atuação. A montagem tem 10 s, vertical, com reenquadramentos das fotos. A C04 recebe o desenho sobre a madeira e o buquê nas mãos de Lia. Nenhuma publicação realizada; mídias mantidas privadas.
+
 ### C04 · Nunca mais
 
 715 caracteres.
