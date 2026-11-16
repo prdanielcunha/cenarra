@@ -17,11 +17,7 @@ Estúdio digital independente de entretenimento e ficção original.
 
 ## Como usar esta documentação
 
-1. Leia `AGENTS.md` para as regras gerais.
-2. Consulte `docs/00_GOVERNANCA/ESTADO_ATUAL.md` antes de afirmar qualquer avanço.
-3. Use as bíblias de séries em `docs/02_SERIES/` como documentos de trabalho, não roteiros aprovados.
-4. Consulte `docs/03_PRODUCAO/` antes de gerar, editar ou publicar conteúdo.
-5. Atualize a documentação e o registro de decisões na mesma tarefa em que houver mudança importante.
+Comece por [COMECE_AQUI.md](COMECE_AQUI.md) na branch `main`. O índice encaminha para a decisão vigente por assunto e contém o bloco de instruções para o Projeto Cenarra no ChatGPT. O registro de mudanças continua em [Estado atual](CENARRA_FONTES_DO_PROJETO/00_GOVERNANCA/ESTADO_ATUAL.md).
 
 **Aviso de segurança:** este repositório é público. Nunca publique senhas, códigos de recuperação, tokens, informações pessoais, arquivos de clientes ou documentos de identificação.
 

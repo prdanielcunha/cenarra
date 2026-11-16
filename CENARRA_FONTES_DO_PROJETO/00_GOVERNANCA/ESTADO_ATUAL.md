@@ -3,6 +3,11 @@
 
 
 
+## Consulta obrigatória ao GitHub em cada pedido — 16/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** consultar a versão atual da `main` antes de responder a pedidos da Cenarra. A [entrada oficial](../../COMECE_AQUI.md) aponta o arquivo vigente por assunto, descreve como comprovar a consulta e traz a instrução para o Projeto ChatGPT.
+- **ORIENTAÇÃO CONSOLIDADA:** um canal, seis inéditos de referência com dois por série e teste de um sábado depois que a grade estiver sustentável. Mesmo master nas redes. Roteiro com intriga clara, resolução no capítulo e nova curiosidade decorrente da solução. Método, resultados e propostas continuam nos documentos vinculados.
+
 ## Método de roteiro e retenção para todas as séries — 16/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** cada capítulo entrega a resposta que promete e abre uma nova curiosidade por consequência. Variar intriga, protagonista e tipo de virada sem perder continuidade. A regra vale para Rua 7, No Escritório, A Última Ligação e novas séries.
