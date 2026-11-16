@@ -89,76 +89,78 @@ Começar por C01 e C02 em par com o mesmo quadro de continuidade. Comparar a bar
 
 ## Pacote de produção para YouTube Create · 10 s por geração
 
-Versão de trabalho da refilmagem solicitada. As nove tomadas são geradas com 10 s e montadas com cerca de 8 s úteis cada. As falas C01/C02 explicitam o recado logo no mercadinho. A fala C05 explicita que Mara esperava que Nilo a procurasse. Emendas: o esboço sai do mercadinho na C02, entra na banca na C03, volta à mão de Mara na C07 e ao tampo na C09; o buquê sai das mãos de Lia na C06 e fica na ponta da banca. Cruzar o derradeiro plano do E02 com C01 antes da geração. A emenda foi orientada pelo roteiro de produção, com o master publicado do E02 pendente de conferência. Quadros de produção e mídia bruta ficam privados; clipes animados, montagem e publicação pendentes.
+Versão com emendas revisadas para os nove PNGs de produção, com nomes C01 a C09. Cada bloco usa uma imagem da tomada como referência principal, descreve a posição de arranque e termina com um estado para o corte seguinte. Os tempos são direção de atuação. Gerar 10 s e ajustar para aproximadamente 8 s úteis por tomada, com alvo de 72 s. Conservar as falas, a primeira reação e a continuidade de vozes e objetos. A [Central de Ajuda do YouTube](https://support.google.com/youtube/answer/16631240) documenta 9:16, clipes de até 10 s, limite de 900 caracteres e referências visuais. Usar o teto interno de 899 caracteres. Na primeira emenda, conferir o último quadro útil do E02 publicado com a C01. A emenda foi orientada pelo roteiro; o master publicado do E02 segue sem conferência direta. Os PNGs e clipes ficam privados. Vídeos, montagem e publicação pendentes.
 
-### C01 · O nome de Lia · 00–08 s
+O esboço sai do mercadinho na C02; entra na banca na C03; volta às mãos de Mara na C07 e ao tampo na C09. O buquê sai das mãos de Lia na C06 e fica na ponta da banca. Após o aceno de Beto na C07, Nilo chega do lado da porta na C08. Planos de novos ângulos usam o PNG de cada tomada, mantendo as posições, luz e estado dos objetos da continuidade. O pack anterior de prompts permanece recuperável no histórico do Git.
 
-Close de Nilo no mercadinho, com Mara à esquerda e o esboço sobre o balcão.
+### C01 · O nome de Lia
+
+728 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Comece na imagem, no mercadinho dourado. Nilo laranja à direita, barba grisalha curta, uma folha, bege e avental marinho. Mara tomate de vinho à esquerda. Esboço do toldo aberto, com uma dobra, imóvel no balcão. 0–4 s: só Nilo fala em PT-BR nativo, voz baixa e ferida, sem pausa inicial: “A Lia me disse que você nunca mais queria me ver.” Os dedos pressionam a madeira em “nunca mais”. 4–8 s: Mara trava, prende o ar e sustenta o olhar, lábios fechados. Nilo se cala e o maxilar enrijece. 8–10 s: segure a reação. Preserve rostos, figurinos e luz. Som baixo da loja, sem narrador, música, texto ou vozes extras.
+9:16, 10s. Imagem C01 como quadro inicial. 3D cinematográfico Rua 7, close fixo no mercadinho. Mara tomate de vinho à esquerda, de perfil. Nilo laranja à direita, folha única, barba grisalha, camisa bege e avental marinho. Mãos dele no balcão, desenho envelhecido aberto entre os dois. 0–4s: olhando Mara, só Nilo diz em PT-BR, grave e magoado: “A Lia me disse que você nunca mais queria me ver.” Os dedos pressionam a madeira em “nunca mais”. 4–8s: Nilo fecha a boca; o olhar de Mara trava e a respiração para por um instante. 8–10s: sustente os olhares e o desenho imóvel para o contraplano. Luz âmbar, som baixo da loja. Preserve rosto, roupa e lado de cada um. Só Nilo articula a fala. Sem cortes, narrador, música ou texto.
 ```
 
-### C02 · Naquele dia · 08–16 s
+### C02 · Naquele dia
 
-Contraplano de Mara, Nilo à direita e a mão dela junto ao desenho.
+734 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Mesmo balcão, luz dourada e eixo. Mara tomate de blazer vinho à esquerda. Nilo laranja à direita, com barba grisalha, folha única e avental marinho. 0–5 s: só Mara fala, PT-BR nativo: “Eu só disse que não queria te ver naquele dia, Nilo. Naquele dia.” A voz falha de susto e fica firme na repetição. Nilo ouve de boca fechada. 5–8 s: Mara cala, pega o canto do único esboço aberto e vira o tronco para sair com ele. Nilo acompanha só com os olhos. 8–10 s: sustente o gesto. Preserve rostos e roupas. Som de papel e loja, sem narração, música ou texto.
+9:16, 10s. Imagem C02 como quadro inicial. Contraplano fixo no mesmo balcão e luz âmbar. Mara tomate de vinho à esquerda, dedos junto ao papel; Nilo laranja de folha única, barba grisalha e avental marinho à direita, desfocado. Retome os olhares da C01. 0–5s: só Mara diz em PT-BR natural, a voz quase falha no começo e fica firme na repetição: “Eu só disse que não queria te ver naquele dia, Nilo. Naquele dia.” Nilo escuta com a boca fechada. 5–8s: Mara pinça o canto do mesmo desenho aberto, ergue a folha sem dobrá-la e começa a virar o tronco para sair. Nilo segue com os olhos. 8–10s: segure Mara já com o desenho nas mãos. Papel roçando e som baixo da loja. Preserve rostos, roupa e eixo. Sem cortes, narrador, música ou texto.
 ```
 
-### C03 · O confronto · 16–24 s
+### C03 · O confronto
 
-Mara chega com o desenho. Beto está atrás da banca à esquerda e Lia segura o buquê à direita.
+711 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Praça dourada, banca listrada à esquerda e porta verde do mercado ao fundo à direita. Beto brócolis de cáqui atrás da banca. Mara tomate de vinho chega pelo centro com o esboço. Lia ameixa de verde-musgo à direita, com um buquê kraft. 0–2 s: Mara pousa o esboço na madeira. 2–5 s: só Mara, PT-BR nativo, raiva contida: “Olha pra mim, Lia. Você mudou meu recado?” 5–8 s: Lia aperta o embrulho e desvia os olhos. Beto para e olha para Lia. Ambos escutam de boca fechada. 8–10 s: segure o silêncio. Preserve rostos, roupas e luz. Som leve de praça; sem narração, música ou texto.
+9:16, 10s. Imagem C03 como quadro inicial. Plano médio fixo na praça dourada. Mara tomate de vinho já está no centro, com o desenho nas duas mãos. Beto brócolis de cáqui atrás da banca à esquerda. Lia ameixa de verde-musgo à direita, buquê kraft nas mãos. Porta verde ao fundo à direita. 0–2s: Mara baixa o desenho até pousá-lo aberto no tampo. 2–5s: encara Lia; só Mara diz em PT-BR natural, com raiva contida: “Olha pra mim, Lia. Você mudou meu recado?” 5–8s: Lia aperta o embrulho e desvia os olhos; Beto olha para ela. Ambos ouvem de boca fechada. 8–10s: desenho imóvel na madeira, buquê ainda nas mãos de Lia. Preserve rostos, roupas, banca e luz. Som baixo da praça. Sem cortes, narrador, música ou texto.
 ```
 
-### C04 · Nunca mais · 24–32 s
+### C04 · Nunca mais
 
-Close de Lia com Mara de perfil e o desenho pousado na madeira.
+684 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Mesma banca e luz, close de Lia ameixa de verde-musgo à direita, Mara tomate de vinho em perfil na esquerda. Buquê kraft nas mãos de Lia e esboço no tampo. 0–5 s: Lia encontra os olhos de Mara e diz, só ela, em PT-BR nativo: “Mudei. Eu disse ‘nunca mais’. Sabia que ele ia parar de te procurar.” Pausa breve após “nunca mais”, voz quebrando no fim. 5–8 s: Lia fecha a boca e aperta o papel. Mara escuta calada, o queixo vacila e o olhar endurece. 8–10 s: segure o olhar. Preserve rostos e roupas. Som baixo da praça, sem narrador, música ou texto.
+9:16, 10s. Imagem C04 como quadro inicial. Close fixo de Lia ameixa de verde-musgo à direita, Mara tomate de vinho de perfil à esquerda. Desenho aberto no tampo; Lia ainda aperta o buquê. Luz dourada da mesma praça. 0–5s: Lia ergue os olhos para Mara; só Lia fala em PT-BR natural: “Mudei. Eu disse ‘nunca mais’. Sabia que ele ia parar de te procurar.” Pausa após “nunca mais”; a voz falha no fim. 5–8s: Lia cala. Mara prende o ar, o queixo treme e os olhos baixam para o desenho. 8–10s: mantenha o olhar de Mara no papel e o buquê nas mãos de Lia. Mara ouve de boca fechada. Preserve rostos, roupas e posições. Som baixo da praça e papel kraft. Sem cortes, narrador, música ou texto.
 ```
 
-### C05 · O que Mara perdeu · 32–40 s
+### C05 · O que Mara perdeu
 
-Mara tenta alisar a dobra, enquanto Lia ainda segura o buquê.
+710 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Mesmo lado da banca, luz dourada. Mara tomate de vinho e argolas douradas em foco; Lia ameixa de verde-musgo à direita, de perfil com o buquê. 0–1 s: Mara começa a alisar a dobra do esboço com o indicador. 1–6 s: só Mara fala, PT-BR nativo: “Eu esperei que ele me procurasse. Fui embora achando que ele tinha desistido de mim.” A voz embarga em “desistido”; o dedo para na dobra. Lia ouve calada, lábios fechados. 6–8 s: Mara ergue o olhar ferido para Lia. 8–10 s: segure a reação. Preserve rostos, roupas e objetos. Som baixo de praça, sem narrador, música ou texto.
+9:16, 10s. Imagem C05 como quadro inicial. Plano fechado fixo, mesma banca dourada. Mara tomate de vinho à esquerda, olhando o desenho aberto, indicador junto à dobra. Lia ameixa de verde-musgo à direita, desfocada, buquê nas mãos. 0–1s: Mara desliza o dedo sobre a dobra. 1–6s: só Mara fala em PT-BR natural: “Eu esperei que ele me procurasse. Fui embora achando que ele tinha desistido de mim.” O dedo para na dobra; a voz embarga em “desistido”. Lia escuta de boca fechada. 6–8s: Mara levanta o olhar para Lia e retira a mão do papel. 8–10s: sustente o contato visual, desenho no tampo e buquê ainda na mão de Lia. Preserve rostos, figurinos e luz. Som baixo da praça. Sem cortes, narrador, música ou texto.
 ```
 
-### C06 · O buquê · 40–48 s
+### C06 · O buquê
 
-Lia tenta oferecer as flores. Mara mantém as mãos junto ao corpo.
+697 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Mesma banca dourada. Lia ameixa de verde-musgo à direita e Mara tomate de vinho à esquerda. Esboço aberto no meio da madeira. 0–5 s: Lia aproxima o buquê sem tocar o papel e diz, só ela, PT-BR nativo, voz íntima de culpa: “Você era minha melhor amiga, Mara. Eu tive medo de te perder.” Mara escuta de boca fechada, sem estender as mãos. 5–8 s: Lia solta o buquê na ponta direita e recolhe as mãos. Os ombros cedem. Se sair uma lágrima pequena, ela desce rente à bochecha. 8–10 s: sustente o silêncio. Preserve rostos e luz. Sem narrador, música ou texto.
+9:16, 10s. Imagem C06 como quadro inicial. Plano a dois fixo. Mara tomate de vinho à esquerda encara Lia. Lia ameixa de verde-musgo à direita já tem o buquê estendido acima da madeira. Desenho aberto no meio do tampo. 0–5s: só Lia fala em PT-BR natural, voz baixa, culpada: “Você era minha melhor amiga, Mara. Eu tive medo de te perder.” Mara escuta de boca fechada, mãos junto ao corpo. 5–8s: ao perceber que Mara não estende a mão, Lia pousa o buquê na ponta direita, longe do desenho, solta o embrulho e baixa as mãos. Os ombros cedem. 8–10s: buquê imóvel, mãos vazias, Mara ainda olha Lia. Preserve rostos, roupas e luz. Papel kraft e som baixo da praça. Sem cortes, narrador, música ou texto.
 ```
 
-### C07 · Chama o Nilo · 48–56 s
+### C07 · Chama o Nilo
 
-Buquê na ponta, mão de Mara junto ao desenho e porta do mercado ao fundo.
+716 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Beto brócolis de cáqui atrás da banca à esquerda, Mara tomate de vinho no centro, Lia ameixa de verde-musgo à direita, mãos vazias. Porta verde ao fundo à direita. Buquê imóvel na ponta da madeira. 0–5 s: Mara recolhe o esboço. Só ela fala em PT-BR nativo, firme: “Beto, chama o Nilo. Eu mesma vou falar com ele.” Começa olhando Lia e então vira para Beto. 5–8 s: Beto acena para a porta, calado; Lia recua meio passo, boca fechada. 8–10 s: espere no aceno. Nilo fica fora de quadro. Preserve rostos, eixo e luz. Sem narrador, música ou texto.
+9:16, 10s. Imagem C07 como quadro inicial. Plano médio fixo. Beto brócolis de cáqui atrás da banca à esquerda; Mara tomate de vinho no centro, dedos no canto do desenho; Lia ameixa de verde-musgo à direita, mãos vazias. Buquê na ponta direita e porta verde ao fundo à direita. 0–5s: Mara recolhe a folha, diz a primeira frase ainda olhando Lia e vira os olhos para Beto. Só Mara fala em PT-BR natural, firme: “Beto, chama o Nilo. Eu mesma vou falar com ele.” 5–8s: Beto vira e acena uma vez para a porta. Lia recua meio passo. Ambos de boca fechada. 8–10s: segure o olhar de Beto na porta. Nilo fora do quadro. Desenho com Mara, flores no tampo. Preserve rostos, luz e cenário. Sem cortes, narrador, música ou texto.
 ```
 
-### C08 · Ele atravessa · 56–64 s
+### C08 · Ele atravessa
 
-Nilo chega pelo lado do mercado, e Mara o espera junto à banca.
+745 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Nilo laranja, barba grisalha, folha única, bege e avental marinho, vem da porta verde à direita. Banca à esquerda, Mara tomate de vinho com o esboço nas mãos e Beto brócolis de cáqui atrás. Buquê imóvel na ponta; Lia fora do quadro. 0–2 s: Nilo dá os últimos dois passos e para diante de Mara. 2–5 s: Nilo olha o desenho, encara Mara e fala, só ele, PT-BR nativo, baixo: “Eu devia ter perguntado pra você.” 5–8 s: Mara segura o olhar e relaxa os ombros; Mara e Beto mantêm a boca fechada. 8–10 s: sustente o silêncio. Mesmos rostos e luz. Passos e ambiência, sem narrador, música ou texto.
+9:16, 10s. Imagem C08 como quadro inicial. Plano médio fixo na praça. Nilo laranja de folha única, barba grisalha, camisa bege e avental marinho já vem da direita, com a porta verde atrás dele. Mara de vinho espera à esquerda com o desenho nas mãos. Beto de cáqui atrás da banca; buquê na ponta; Lia fora do quadro. 0–2s: Nilo completa dois passos e para diante de Mara. 2–5s: olha o papel, depois Mara; só ele diz em PT-BR, mesma voz grave da C01, agora arrependido: “Eu devia ter perguntado pra você.” 5–8s: Nilo fecha a boca. Mara segura o olhar, baixa um pouco o desenho e os ombros cedem. 8–10s: os dois ficam frente a frente; Mara e Beto calados. Preserve rostos, roupas e luz. Som de passos e praça. Sem cortes, narrador, música ou texto.
 ```
 
-### C09 · Às sete · 64–72 s
+### C09 · Às sete
 
-Mara e Nilo frente a frente, com o mercado atrás dele.
+733 caracteres.
 
 ```text
-Vídeo de 10 s, vertical 9:16, novela CGI 3D. Mara tomate de vinho à esquerda e Nilo laranja de barba grisalha, uma folha e avental marinho à direita. Mesma banca, buquê imóvel na ponta e porta verde visível atrás de Nilo. 0–6 s: Mara pousa o esboço e fala, só ela, PT-BR nativo: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” Firme na primeira frase, mais baixa na pergunta. 6–8 s: Mara fecha a boca. Nilo olha para a porta à direita e volta para ela, dividido, sem falar. 8–10 s: segure a dúvida para o corte. Preserve rostos e luz. Praça baixa, sem narrador, música ou texto.
+9:16, 10s. Imagem C09 como quadro inicial. Plano a dois fixo. Mara tomate de vinho à esquerda, mão no desenho junto ao tampo. Nilo laranja à direita, folha única, barba grisalha, bege e avental marinho. Porta verde atrás dele, buquê imóvel na ponta da banca. 0–6s: Mara assenta a folha na madeira e diz, só ela, em PT-BR natural: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” Firme no começo, voz mais baixa na pergunta. Nilo ouve de boca fechada. 6–8s: Mara cala. Nilo olha para a porta à direita e volta o olhar para ela, maxilar tenso. 8–10s: sustente a dúvida em silêncio, boca fechada. Preserve rostos, roupas, esboço e luz dourada. Som baixo da praça. Sem cortes, narrador, música ou texto.
 ```
