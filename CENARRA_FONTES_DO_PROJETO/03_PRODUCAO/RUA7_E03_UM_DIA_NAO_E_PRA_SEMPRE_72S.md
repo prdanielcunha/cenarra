@@ -115,10 +115,12 @@ Pedido do responsável: tornar a emoção explícita a partir da C03, com interp
 
 ### C03 · O confronto
 
-766 caracteres.
+Prévia reprovada por divergência visual observada em captura: Mara apareceu com blusa verde fechada e rosto simplificado, Beto com rosto alongado e olhos menores, e a banca foi reconstituída. A origem exata da divergência não é verificável pela captura. Usar o PNG C03 do pacote como referência principal e dirigir a atuação pelo olhar, mandíbula e voz. A ação do papel deve ocorrer no tampo à esquerda que já existe no quadro. A nova geração está pendente de verificação.
+
+805 caracteres.
 
 ```text
-9:16, 10s. Anime o PNG C03. Plano médio fixo, praça dourada. Mara tomate de vinho no centro, desenho nas mãos. Beto brócolis de cáqui atrás da banca à esquerda. Lia ameixa de verde-musgo à direita com buquê kraft. Porta verde atrás à direita. 0–2s: Mara pousa o desenho aberto com um golpe seco de palma na madeira. Lia dá um tranco nos ombros. 2–5s: Mara se inclina, sobrancelhas cerradas. Só ela fala em PT-BR: “Olha pra mim, Lia. Você mudou meu recado?” A voz sobe na ordem e treme na pergunta. 5–8s: Lia arregala os olhos, aperta o buquê até o kraft estalar e desvia o olhar. Beto endireita o corpo, alarmado. 8–10s: segure o silêncio, desenho no tampo e buquê com Lia. Só Mara articula. Preserve rostos, roupa, luz e eixo. Sem narrador, cortes, música ou texto.
+9:16, 10s. Use a imagem anexada como primeiro quadro. Plano único fixo, mesmo 3D, luz e banca à esquerda. Mara no centro: mesmas sépalas curvas, rosto, cílios, argolas, corrente dourada e blusa vinho de decote V com botões sob o blazer. Beto à esquerda atrás da banca: rosto largo e expressivo, olhos castanhos, copa densa e camisa cáqui com dois bolsos. Lia à direita com o mesmo buquê. 0–2s: Mara baixa o desenho aberto até a beirada da banca à sua esquerda. Preserve o desenho do toldo. 2–6s: sem mover os pés, encara Lia e só Mara fala em PT-BR: “Olha pra mim, Lia. Você mudou meu recado?” A voz ganha força e a mandíbula treme. 6–10s: Lia aperta o buquê e desvia os olhos; Beto reage só com as sobrancelhas. Ambos de boca fechada. Desenho fica no tampo. Sem zoom, cortes, troca de roupa ou redesenho.
 ```
 
 ### C04 · Nunca mais
