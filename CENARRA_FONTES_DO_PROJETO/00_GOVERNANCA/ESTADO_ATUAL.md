@@ -3,6 +3,13 @@
 
 
 
+## Rua 7 — revisão completa do E03 e plano da temporada — 16/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** reescrever integralmente o E03 e adotar episódios de mais de um minuto. A instrução substitui a proposta de ajuste breve do corte anterior.
+- **ROTEIRO PREPARADO:** [E03 Um dia não é pra sempre](../03_PRODUCAO/RUA7_E03_UM_DIA_NAO_E_PRA_SEMPRE_72S.md), com 72 segundos de montagem previstos, nove tomadas e prompts. Preservar identidade dos personagens e cenário aprovado. O realismo seletivo de materiais é direção proposta.
+- **RECOMENDAÇÃO:** 70–74 s iniciais, Rua 7 terça e sexta, crescimento por etapas e reorientação do arco para escolhas do presente. [Pesquisa, revisão narrativa, E04–E08 e critérios de teste](../05_CRESCIMENTO/RUA7_REVISAO_EDITORIAL_DURACAO_E_CADENCIA_2026_11_16.md).
+- **PENDENTE EM VÍDEO:** recuperar o último quadro útil do E02 e os masters privados para a geração; confirmar interpretação, duração do export, direitos e publicação.
+
 ## Auditoria de retenção da Rua 7 — 16/11/2026
 
 - **VERIFICADO NAS CAPTURAS:** TikTok E01/E02 com 581/180 visualizações, médias de 10,5/11,8 s e conclusão de 12,25%/7,94%. O painel destaca saídas em 0:01 e 0:02. Instagram Insights mostra 451/2.092 visualizações no sumário marcado como post cruzado, com médias de 15/31 s. As janelas são acumuladas e diferem entre episódios.
