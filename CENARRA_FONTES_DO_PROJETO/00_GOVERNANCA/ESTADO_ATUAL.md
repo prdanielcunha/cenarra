@@ -3,6 +3,12 @@
 
 
 
+## Auditoria de retenção da Rua 7 — 16/11/2026
+
+- **VERIFICADO NAS CAPTURAS:** TikTok E01/E02 com 581/180 visualizações, médias de 10,5/11,8 s e conclusão de 12,25%/7,94%. O painel destaca saídas em 0:01 e 0:02. Instagram Insights mostra 451/2.092 visualizações no sumário marcado como post cruzado, com médias de 15/31 s. As janelas são acumuladas e diferem entre episódios.
+- **RELATO DO RESPONSÁVEL:** E03 editado. Master pendente de inspeção.
+- **PROPOSTO:** ajuste curto na abertura do E03 e conflito presente para o E04. [Auditoria, montagem e roteiro proposto](../05_CRESCIMENTO/RUA7_RETENCAO_E01_E02_E_PLANO_E03_E04_2026_11_16.md).
+
 ## Primeiras publicações e próximo teste — 16/11/2026
 
 - **RELATO DO RESPONSÁVEL:** dois vídeos publicados nas quatro redes. Visualizações informadas por ordem de postagem: Instagram 450 e 2.080, TikTok 540 e 180. Métricas dos painéis e janelas de coleta pendentes.
