@@ -3,6 +3,11 @@
 
 
 
+## Primeiras publicações e próximo teste — 16/11/2026
+
+- **RELATO DO RESPONSÁVEL:** dois vídeos publicados nas quatro redes. Visualizações informadas por ordem de postagem: Instagram 450 e 2.080, TikTok 540 e 180. Métricas dos painéis e janelas de coleta pendentes.
+- **PROPOSTO:** avaliar os próximos quatro capítulos de Rua 7 com o mesmo calendário-base, revisar o ritmo das revelações e aproveitar a terceira vaga de teste para No Escritório conforme a grade vigente. [Diagnóstico, proposta editorial e monetização](../05_CRESCIMENTO/DIAGNOSTICO_CADENCIA_ROTEIRO_RECEITA_2026_11_16.md).
+
 ## No Escritório — título definido em 15/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** o título público da série de animais no escritório é **No Escritório**. Os arquivos históricos usam Bichos de Escritório e os identificadores `BICHOS_P01`, `BICHOS_P02` e `BICHOS_P03`.
