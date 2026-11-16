@@ -3,6 +3,11 @@
 
 
 
+## Diretriz editorial permanente — 16/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** aplicar a [diretriz sobre elenco e relações na ficção](../../AGENTS.md#regras-permanentes) a todas as produções narrativas da Cenarra.
+- **RUA 7 — ROTEIRO ATUALIZADO:** Lia e Mara eram melhores amigas. Na C06 do E03, Lia explica que temia perder a amiga. O buquê é um gesto de desculpas entre amigas.
+
 ## Rua 7 — revisão completa do E03 e plano da temporada — 16/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** reescrever integralmente o E03 e adotar episódios de mais de um minuto. A instrução substitui a proposta de ajuste breve do corte anterior.
