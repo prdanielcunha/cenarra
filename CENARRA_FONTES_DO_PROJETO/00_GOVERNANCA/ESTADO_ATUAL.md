@@ -3,6 +3,12 @@
 
 
 
+## Método de roteiro e retenção para todas as séries — 16/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** cada capítulo entrega a resposta que promete e abre uma nova curiosidade por consequência. Variar intriga, protagonista e tipo de virada sem perder continuidade. A regra vale para Rua 7, No Escritório, A Última Ligação e novas séries.
+- **CONSOLIDADO:** [Método de roteiro, retenção e cadência](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md) com processo de escrita, ficha, exemplos de aplicação, pesquisa e critérios de expansão. Referenciado nas instruções permanentes e no SOP.
+- **RECOMENDADO PARA TESTE:** dois da Rua 7 por semana com terceiro inédito quando a produção comportar. Medir o próximo bloco de quatro capítulos e crescer por etapas. Dois ou mais inéditos por dia ficam sem indicação no estágio atual. A grade-alvo de seis continua condicional.
+
 ## Diretriz editorial permanente — 16/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** aplicar a [diretriz sobre elenco e relações na ficção](../../AGENTS.md#regras-permanentes) a todas as produções narrativas da Cenarra.

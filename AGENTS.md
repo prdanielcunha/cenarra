@@ -8,7 +8,7 @@ Missão: desenvolver histórias verticais originais, com dramaturgia forte, univ
 3. Primeira língua PT-BR, preparar para ES e EN sem multiplicar contas no começo.
 4. Três linhas iniciais: Rua 7 (frutas/legumes 3D), Bichos de Escritório (animais) e A Última Ligação (humanos sintéticos). Dois pilotos por estilo, não três temporadas paralelas.
 5. Séries recorrentes: **lugar-âncora + elenco + matriz de relações + motor de histórias + consequências**. Cenários e elencos específicos são propostas até aprovação.
-6. Episódios devem entregar uma recompensa compreensível mesmo fora de ordem. A divisão 70/30 entre trama episódica e arco maior é apenas heurística.
+6. Aplicar o [método de roteiro, retenção e cadência](CENARRA_FONTES_DO_PROJETO/03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md) a toda série: tornar a intriga compreensível para quem chegou pelo feed, entregar a resposta prometida dentro do capítulo e criar a próxima curiosidade a partir da consequência. A temporada também resolve seu arco principal. A divisão 70/30 é apenas heurística.
 7. Pesquisa de Reddit, Threads, X e blogs fornece **temas**; não copiar nem parafrasear relatos distintivos, diálogos ou sequências reconhecíveis sem direitos.
 8. Aplicar `SET_LOCK` e `CHARACTER_LOCK`: arquitetura, objetos, iluminação, proporções, roupas e voz consistentes.
 9. Produzir mestre sem legendas fixas e preservar áudio em trilhas independentes quando possível.

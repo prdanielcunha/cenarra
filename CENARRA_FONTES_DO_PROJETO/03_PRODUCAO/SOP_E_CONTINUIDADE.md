@@ -2,7 +2,7 @@
 
 ## Pipeline
 1. Premissa e Bíblia (status aprovado ou em teste).
-2. Roteiro com gancho, conflito, escalada, revelação e consequência.
+2. Roteiro pela [ficha do método editorial](METODO_ROTEIRO_RETENCAO_E_CADENCIA.md): intriga clara para quem chega pelo feed, mudanças de cena, resolução no próprio capítulo e consequência que gera nova curiosidade. Conferir a promessa anterior, o primeiro quadro e os diálogos em voz alta antes do storyboard.
 3. Storyboard com tomadas 4–8s como referência, conforme modelo disponível.
 4. Imagens-mestras de personagens e set.
 5. Geração de tomadas com `SET_LOCK` e `CHARACTER_LOCK`; registrar créditos e falhas.
