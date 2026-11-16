@@ -57,11 +57,24 @@ Exemplos de aplicação e direção futura, respeitando os estados dos roteiros 
 
 Avaliar a frequência pelo número de inéditos publicados **no TikTok** e pelos resultados do próprio TikTok. Cada inédito corresponde a um master produzido. Instagram, YouTube e Facebook recebem o mesmo master. Os envios adicionais entram no tempo de distribuição; só uma edição ou geração realmente adicional entra no esforço de produção. A quantidade de redes de destino fica fora do cálculo da cadência no TikTok.
 
-**Agora**, trabalhar com dois inéditos da Rua 7 por semana, terça às 20h e sexta às 19h de Brasília. Entrar com um terceiro inédito no TikTok quando outra série tiver capítulo pronto. Exemplo: três masters por semana são três publicações no TikTok e três no Instagram, usando os mesmos arquivos. Acompanhar Instagram na própria série de dados, sem agregar suas views ao teste de frequência do TikTok.
+**Grade de referência:** seis inéditos por semana, dois por série, conforme o [calendário registrado](../05_CRESCIMENTO/GRADE_ALVO_6_EPISODIOS_SEMANAIS_2026_11_14.md). Segunda e quinta, No Escritório às 19h. Terça às 20h e sexta às 19h, Rua 7. Quarta às 19h e domingo às 20h, A Última Ligação. Sábado livre. Brasília. Usar as vagas dos capítulos prontos durante a rampa de produção. Os patamares de três ou quatro inéditos no TikTok são etapas possíveis da rampa. A frequência de cada etapa depende dos capítulos disponíveis, e a grade de seis segue como meta aprovada de planejamento.
 
-**Próxima decisão**, usar quatro capítulos de duração próxima para observar a nova abertura. Se houver inéditos prontos, testar quatro por semana no TikTok e distribuir os mesmos quatro nas outras redes. Para a decisão de frequência, comparar o total dos inéditos de cada semana, todos com a mesma janela individual de sete dias, a mediana por vídeo, retenção inicial, conclusão, seguidores atribuídos quando disponíveis e tempo por master. Se o quarto vídeo for de outra série, registrar a mudança de composição da grade. Voltar à frequência anterior se o total deixar de avançar ou a qualidade cair de forma recorrente. A grade de seis segue meta condicional.
+### Comparação de frequência no TikTok
 
-**Mais de um inédito por dia no TikTok** exige capacidade para produzir esses inéditos. Dois diários em sete dias seriam 14 masters por semana. Se tiverem as nove tomadas finais do E03, equivalem a aproximadamente 126 clipes aproveitados antes de refações, independentemente das redes de destino. Esse é um cenário de esforço para o formato atual. Medir o custo real por master e a folga de estoque antes de testar essa cadência. O estudo de frequência oferece razão para testar aumentos pequenos; sozinho, não indica duas publicações diárias como escolha para a Cenarra.
+| Cenário | Inéditos na semana | Média por inédito necessária para empatar o total de 6 por semana | Tomadas finais se todos forem como o E03 |
+|---|---:|---:|---:|
+| Grade de dois episódios por série | 6 | 100% | 54 |
+| Um inédito por dia | 7 | 85,7% | 63 |
+| Dois inéditos por dia | 14 | 42,9% | 126 |
+| Um de cada novela por dia | 21 | 28,6% | 189 |
+
+Percentuais calculados por 6 dividido pelo número de inéditos. São pontos de equilíbrio em visualizações totais, não previsões de audiência ou receita. Um calendário pode aumentar o total e ainda perder eficiência por hora, retenção por vídeo ou retorno por série. As tomadas refletem nove por episódio, como no E03 da Rua 7. Usar o custo medido de cada série no planejamento.
+
+Buffer analisou 11,4 milhões de posts. Para 6–10 posts semanais, a mediana foi 487 views e o percentil 90, 10.092. Para 11 ou mais, foram 459 e 14.401. A diferença na ponta da distribuição mostra potencial de picos com alto volume, sem melhora do post típico. A faixa de 6–10 coloca seis e sete juntos. A de 11+ coloca 14 e 21 juntos. O estudo não separa essas frequências nem ficção brasileira. A Metricool informa média observada de 2,54 vídeos/semana na sua amostra de 2026, sem identificar uma frequência ideal. O TikTok informa que assistir, pular e tempo assistido ajudam a recomendar vídeos.
+
+**Recomendação para crescer:** chegar à grade de seis quando as três séries tiverem masters prontos e capacidade de manter o ritmo. Para testar um inédito por dia, acrescentar **um sábado por semana** com episódio narrativo aprovado, mantendo os seis espaços no mesmo horário. Registrar qual série ganhou o sábado. Usar algumas semanas com seis como referência e acompanhar várias semanas com sete conforme estoque. Comparar tanto o total dos inéditos com seus primeiros sete dias equivalentes quanto o desempenho dos seis espaços já existentes. Assim, a view adicional do sábado pode ser lida junto de uma eventual queda nos capítulos regulares. Examinar mediana, tempo assistido, conclusão, seguidores, sinais de retorno e esforço de geração e edição. Tratar como teste operacional, sem atribuição causal a dia ou frequência a partir de poucos roteiros diferentes.
+
+Manter sete se o ganho de audiência no TikTok vier com retenção, continuidade e rendimento de produção sustentáveis. Se houver espaço real para crescer depois, experimentar um segundo lançamento num dia específico antes de propor dois diários. Um capítulo de cada novela por dia exigiria publicar três inéditos por dia e passar de dois para sete episódios de cada série por semana. Esse é um modelo de produção diferente. Os mesmos arquivos são distribuídos às demais redes.
 
 | O que queremos aprender | Medida | Decisão prática |
 |---|---|---|
@@ -84,3 +97,4 @@ Anotar 48 h e sete dias, dentro da mesma plataforma e em idades iguais de postag
 - [Recomendações do TikTok](https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content)
 - [Descoberta de Shorts](https://support.google.com/youtube/answer/11914225?hl=pt-BR)
 - [Vídeo relacionado em Shorts](https://support.google.com/youtube/answer/14075157)
+- [Metricool, análise de frequência no TikTok em 2026](https://metricool.com/tiktok-followers/)

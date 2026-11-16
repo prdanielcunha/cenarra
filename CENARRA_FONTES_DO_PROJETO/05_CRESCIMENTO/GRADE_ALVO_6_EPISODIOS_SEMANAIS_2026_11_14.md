@@ -25,6 +25,10 @@
 
 Cada série recebe capítulos com 3 ou 4 dias de intervalo. Domingo às 20h **não é consenso entre redes**: TikTok Brasil favorável e Shorts noturno favorável; Instagram Brasil e Sprout geral mostram domingo mais fraco. Testar, comparar e considerar sábado 19h apenas se dados próprios justificarem; domingo permanece a proposta operacional por espaçamento e por evitar sábado na rotina.
 
+## Expansão por frequência no TikTok — 16/11/2026
+
+A grade de seis acima é a referência de planejamento. Os patamares de três ou quatro inéditos do método de retenção são fases possíveis de implantação conforme a disponibilidade de capítulos. A quantidade de redes não altera a quantidade de masters produzidos. Depois de sustentar seis, a proposta é testar um inédito no sábado, usando os outros dias como referência. A decisão usa dados do TikTok na mesma idade de postagem, desempenho dos seis horários regulares e custo de produção. [Comparação de 6, 7, 14 e 21 inéditos](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md#comparação-de-frequência-no-tiktok).
+
 ## Viabilidade real: seis ainda não são compromissos
 **Relato do responsável em 13–14/11:** Rua 7 episódio 2 pronto; Bichos de Escritório episódio 1 gerado, faltando apenas edição; A Última Ligação sem episódio produzido. A integração não confirma os estados das quatro plataformas nem vídeos finais. E03 da Rua 7 está em desenvolvimento no repositório.
 

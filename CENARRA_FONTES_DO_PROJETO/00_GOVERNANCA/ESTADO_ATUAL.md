@@ -7,7 +7,7 @@
 
 - **DECIDIDO PELO RESPONSÁVEL:** cada capítulo entrega a resposta que promete e abre uma nova curiosidade por consequência. Variar intriga, protagonista e tipo de virada sem perder continuidade. A regra vale para Rua 7, No Escritório, A Última Ligação e novas séries.
 - **CONSOLIDADO:** [Método de roteiro, retenção e cadência](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md) com processo de escrita, ficha, exemplos de aplicação, pesquisa e critérios de expansão. Referenciado nas instruções permanentes e no SOP.
-- **RECOMENDADO PARA TESTE NO TIKTOK:** dois inéditos da Rua 7 por semana, com um terceiro inédito quando pronto. Testar quatro por semana se houver material e base comparável. Cada inédito é um master distribuído nas redes. Medir produção por master, tempo de distribuição à parte e frequência pelo TikTok. A grade-alvo de seis continua condicional.
+- **GRADE DE REFERÊNCIA REAFIRMADA:** dois inéditos por série, seis no total, nas janelas já registradas. Três ou quatro inéditos são etapas possíveis de produção, conforme os masters ficarem prontos. **PROPOSTA DE EXPANSÃO NO TIKTOK:** quando a grade de seis estiver sustentável, testar um sábado para chegar a sete e comparar com os seis horários regulares. Usar o mesmo master nas outras redes.
 
 ## Diretriz editorial permanente — 16/11/2026
 
