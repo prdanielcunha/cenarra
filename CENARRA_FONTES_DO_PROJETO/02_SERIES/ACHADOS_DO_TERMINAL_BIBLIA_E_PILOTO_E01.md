@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagem-base inicial da C01 gerada. Geração de vídeo, montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 e C02 geradas. Geração de vídeo, montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -64,6 +64,18 @@ Tempos de montagem aproximados. Falas curtas, em PT-BR, com respiração e reaç
 
 ```text
 10s, 9:16, plano único. CGI 3D humano moderadamente estilizado, luz e texturas realistas. Preserve rostos, corpos, roupas e cenário da referência. Rosa, 38, pele morena, olhos castanhos, cabelo preso, camisa cinza-azulada e alça vinho, à direita. Cida, 58, grisalha de coque baixo, óculos retangulares, colete azul-petróleo e blusa clara, atrás do balcão. Terminal brasileiro à noite, luz quente no balcão, fria no corredor, caixas e relógio fixos. 0–2s: Cida abre um pouco a carteira marrom, passagem já visível. Mantenha “ROSA ALMEIDA” no papel e no crachá, e “PAGO” no papel. Rosa aproxima o crachá, franze a testa e recua o queixo. 2–6s: só Rosa move os lábios: “Meu nome? A carteira não é minha.” Voz PT-BR nativa, adulta, médio-grave, levemente rouca, baixa, primeira frase em choque, segunda firme. 6–10s: sustente o olhar tenso. Som de papel e terminal baixo. Sem cortes.
+```
+
+## E01 C02 — O último embarque
+
+Imagem-base gerada para teste. Vídeo e montagem a validar. Usar uma referência única no YouTube Create. No corte, passar da reação de Rosa na C01 para Cida já segurando a passagem pela borda. A carteira aberta fica no balcão. A placa da plataforma acende na C02. Rosa passa de um sorriso involuntário à urgência e permanece em silêncio.
+
+Voz proposta para Cida: PT-BR nativo, feminina madura, grave aveludada, calma e firme, com pausa curta entre as frases. Guardar a primeira tomada aprovada como referência auditiva. A geração é de 10 s e a tomada ocupa cerca de 7 s no roteiro. Se o painel errar a grafia, inserir “ÚLTIMO EMBARQUE” sobre a placa na edição.
+
+### Prompt do YouTube Create (838 caracteres)
+
+```text
+10s, 9:16, plano único. CGI 3D humano moderadamente estilizado, pele, tecido e papel realistas. Preserve rostos, corpos e posições. Cida, 58, coque grisalho, óculos retangulares e colete azul-petróleo, atrás do balcão. Rosa, 38, morena, cabelo preso, camisa cinza-azulada e alça vinho, do lado do público. Luz quente no balcão, fria no corredor. Cida segura o bilhete pela borda, com ROSA ALMEIDA e PAGO legíveis. Carteira marrom aberta no tampo. 0–3s: só Cida fala: “É o último ônibus. Tá pago.” Voz feminina madura, PT-BR nativo, grave aveludada, calma e firme, pausa curta entre frases. 3–7s: bip discreto, painel acende “ÚLTIMO EMBARQUE”. Rosa esboça um sorriso, olha para a plataforma, perde o sorriso e prende a respiração, lábios fechados. 7–10s: câmera fixa, sustente a tensão. Som baixo do terminal. Sem outras falas ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
