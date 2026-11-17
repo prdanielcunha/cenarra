@@ -204,3 +204,10 @@ A captura registra o bloqueio “Não é possível criar vídeos de figuras famo
 ```text
 9:16, 10s. Anime a imagem anexada, arte 3D original com personagens fictícios da novela O Segredo da Rua 7. Ao ar livre, a personagem tomate de vinho pousa o desenho do toldo junto ao buquê, na única banca listrada. Ela encara o personagem laranja e diz em português brasileiro: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” A voz falha em “me ajudar”. A personagem tomate cala. O personagem laranja, de avental marinho, prende o ar, começa a se virar para a porta verde e para no meio do gesto. Volta o olhar para ela, maxilar tenso. O brócolis de cáqui observa atrás da banca. Só a personagem tomate fala. Mesmo quadro, rostos, roupas e objetos. Sem móveis novos, cortes, música ou texto na tela.
 ```
+
+## Capa e texto para postagem
+
+Material preparado em 17/11/2026. Capa vertical 9:16 com Mara e Lia na praça, buquê entre as duas, tipografia da capa do episódio 2 como referência e chamada **O QUE LIA DISSE?**. A pergunta antecipa o confronto e preserva a revelação. Arquivo de imagem mantido fora do repositório. Publicação não executada.
+
+- **Título para postagem:** O que Lia disse? | O Segredo da Rua 7 • Ep. 3
+- **Descrição:** Mara pediu um dia. Nilo recebeu outro recado. Agora, Lia precisa explicar o que aconteceu.
