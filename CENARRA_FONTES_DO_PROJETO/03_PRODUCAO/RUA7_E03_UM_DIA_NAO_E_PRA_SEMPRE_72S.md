@@ -167,10 +167,12 @@ YouTube Create. Usar apenas o PNG C06 revisado com Mara à esquerda e Lia à dir
 
 ### C07 · Chama o Nilo
 
-750 caracteres.
+YouTube Create. Usar apenas o PNG C07 revisado, com flores no tampo e Lia de mãos vazias. O ruído do papel abre a ação. Mara passa do olhar ferido para a voz firme quando decide falar com Nilo. Preservar Beto com pele verde e copa de brócolis. O aceno para a porta prepara a entrada de Nilo pelo mesmo lado na C08. Geração pendente de verificação.
+
+770 caracteres.
 
 ```text
-9:16, 10s. Anime o PNG C07. Plano médio fixo. Beto brócolis de cáqui à esquerda atrás da banca. Mara tomate de vinho no centro, dedos no desenho. Lia ameixa de verde-musgo à direita, mãos vazias, olhos úmidos. Buquê na ponta direita, porta verde ao fundo à direita. 0–5s: Mara puxa o desenho num gesto firme. Brilho nos olhos e mandíbula tensa. Só Mara fala em PT-BR: “Beto, chama o Nilo. Eu mesma vou falar com ele.” Começa ferida, firma a voz em “eu mesma”. 5–8s: Beto arregala os olhos, vira e acena uma vez para a porta. Lia recua meio passo, ombros caídos. Ambos de boca fechada. 8–10s: Beto olha para a porta, Mara segura a folha e o buquê fica no tampo. Nilo fora do quadro. Preserve rostos, roupa e luz. Sem narrador, cortes, música ou texto.
+9:16, 10s. Use só a foto C07. Mesmo plano fixo 3D. Beto brócolis de pele verde, copa de floretes e camisa cáqui atrás da banca à esquerda. Mara tomate de vinho ao centro. Lia ameixa de verde-musgo à direita, mãos vazias. Buquê na ponta direita; porta verde ao fundo. 0–1s: Mara puxa o desenho para si com um ruído seco de papel, olhos úmidos em Lia. 1–5s: Mara vira só o rosto para Beto. Só ela fala em PT-BR nativo: “Beto, chama o Nilo. Eu mesma vou falar com ele.” A voz treme no começo e firma em “eu mesma”. 5–8s: Beto vira o olhar e acena uma vez para a porta. Lia baixa os olhos, ombros caídos. Ambos de boca fechada. 8–10s: Mara segura a folha e o buquê fica imóvel. Nilo fora do quadro. Preserve rostos, roupas e luz. Sem zoom, cortes, narrador, música ou texto.
 ```
 
 ### C08 · Ele atravessa
