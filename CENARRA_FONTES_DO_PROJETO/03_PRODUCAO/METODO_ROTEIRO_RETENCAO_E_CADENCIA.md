@@ -13,6 +13,22 @@ Todo episódio de todas as novelas atuais e futuras abre com uma curiosidade con
 
 Na referência enviada pelo responsável em 17/11/2026, um personagem segura um sachê com inscrição incomum diante de uma garrafa aberta. A combinação faz perguntar o que ele pretende fazer e o que pode acontecer. Aplicar o mecanismo com personagens, objetos, falas e situações originais de cada série.
 
+## Padrão de produção dos próximos capítulos
+
+**Decisão de 17/11/2026.** Aplicar esta ordem a todo capítulo novo de qualquer novela da Cenarra, inclusive quando o pedido for apenas continuar. Se a tarefa for uma tomada de capítulo já em andamento, respeitar as decisões vigentes daquele capítulo e aplicar a regra de abertura quando a tomada for a entrada. Usar a [análise de microdramas](../05_CRESCIMENTO/ANALISE_MICRODRAMAS_GANCHOS_E_VISUAL_2026_11_17.md) na consulta inicial. 
+
+| Etapa | O que a equipe precisa decidir ou conferir |
+|---|---|
+| **Antes de escrever** | Conferir o último corte verificado ou roteiro vigente e quem sabe o quê. Escolher uma pergunta que um estreante entenda e a ação que vai respondê-la. |
+| **Primeiro quadro ou fala** | Entrar no acontecimento, com um gesto, contradição, ameaça, injustiça, surpresa ou escolha. Colocar rosto e ação ou pista no plano quando fizer sentido. Até perto de 3 s, o espectador deve ter motivo concreto para ficar. |
+| **Contexto e progressão** | Entregar o contexto indispensável dentro da reação ou do conflito. Cada tomada útil muda informação, risco, escolha, posição entre personagens ou o sentido do que já vimos. Variar as formas de conflito de capítulo para capítulo. |
+| **Emoção em cena** | Dirigir o que o personagem faz ao perceber a mudança. Especificar 1–2 reações visíveis e a inflexão da fala. Alternar contenção, humor, desabafo e alívio conforme o conflito. Dar espaço para sentir o que aconteceu. |
+| **Imagem e som** | Preservar rostos, roupas e geografia aprovados. Usar realismo seletivo na luz, materiais e objetos quando combinar com a série. Conferir papel, telefone ou outra pista legível e coerente. Priorizar fala natural em PT-BR e continuidade de vozes e bocas. |
+| **Fim do capítulo** | Mostrar a resposta prometida e o que ela custou ou mudou. Quando houver continuação, partir dessa consequência. A pergunta nova precisa corresponder a algo que o próximo episódio desenvolva. |
+| **Montagem e análise** | Assistir aos primeiros segundos sem som e depois com som. Conferir no corte se a pista, a fala e a escolha chegam a tempo. Avaliar em 48 h e sete dias, por rede, com retenção inicial, tempo médio, conclusão, compartilhamentos, seguidores e esforço de produção onde houver. |
+
+**Próximas aplicações conforme a continuidade.** Na **Rua 7**, levar a decisão sobre a encomenda de Mara para dentro de uma situação visível e usar a negociação de Beto sobre abrir a loja mais cedo como conflito presente quando couber. Em **No Escritório**, mostrar o que uma decisão ou acusação pode custar na frente dos colegas. Se a sequência for da chave, mostrar a consequência da afirmação de Téo e preservar a autoria em aberto até haver prova em cena. Em **A Última Ligação**, começar perto da pista ou do acontecimento que muda a cena e usar o susto ou a tensão como reação. Para a versão de teste do E03, aproximar o baque da abertura depois de conferir o estado da porta, da corrente e da fotografia. **Achados do Terminal** aplica o mesmo padrão a um objeto reconhecível, uma escolha humana e uma consequência. [Bíblia curta e piloto](../02_SERIES/ACHADOS_DO_TERMINAL_BIBLIA_E_PILOTO_E01.md).
+
 ## Do tema até o roteiro
 
 1. **Consultar a continuidade vigente.** Ler a bíblia, o roteiro e, quando disponível, o fim do master publicado. Registrar quem sabe o quê, o que já foi revelado, liquidação da promessa anterior e consequência que ainda vale. Versões conflitantes precisam ser identificadas antes de filmar.
