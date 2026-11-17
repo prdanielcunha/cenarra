@@ -21,7 +21,7 @@ Nove tomadas de 8 s. Gerar 10 s no YouTube Create quando disponível e aparar as
 | C06 | 40–48 s | Lia tenta empurrar o buquê em direção a Mara, para antes de encostar no desenho. **“Você era minha melhor amiga, Mara. Eu tive medo de te perder.”** Deixa o buquê na ponta do balcão ao perceber que Mara não estende a mão. |
 | C07 | 48–56 s | Plano médio na banca, com a porta ao fundo. Mara recolhe o desenho e, sem tirar os olhos de Lia na primeira frase, decide: **“Beto, chama o Nilo. Eu mesma vou falar com ele.”** Beto faz um sinal para a porta. Lia recua um passo e vai para a lateral do quadro. |
 | C08 | 56–64 s | Cortar para Nilo chegando à banca pelos últimos passos da travessia. Lia permanece fora do eixo de diálogo e Beto continua atrás da banca. Nilo olha para o desenho e depois para Mara. **“Eu devia ter perguntado pra você.”** Mara absorve o pedido com uma pequena mudança de postura, ainda segurando o papel. |
-| C09 | 64–72 s | Mara pousa o desenho, firme. **“Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?”** Nilo olha para a própria porta, depois para Mara. Cortar na escolha, antes de ele responder. |
+| C09 | 64–72 s | Na mesma banca listrada de Mara, do lado de fora, ela pousa o desenho junto ao buquê. **“Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?”** Nilo olha para a própria porta, depois para Mara. Cortar na escolha, antes de ele responder. |
 
 **O que o capítulo entrega:** quem mudou o recado, o que Lia disse e por que fez isso. Mara passa de alguém sobre quem os outros falam a alguém que chama o Nilo e fala por si. A encomenda apresenta uma escolha nova, que o E04 deve responder cedo.
 
@@ -187,10 +187,10 @@ C07 concluída conforme relato do responsável; clipe sem conferência direta. C
 
 ### C09 · Às sete
 
-Última tomada do E03 no YouTube Create. Usar o PNG C09, com a folha ainda na mão de Mara, e deixá-la visível no tampo após ela pousar. Nilo olha para a porta e volta para Mara, em silêncio. Cortar na escolha; a resposta fica para o E04. Geração pendente de verificação.
+A C09 acontece do lado de fora, na única banca de Mara que aparece na C08. O mercadinho de Nilo é a porta verde ao fundo. A mesa em primeiro plano da referência anterior foi rejeitada pelo responsável. Usar o novo quadro privado, editado a partir da C08 e conferido visualmente, com Beto atrás da banca, Mara no lado externo e Nilo no corredor à direita. Mara pousa o esboço ao lado do buquê. Nilo começa a se virar para a porta, para e volta a olhar Mara. Cortar antes da resposta, que fica para o E04. Geração em vídeo pendente.
 
-766 caracteres.
+745 caracteres.
 
 ```text
-9:16, 10s. Use só o PNG C09. Plano fixo 3D. Mara tomate de vinho à esquerda, com a folha ainda na mão; Nilo laranja à direita, folha única, barba grisalha e avental marinho. Porta verde atrás de Nilo, buquê na ponta da banca. 0–1s: Mara pousa o mesmo esboço, toldo listrado visível, e encara Nilo. 1–6s: só Mara fala em PT-BR nativo: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” Começa firme; a voz embarga em “me ajudar”. Nilo prende o ar, boca fechada. 6–8s: Mara cala. Nilo aperta a borda da banca, lança um olhar para a porta e volta para Mara, maxilar tenso. 8–10s: os dois sustentam o olhar em silêncio. Nilo não responde. Preserve rostos, roupas, luz, desenho e buquê. Sem zoom, cortes, narrador, música ou texto na tela.
+9:16, 10s. Use só o quadro C09 corrigido. Mesmo plano 3D da C08: única banca listrada de Mara à esquerda, Beto verde atrás dela, Nilo à direita no corredor livre, porta verde ao fundo. 0–1s: Mara, de vinho, pousa o esboço do toldo ao lado do buquê e prende Nilo com o olhar. 1–6,5s: só Mara fala em PT-BR: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” A voz endurece em “às sete” e quebra em “me ajudar”; os olhos marejam. 6,5–10s: Nilo prende o ar, vira o tronco para a porta e para no meio do gesto. Volta os olhos para Mara, maxilar trêmulo, sem responder. Beto observa calado. Preserve rostos, roupas, luz e objetos. Nilo e Beto de boca fechada. Sem móveis novos, cortes, zoom, narrador, música ou texto.
 ```
