@@ -3,6 +3,10 @@
 
 
 
+## Continuidade de recados e papéis — 17/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** um recado em cena deve ter escrita visível e coerente com a fala e a ação. Conferir identidade e conteúdo do papel entre as tomadas. [Regra permanente](../../AGENTS.md#regras-permanentes).
+
 ## Gancho obrigatório em todas as novelas — 17/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** todo episódio de toda novela atual ou futura da Cenarra deve começar com algo que desperte curiosidade ou intriga nos primeiros segundos. Conferir no roteiro e no corte final. O capítulo responde à pergunta da abertura e a consequência pode criar a próxima curiosidade. [Regra principal](../../AGENTS.md#regras-permanentes) e [método de roteiro](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md#gancho-obrigatório-na-abertura).
