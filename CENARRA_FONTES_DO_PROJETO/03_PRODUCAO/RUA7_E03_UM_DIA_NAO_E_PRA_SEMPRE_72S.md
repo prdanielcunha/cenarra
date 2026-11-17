@@ -187,8 +187,10 @@ C07 concluída conforme relato do responsável; clipe sem conferência direta. C
 
 ### C09 · Às sete
 
-721 caracteres.
+Última tomada do E03 no YouTube Create. Usar o PNG C09, com a folha ainda na mão de Mara, e deixá-la visível no tampo após ela pousar. Nilo olha para a porta e volta para Mara, em silêncio. Cortar na escolha; a resposta fica para o E04. Geração pendente de verificação.
+
+766 caracteres.
 
 ```text
-9:16, 10s. Anime o PNG C09. Plano a dois fixo. Mara tomate de vinho à esquerda, mão no desenho junto ao tampo. Nilo laranja à direita, folha única, barba grisalha, bege e avental marinho. Porta verde atrás dele, buquê imóvel na ponta. 0–6s: Mara pousa a folha, respira fundo e encara Nilo. Só ela diz em PT-BR: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” A voz sai firme e embarga em “me ajudar”. Nilo prende o ar, boca fechada. 6–8s: Mara cala. Nilo vira os olhos para a porta e volta para Mara, testa contraída e maxilar trêmulo. 8–10s: segure a dúvida nos dois rostos, sem resposta. Preserve rostos, roupa e luz dourada. Som baixo da praça. Sem narrador, cortes, música ou texto.
+9:16, 10s. Use só o PNG C09. Plano fixo 3D. Mara tomate de vinho à esquerda, com a folha ainda na mão; Nilo laranja à direita, folha única, barba grisalha e avental marinho. Porta verde atrás de Nilo, buquê na ponta da banca. 0–1s: Mara pousa o mesmo esboço, toldo listrado visível, e encara Nilo. 1–6s: só Mara fala em PT-BR nativo: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” Começa firme; a voz embarga em “me ajudar”. Nilo prende o ar, boca fechada. 6–8s: Mara cala. Nilo aperta a borda da banca, lança um olhar para a porta e volta para Mara, maxilar tenso. 8–10s: os dois sustentam o olhar em silêncio. Nilo não responde. Preserve rostos, roupas, luz, desenho e buquê. Sem zoom, cortes, narrador, música ou texto na tela.
 ```
