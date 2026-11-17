@@ -3,6 +3,10 @@
 
 
 
+## Gancho obrigatório em todas as novelas — 17/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** todo episódio de toda novela atual ou futura da Cenarra deve começar com algo que desperte curiosidade ou intriga nos primeiros segundos. Conferir no roteiro e no corte final. O capítulo responde à pergunta da abertura e a consequência pode criar a próxima curiosidade. [Regra principal](../../AGENTS.md#regras-permanentes) e [método de roteiro](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md#gancho-obrigatório-na-abertura).
+
 ## Consulta obrigatória ao GitHub em cada pedido — 16/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** consultar a versão atual da `main` antes de responder a pedidos da Cenarra. A [entrada oficial](../../COMECE_AQUI.md) aponta o arquivo vigente por assunto, descreve como comprovar a consulta e traz a instrução para o Projeto ChatGPT.
