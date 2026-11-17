@@ -194,3 +194,13 @@ A C09 acontece do lado de fora, na única banca de Mara que aparece na C08. O me
 ```text
 9:16, 10s. Use só o quadro C09 corrigido. Mesmo plano 3D da C08: única banca listrada de Mara à esquerda, Beto verde atrás dela, Nilo à direita no corredor livre, porta verde ao fundo. 0–1s: Mara, de vinho, pousa o esboço do toldo ao lado do buquê e prende Nilo com o olhar. 1–6,5s: só Mara fala em PT-BR: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” A voz endurece em “às sete” e quebra em “me ajudar”; os olhos marejam. 6,5–10s: Nilo prende o ar, vira o tronco para a porta e para no meio do gesto. Volta os olhos para Mara, maxilar trêmulo, sem responder. Beto observa calado. Preserve rostos, roupas, luz e objetos. Nilo e Beto de boca fechada. Sem móveis novos, cortes, zoom, narrador, música ou texto.
 ```
+
+#### Nova tentativa da C09 após aviso em 17/11/2026
+
+A captura registra o bloqueio “Não é possível criar vídeos de figuras famosas”. A causa específica não aparece. Usar somente o quadro corrigido da C09 e descrever os personagens fictícios pela aparência e função. Manter o espaço, a fala e o corte antes da resposta. Nova geração pendente.
+
+735 caracteres.
+
+```text
+9:16, 10s. Anime a imagem anexada, arte 3D original com personagens fictícios da novela O Segredo da Rua 7. Ao ar livre, a personagem tomate de vinho pousa o desenho do toldo junto ao buquê, na única banca listrada. Ela encara o personagem laranja e diz em português brasileiro: “Minha primeira encomenda sai às sete. Você vai me ajudar ou vai abrir o mercado?” A voz falha em “me ajudar”. A personagem tomate cala. O personagem laranja, de avental marinho, prende o ar, começa a se virar para a porta verde e para no meio do gesto. Volta o olhar para ela, maxilar tenso. O brócolis de cáqui observa atrás da banca. Só a personagem tomate fala. Mesmo quadro, rostos, roupas e objetos. Sem móveis novos, cortes, música ou texto na tela.
+```
