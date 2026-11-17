@@ -177,10 +177,12 @@ YouTube Create. Usar apenas o PNG C07 revisado, com flores no tampo e Lia de mã
 
 ### C08 · Ele atravessa
 
-745 caracteres.
+C07 concluída conforme relato do responsável; clipe sem conferência direta. C08 no YouTube Create com o PNG já preparado: Nilo chega pela direita, Mara segura a mesma folha com o desenho do toldo que recolheu na C07 e o buquê permanece na banca. O recado de Lia foi verbal; a folha deste arco é o esboço antigo da banca. Encerrar com a folha ainda nas mãos de Mara para ela pousá-la na C09. Geração pendente de verificação.
+
+804 caracteres.
 
 ```text
-9:16, 10s. Anime o PNG C08. Plano médio fixo na praça. Nilo laranja, folha única, barba grisalha, bege e avental marinho, já vem da direita. Mara tomate de vinho à esquerda com o desenho. Beto de cáqui atrás da banca, buquê na ponta. Lia fora do quadro. 0–2s: Nilo dá os últimos dois passos, trava diante de Mara e solta o ar com força. 2–5,5s: encara o papel, ergue os olhos marejados e diz, só ele, em PT-BR, voz grave da C01: “Eu devia ter perguntado pra você.” A voz embarga em “perguntado”. 5,5–8s: Mara aperta o papel, o queixo treme e os ombros cedem. Nilo cala e sustenta o olhar. 8–10s: frente a frente, papel ainda com Mara. Só Nilo articula. Preserve rostos, roupas e luz. Passos e som da praça. Sem narrador, cortes, música ou texto.
+9:16, 10s. Use só o PNG C08. Plano fixo na praça. Nilo laranja vem da direita, folha única, barba grisalha, bege e avental marinho. Mara tomate de vinho à esquerda segura a folha com o desenho visível do toldo listrado. Beto brócolis de pele verde e camisa cáqui atrás da banca. Buquê imóvel na ponta. 0–2s: Nilo dá os últimos dois passos e para. O olhar bate no desenho; ele engole seco. 2–5s: Nilo encara Mara, olhos marejados. Só ele diz em PT-BR, com a voz grave da C01: “Eu devia ter perguntado pra você.” A voz quebra em “perguntado”. 5–8s: Nilo cala. Mara aperta a borda da folha; o queixo treme e os ombros cedem. 8–10s: frente a frente, Mara baixa um pouco a folha, ainda nas mãos. Mara e Beto de boca fechada. Preserve rostos, roupas, luz e desenho. Sem zoom, cortes, narrador ou texto na tela.
 ```
 
 ### C09 · Às sete
