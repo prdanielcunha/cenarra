@@ -58,7 +58,9 @@ Fontes da série: [Rua 7 E03](../03_PRODUCAO/RUA7_E03_UM_DIA_NAO_E_PRA_SEMPRE_72
 
 Dar realismo seletivo à luz, às superfícies e aos objetos. Na Rua 7, lona, madeira, dobra do papel e a luz da entrada do mercadinho podem ganhar presença dentro do cenário que já existe. Preservar a identidade, a silhueta, os figurinos e o CGI 3D aprovados. Em A Última Ligação, manter o 3D de humanos adultos e a materialidade do apartamento e do corredor. No primeiro quadro, priorizar o rosto e o gesto ou objeto que provoca a reação. Abrir o plano quando a geografia for útil. Usar cada clipe gerado como matéria-prima de edição. No YouTube Create, examinar se os dez segundos de material permitem entrar mais perto da ação sem quebrar a continuidade. Conferir voz PT-BR, legibilidade, raccord e progressão da atuação no corte real. [Lock visual Rua 7](../02_SERIES/REFERENCIAS_VISUAIS/RUA7_LOCK_VISUAL_APROVADO_2026_11_12.md) · [Bíblia de A Última Ligação](../02_SERIES/ULTIMA_LIGACAO/BIBLIA_DE_CONTINUIDADE.md).
 
-## Piloto futuro — Achados do Terminal
+## Proposta original — Achados do Terminal
+
+O desenvolvimento da sugestão está em [Achados do Terminal — bíblia curta e piloto E01](../02_SERIES/ACHADOS_DO_TERMINAL_BIBLIA_E_PILOTO_E01.md). O texto abaixo preserva a formulação inicial. O roteiro detalhado rege a nova série.
 
 **Proposto.** Drama humano com calor e suspense em um balcão de achados e perdidos de um terminal de ônibus brasileiro. Dona Cida trabalha no último turno. Cada objeto devolvido traz alguém com pressa, vergonha ou uma decisão a tomar. O último ônibus dá urgência à trama, e o balcão e a protagonista são recorrentes. Piloto concebido com poucos personagens e um cenário principal, quando houver espaço na produção.
 
