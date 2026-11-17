@@ -25,7 +25,7 @@
 
 - Um canal Cenarra reúne as três novelas nas redes. Um master por inédito, distribuído a TikTok, Instagram, YouTube e Facebook. O teste de frequência usa métricas do TikTok, e as outras plataformas são avaliadas nos respectivos painéis.
 - Grade de referência em Brasília: No Escritório segunda e quinta às 19h. Rua 7 terça às 20h e sexta às 19h. A Última Ligação quarta às 19h e domingo às 20h. Preencher cada vaga conforme o capítulo estiver pronto. Seis é a meta de produção. Depois de sustentar seis, testar sete com um sábado. Dois inéditos diários ficam fora do teste atual.
-- Em todo capítulo, conflito legível logo no feed, entrega da resposta prometida e próxima curiosidade criada pela consequência. Alternar o tipo de intriga, protagonista e virada. Os arcos centrais também precisam ter desfecho. Usar o método completo antes de gastar tempo e créditos em imagens ou takes.
+- Gancho obrigatório no primeiro quadro ou na primeira fala de todo episódio de todas as novelas atuais e futuras. A abertura desperta uma pergunta concreta antes de vinheta ou explicação. Conferir no roteiro e no corte final. Em todo capítulo, conflito legível logo no feed, entrega da resposta prometida e próxima curiosidade criada pela consequência. Alternar o tipo de intriga, protagonista e virada. Os arcos centrais também precisam ter desfecho. Usar o método completo antes de gastar tempo e créditos em imagens ou takes.
 - Masters acima de um minuto. Faixa inicial recomendada de 70–74 s para a Rua 7; E03 planejado para 72 s. Acompanhar retenção inicial, tempo médio, conclusão, compartilhamento, retorno e custo por master nas mesmas janelas de 48 h e sete dias, quando a plataforma disponibilizar o dado.
 
 ## Instrução para colar no Projeto Cenarra do ChatGPT
