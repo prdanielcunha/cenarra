@@ -137,10 +137,12 @@ Prévia reprovada por divergência visual observada em captura: Mara apareceu co
 
 ### C04 · Nunca mais
 
-715 caracteres.
+Contraplano para a confissão de Lia após a C03 revisada no YouTube Create. Usar apenas o PNG C04 já preparado. Manter desenho sobre a banca e buquê com Lia. Fechar com os olhos de Mara no papel para entrar na C05. Geração pendente de verificação.
+
+764 caracteres.
 
 ```text
-9:16, 10s. Anime o PNG C04. Close fixo na mesma banca. Lia ameixa de verde-musgo à direita, buquê apertado. Mara tomate de vinho de perfil à esquerda, desenho aberto na madeira. 0–6s: Lia força os olhos de volta para Mara. Só Lia diz em PT-BR: “Mudei. Eu disse ‘nunca mais’. Sabia que ele ia parar de te procurar.” “Mudei” sai num sopro. Em “nunca mais”, o queixo treme e a voz racha. 6–8s: Lia cala, os ombros afundam. Mara arregala os olhos, dá um tranco curto no tronco e baixa o olhar para o desenho. Mara mantém a boca fechada. 8–10s: sustente o olhar de Mara no papel e o buquê nas mãos de Lia. Respiração difícil, praça ao fundo. Preserve rostos, roupa, luz e posições. Sem narrador, cortes, música ou texto.
+9:16, 10s. Use só a foto anexada: mesmo close fixo em 3D. Lia à direita, ameixa roxa com folha caída, argola e casaquinho verde-musgo, segura o buquê. Mara, tomate de vinho, fica de perfil à esquerda. Desenho aberto no tampo. 0–1s: Lia aperta o kraft até estalar, encara Mara e solta “Mudei” num sopro. 1–6s: só Lia fala em PT-BR nativo: “Eu disse ‘nunca mais’. Sabia que ele ia parar de te procurar.” A voz racha em “nunca mais”; pausa breve. 6–8s: Lia fecha a boca, os ombros cedem. Mara trava com os olhos bem abertos; a sobrancelha relaxa e o olhar cai para o desenho, boca sempre fechada. 8–10s: segure a mágoa no olhar baixo de Mara. Buquê com Lia, desenho imóvel. Preserve rostos, roupas, luz e posições. Sem zoom, cortes, extras, narrador, música ou texto.
 ```
 
 ### C05 · O que Mara perdeu
