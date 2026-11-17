@@ -147,10 +147,12 @@ Contraplano para a confissão de Lia após a C03 revisada no YouTube Create. Usa
 
 ### C05 · O que Mara perdeu
 
-744 caracteres.
+YouTube Create. Contraplano da C04, com Mara olhando o desenho e Lia de perfil segurando o buquê. Usar o PNG C05 da versão com a blusa vinho de decote V. A lágrima de Mara deve percorrer a bochecha antes do corte. A tomada termina com Mara olhando para Lia, o que prepara a tentativa de entrega das flores na C06. Geração pendente de verificação.
+
+781 caracteres.
 
 ```text
-9:16, 10s. Anime o PNG C05. Plano fechado fixo. Mara tomate de vinho à esquerda olha o desenho aberto. Lia ameixa de verde-musgo à direita segura o buquê, desfocada. Mesma luz dourada. 0–1s: Mara tenta alisar a dobra e o indicador treme sobre a folha. 1–6,5s: só Mara fala em PT-BR: “Eu esperei que ele me procurasse. Fui embora achando que ele tinha desistido de mim.” A primeira frase sai com o fôlego preso. Em “desistido”, a voz quebra e os olhos se enchem d’água. Lia escuta de boca fechada; os ombros murcham. 6,5–8s: Mara tira a mão da folha e ergue o olhar para Lia, com a mandíbula tremendo. 8–10s: sustente o olhar. Desenho no tampo e buquê com Lia. Preserve rostos e roupas. Som baixo da praça. Sem narrador, cortes, música ou texto.
+9:16, 10s. Use só a imagem anexada. Mesmo plano fechado 3D. Mara tomate à esquerda, de argolas e blusa vinho, olha o desenho aberto. Lia ameixa à direita, de perfil, segura o buquê. 0–1s: Mara aperta a dobra com o indicador trêmulo e prende o ar. 1–6,5s: só Mara fala em PT-BR nativo: “Eu esperei que ele me procurasse. Fui embora achando que ele tinha desistido de mim.” Voz baixa na primeira frase; em “desistido de mim”, a voz falha, o queixo treme e os olhos marejam. Lia escuta de boca fechada. 6,5–8s: Mara fecha a boca, ergue os olhos para Lia; uma lágrima fina se solta e desliza pela bochecha. 8–10s: sustenta o olhar ferido. Desenho no tampo, buquê nas mãos de Lia. Preserve rostos, roupas, luz e posições. Som baixo da praça. Sem zoom, cortes, narrador, música ou texto.
 ```
 
 ### C06 · O buquê
