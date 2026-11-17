@@ -7,6 +7,12 @@ Cada capítulo apresenta uma intriga, entrega a resposta que prometeu e deixa um
 
 A resposta pode ser uma verdade confirmada, uma escolha tomada, uma consequência que vimos acontecer ou um desfecho cômico ou emocional. Pode ser parcial em relação ao mistério da temporada, mas precisa resolver a pergunta principal anunciada neste vídeo. “Quem tinha a chave?” e “Quem abriu a gaveta?” são perguntas diferentes. Se o vídeo promete autoria, acesso por si só não entrega a resposta. Se o vídeo promete acesso, mostre quem tinha a chave e use a resposta para mudar a suspeita, a confiança ou a próxima ação.
 
+## Gancho obrigatório na abertura
+
+Todo episódio de todas as novelas atuais e futuras abre com uma curiosidade concreta. Usar uma ação em curso, objeto intrigante, fala inesperada, escolha difícil, contradição visível ou conflito já acontecendo, conforme o gênero. Quem chega pelo feed deve conseguir formular, nos primeiros segundos, uma pergunta específica sobre o que viu ou ouviu. O gancho vem antes de vinheta ou exposição. Conferir no roteiro e no corte final. Se a curiosidade só surgir mais tarde, ajustar a entrada antes de publicar.
+
+Na referência enviada pelo responsável em 17/11/2026, um personagem segura um sachê com inscrição incomum diante de uma garrafa aberta. A combinação faz perguntar o que ele pretende fazer e o que pode acontecer. Aplicar o mecanismo com personagens, objetos, falas e situações originais de cada série.
+
 ## Do tema até o roteiro
 
 1. **Consultar a continuidade vigente.** Ler a bíblia, o roteiro e, quando disponível, o fim do master publicado. Registrar quem sabe o quê, o que já foi revelado, liquidação da promessa anterior e consequência que ainda vale. Versões conflitantes precisam ser identificadas antes de filmar.
@@ -22,7 +28,7 @@ A resposta pode ser uma verdade confirmada, uma escolha tomada, uma consequênci
 | Campo | Preencher em uma linha |
 |---|---|
 | Continuidade | Episódio anterior, fato provado e promessa ainda aberta |
-| Estreante | O que o primeiro quadro ou a primeira fala já torna compreensível a quem caiu no feed |
+| Gancho de abertura | Primeiro quadro ou primeira fala e a pergunta concreta que a abertura desperta em quem caiu no feed |
 | Intriga local | Quem quer o quê, qual é o obstáculo e qual a pergunta do episódio |
 | Viradas | Duas ou três mudanças observáveis que levam à resposta |
 | Resolução no próprio vídeo | Qual ação, fala ou imagem responde à pergunta e o que ela muda |
