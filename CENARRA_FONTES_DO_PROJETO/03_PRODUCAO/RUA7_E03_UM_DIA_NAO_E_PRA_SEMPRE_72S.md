@@ -157,10 +157,12 @@ YouTube Create. Contraplano da C04, com Mara olhando o desenho e Lia de perfil s
 
 ### C06 · O buquê
 
-728 caracteres.
+YouTube Create. Usar apenas o PNG C06 revisado com Mara à esquerda e Lia à direita. Abrir com o buquê já oferecido, que vacila nas mãos de Lia. A cena pergunta visualmente se Mara vai receber as flores. Mara mantém as mãos juntas. O buquê termina na ponta direita e Lia recolhe as mãos vazias, emenda direta para C07. A lágrima de Lia precisa percorrer a bochecha. Geração pendente de verificação.
+
+770 caracteres.
 
 ```text
-9:16, 10s. Anime o PNG C06. Plano a dois fixo na praça. Mara tomate de vinho à esquerda encara Lia, mãos junto ao corpo. Lia ameixa de verde-musgo à direita já oferece o buquê. Desenho aberto no tampo. 0–5,5s: as mãos de Lia vacilam. Só ela fala em PT-BR: “Você era minha melhor amiga, Mara. Eu tive medo de te perder.” A voz se parte em “melhor amiga”; o peito sacode numa inspiração. Mara aperta os lábios e mantém as mãos junto ao corpo. 5,5–8s: Lia pousa o buquê na ponta direita, solta o kraft; uma lágrima pequena e translúcida se desprende e desliza pela bochecha. 8–10s: Lia de mãos vazias, flores imóveis. Mara calada. Preserve rostos, roupa, luz e posições. Som de papel e praça. Sem narrador, cortes, música ou texto.
+9:16, 10s. Use só o PNG C06. Mesmo plano fixo 3D: Mara tomate de vinho à esquerda, mãos juntas; Lia ameixa de verde-musgo à direita, olhos já marejados, buquê oferecido nas duas mãos. Desenho aberto no tampo. 0–1s: o buquê vacila; Mara olha as flores e aperta as próprias mãos. 1–5,5s: só Lia fala em PT-BR nativo: “Você era minha melhor amiga, Mara. Eu tive medo de te perder.” A voz quebra em “melhor amiga”; o queixo treme. 5,5–8s: Mara encara Lia, boca fechada, mãos ainda juntas. Lia cala, baixa os ombros e pousa o buquê na ponta direita; uma lágrima se solta e escorre pela bochecha. 8–10s: Lia recolhe as mãos vazias. Buquê imóvel, separado do desenho. Preserve rostos, roupas, luz e eixo. Som baixo da praça e kraft. Sem zoom, cortes, narrador, música ou texto.
 ```
 
 ### C07 · Chama o Nilo
