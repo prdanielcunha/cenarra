@@ -3,6 +3,12 @@
 
 
 
+## Análise de microdramas como primeira leitura — 17/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** guardar a pesquisa e a análise dos anexos na `main` e consultá-las logo na abertura de todo pedido Cenarra. A [entrada oficial](../../COMECE_AQUI.md) e o [AGENTS.md](../../AGENTS.md) registram a ordem.
+- **CONCLUÍDO COM EVIDÊNCIA:** [Análise de microdramas, ganchos e direção visual](../05_CRESCIMENTO/ANALISE_MICRODRAMAS_GANCHOS_E_VISUAL_2026_11_17.md) reúne quatro vídeos, um print, fontes de mercado, painéis da Rua 7, diagnóstico das três séries e critérios de teste.
+- **PROPOSTO:** testar a entrada de Beto com o conflito sobre seu tempo, antecipar o contraste entre promoção e demissão em No Escritório quando couber, trazer o baque de Clara para perto do início em A Última Ligação, experimentar realismo seletivo de luz e materiais e guardar Achados do Terminal para um piloto futuro.
+
 ## Continuidade de recados e papéis — 17/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** um recado em cena deve ter escrita visível e coerente com a fala e a ação. Conferir identidade e conteúdo do papel entre as tomadas. [Regra permanente](../../AGENTS.md#regras-permanentes).
