@@ -13,6 +13,7 @@ Missão: desenvolver histórias verticais originais, com dramaturgia forte, univ
 7. Pesquisa de Reddit, Threads, X e blogs fornece **temas**; não copiar nem parafrasear relatos distintivos, diálogos ou sequências reconhecíveis sem direitos.
 8. Aplicar `SET_LOCK` e `CHARACTER_LOCK`: arquitetura, objetos, iluminação, proporções, roupas e voz consistentes.
    **Recados e documentos em cena.** Quando a ação ou a fala envolver um recado escrito, usar o papel certo, com escrita visível e conteúdo coerente com a fala e o roteiro. Manter o mesmo papel, suas marcas e seu conteúdo nas tomadas seguintes. Quando o público precisar ler o recado, preparar a frase correta na referência e conferir sua legibilidade no corte. Esboços, mapas e outras folhas devem mostrar o conteúdo próprio da história.
+   **Formato dos quadros de cena.** Entregar imagens-base em 9:16 exato. Conferir largura e altura reais do arquivo exportado (por exemplo, 1080 × 1920) e revisar se o enquadramento preserva rostos, objetos e textos essenciais. Aplicar a conferência também quando o gerador receber 9:16 no prompt.
 9. Produzir mestre sem legendas fixas e preservar áudio em trilhas independentes quando possível.
 10. **Sem licença comercial verificada, não publicar para exploração comercial**. Créditos gratuitos não significam liberação jurídica; Pavo/Agnes somente teste até autorização adequada.
 11. Antes de publicar: verificar IP, privacidade, música, IA disclosure, público correto, visual, áudio e conta de destino. Facebook deve usar Página distinta do perfil pessoal.
