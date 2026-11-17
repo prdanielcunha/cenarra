@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens, geração, montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagem-base inicial da C01 gerada. Geração de vídeo, montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -50,6 +50,21 @@ Tempos de montagem aproximados. Falas curtas, em PT-BR, com respiração e reaç
 - A carteira fica com Cida e a passagem sai com Rosa. O aparelho de Cida permanece no balcão, o celular na plataforma é de Rosa. Design e posição das caixas e da passagem lateral se repetem.
 - Uma tomada por momento de mudança. Sons de papel, alto-falante distante e telefone ajudam a localizar a ação. Usar uma voz por vez. As tomadas 0–6 s e 29–46 s são as prioritárias para confirmar legibilidade e atuação. Cortar o material gerado ao tempo dramático.
 - O primeiro espectador consegue ler a contradição visual sem som. O mistério local resolve, a despedida tem espaço e o último plano abre uma ação diferente. Título público de trabalho **A passagem que eu não comprei**.
+
+## E01 C01 — imagem-base e prompt do YouTube Create
+
+17/11/2026 · Imagem-base vertical gerada para teste. Vídeo, validação da voz no áudio e montagem pendentes.
+
+- **Referência única.** Close vertical das duas no balcão. Dona Cida à esquerda, atrás do tampo. Rosa à direita, do lado do público. A carteira marrom já está entreaberta e o nome ROSA ALMEIDA aparece na passagem e no crachá. A marca PAGO está impressa na passagem. A contradição deve funcionar já no primeiro quadro.
+- **Visual para o piloto.** CGI 3D humano cinematográfico com estilização moderada e acabamento próximo do real nas faces, no couro gasto, no papel e no tecido. Rosa tem pele morena, olhos castanhos, sobrancelhas escuras e cabelo castanho preso baixo. Usa camisa cinza-azulada e mochila de lona vinho. Cida tem cabelo grisalho em coque baixo, óculos retangulares escuros, colete azul-petróleo e blusa clara. Luz âmbar de trabalho sobre o balcão e luz fria no corredor. Caixas numeradas, relógio e passagem lateral permanecem fixos.
+- **Voz de Rosa para o teste.** PT-BR nativo, mulher adulta, registro médio-grave, leve rouquidão, ritmo conversado. “Meu nome?” sai mais baixo, com surpresa e uma pausa curta. “A carteira não é minha” sai firme. Cida observa em silêncio. Usar o áudio da primeira tomada aprovada como referência auditiva nas próximas. A descrição no prompt orienta o timbre, que precisa ser comparado entre os cortes.
+- **Montagem.** Gerar 10 s. A abertura ocupa cerca de 6 s no roteiro. Cortar após a reação de Rosa e antes da fala de Cida da tomada seguinte. Conferir a grafia do bilhete e do crachá durante o movimento e preservar os textos na edição se o gerador os deformar.
+
+### Prompt do YouTube Create (879 caracteres)
+
+```text
+10s, 9:16, plano único. CGI 3D humano moderadamente estilizado, luz e texturas realistas. Preserve rostos, corpos, roupas e cenário da referência. Rosa, 38, pele morena, olhos castanhos, cabelo preso, camisa cinza-azulada e alça vinho, à direita. Cida, 58, grisalha de coque baixo, óculos retangulares, colete azul-petróleo e blusa clara, atrás do balcão. Terminal brasileiro à noite, luz quente no balcão, fria no corredor, caixas e relógio fixos. 0–2s: Cida abre um pouco a carteira marrom, passagem já visível. Mantenha “ROSA ALMEIDA” no papel e no crachá, e “PAGO” no papel. Rosa aproxima o crachá, franze a testa e recua o queixo. 2–6s: só Rosa move os lábios: “Meu nome? A carteira não é minha.” Voz PT-BR nativa, adulta, médio-grave, levemente rouca, baixa, primeira frase em choque, segunda firme. 6–10s: sustente o olhar tenso. Som de papel e terminal baixo. Sem cortes.
+```
 
 ## Primeiro arco — O último dia do balcão
 
