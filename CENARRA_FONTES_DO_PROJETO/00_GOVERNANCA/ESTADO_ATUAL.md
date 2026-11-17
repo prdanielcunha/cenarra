@@ -6,7 +6,7 @@
 ## Direção para novos capítulos e Achados do Terminal — 17/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** aplicar as novas diretrizes da pesquisa a todo capítulo novo da Cenarra. O [método editorial](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md#padrão-de-produção-dos-próximos-capítulos) detalha gancho concreto, consequência, resposta, atuação, visual e conferência no corte. As aplicações por série são pautas vinculadas à continuidade vigente.
-- **ROTEIRO PREPARADO:** [Achados do Terminal — bíblia curta e piloto E01](../02_SERIES/ACHADOS_DO_TERMINAL_BIBLIA_E_PILOTO_E01.md). “A passagem que eu não comprei” tem roteiro de 72 s, solução exibida e o primeiro arco delineado até E04. Direção visual inicial proposta. Imagens, geração, montagem e publicação pendentes. Resposta de audiência a medir.
+- **ROTEIRO PREPARADO:** [Achados do Terminal — bíblia curta e piloto E01](../02_SERIES/ACHADOS_DO_TERMINAL_BIBLIA_E_PILOTO_E01.md). “A passagem que eu não comprei” tem roteiro de 72 s, solução exibida e o primeiro arco delineado até E04. Imagem-base da C01 gerada para teste. A bíblia registra enquadramento, visual, voz de Rosa e prompt de 10 s para o YouTube Create. Vídeo, validação da voz, montagem e publicação pendentes. Resposta de audiência a medir.
 
 ## Análise de microdramas como primeira leitura — 17/11/2026
 
