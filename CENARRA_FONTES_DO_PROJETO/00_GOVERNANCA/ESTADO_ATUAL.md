@@ -3,11 +3,16 @@
 
 
 
+## Direção para novos capítulos e Achados do Terminal — 17/11/2026
+
+- **DECIDIDO PELO RESPONSÁVEL:** aplicar as novas diretrizes da pesquisa a todo capítulo novo da Cenarra. O [método editorial](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md#padrão-de-produção-dos-próximos-capítulos) detalha gancho concreto, consequência, resposta, atuação, visual e conferência no corte. As aplicações por série são pautas vinculadas à continuidade vigente.
+- **ROTEIRO PREPARADO:** [Achados do Terminal — bíblia curta e piloto E01](../02_SERIES/ACHADOS_DO_TERMINAL_BIBLIA_E_PILOTO_E01.md). “A passagem que eu não comprei” tem roteiro de 72 s, solução exibida e o primeiro arco delineado até E04. Direção visual inicial proposta. Imagens, geração, montagem e publicação pendentes. Resposta de audiência a medir.
+
 ## Análise de microdramas como primeira leitura — 17/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** guardar a pesquisa e a análise dos anexos na `main` e consultá-las logo na abertura de todo pedido Cenarra. A [entrada oficial](../../COMECE_AQUI.md) e o [AGENTS.md](../../AGENTS.md) registram a ordem.
 - **CONCLUÍDO COM EVIDÊNCIA:** [Análise de microdramas, ganchos e direção visual](../05_CRESCIMENTO/ANALISE_MICRODRAMAS_GANCHOS_E_VISUAL_2026_11_17.md) reúne quatro vídeos, um print, fontes de mercado, painéis da Rua 7, diagnóstico das três séries e critérios de teste.
-- **PROPOSTO:** testar a entrada de Beto com o conflito sobre seu tempo, antecipar o contraste entre promoção e demissão em No Escritório quando couber, trazer o baque de Clara para perto do início em A Última Ligação, experimentar realismo seletivo de luz e materiais e guardar Achados do Terminal para um piloto futuro.
+- **PROPOSTO:** testar a entrada de Beto com o conflito sobre seu tempo, antecipar o contraste entre promoção e demissão em No Escritório quando couber, trazer o baque de Clara para perto do início em A Última Ligação, experimentar realismo seletivo de luz e materiais e, à época da análise, guardar Achados do Terminal para um piloto futuro. O roteiro do piloto passou a constar na seção acima.
 
 ## Continuidade de recados e papéis — 17/11/2026
 
