@@ -180,13 +180,17 @@ Imagem-base conferida em 9:16 exato (1080 × 1920). A ficha CONTATO começa em s
 
 ## E01 C09 — Amanhã, às 18h, versão vigente v4
 
-O responsável relatou toque impreciso e duplicação do aparelho na v3. A v4 entra depois da discagem, com o único celular já na mão esquerda de Cida, junto ao tampo, e o aviso imóvel no livro aberto. Em um gesto contínuo, Cida ergue o aparelho até o ouvido esquerdo. A espera e a conexão são dadas pelo som. Só depois ela fala. Na validação, conferir que há um único aparelho do primeiro ao último quadro e que a fala entra após a conexão. Imagem-base em 1080 × 1920. Vídeo a gerar.
+O responsável relatou toque impreciso e duplicação do aparelho na v3. A v4 entra depois da discagem, com o único celular já na mão esquerda de Cida, junto ao tampo, e o aviso imóvel no livro aberto. Em um gesto contínuo, Cida ergue o aparelho até o ouvido esquerdo. A espera e a conexão são dadas pelo som. Só depois ela fala. Na validação, conferir que há um único aparelho do primeiro ao último quadro e que a fala entra após a conexão. Imagem-base em 1080 × 1920. Vídeo gerado conforme relato do responsável, com falha de legibilidade do aviso confirmada na prévia.
 
 ### Prompt do YouTube Create (879 caracteres)
 
 ```text
 10s, 9:16, plano único fixo, 3D cinematográfico. Cida sozinha no balcão. Livro aberto, aviso “BALCÃO FECHA AMANHÃ, ÀS 18H” apoiado na página direita, caixa aberta. Fixe o papel e a impressão do quadro inicial. Preserve letras, acentos e as duas linhas. Sem redesenhar ou distorcer o texto. 0–2s: Cida olha da folha para a caixa. O único celular preto já está inteiro na mão esquerda, junto ao balcão, com a traseira para a câmera. 2–4s: ela leva esse mesmo aparelho ao ouvido esquerdo num gesto contínuo, sem trocar de mão. Mostre o tampo vazio onde estava o celular. 4–6s: tom breve de chamada de saída, seguido do clique de conexão. Cida escuta de boca fechada. 6–9s: fala baixo, voz madura e grave, PT-BR: “Achei uma coisa sua. Você consegue vir amanhã?” 9–10s: mantém o aparelho no ouvido, prende o ar e espera. Sem resposta audível, botões, tela visível, cortes ou legendas.
 ```
+
+### Montagem do aviso na C09
+
+A atuação e a ligação da v4 ficaram boas segundo o responsável. Na prévia enviada, o vídeo deformou a escrita do aviso, mesmo após a instrução para preservar a impressão. Na montagem, usar os primeiros 2 s para um plano fixo aproximado do aviso original, extraído da imagem-base v4 no editor. Centralizar as duas linhas **BALCÃO FECHA / AMANHÃ, ÀS 18H**. Substituir os primeiros 2 s do clipe, sem alongar a tomada. Cortar para o clipe gerado no início do movimento do celular, enquadrando Cida acima do livro para deixar o papel deformado fora de quadro. Preservar o som ambiente e a fala. Montagem e validação do corte ainda pendentes.
 
 ## Primeiro arco — O último dia do balcão
 
