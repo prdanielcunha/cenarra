@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C06 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C07 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -126,6 +126,16 @@ Imagem-base em 9:16 exato (1080 × 1920). Abrir na mesma chamada da C05. Celular
 
 ```text
 10s, 9:16, plano único, 3D humano cinematográfico. Preserve rostos, roupas e luz. Cida à esquerda, Rosa à direita. Mesma chamada em viva-voz. Celular preto imóvel no centro; carteira marrom e papel JOEL à esquerda. Passagem ROSA ALMEIDA, PAGO, no tampo. 0–4s: só Joel, fora de quadro, diz pelo celular: “Você me ajudou a voltar pra casa.” Mesma voz da C05, homem mais velho, grave e caloroso, PT-BR nativo, leve filtro de telefone. Rosa olha para baixo, passa a mão sobre o papel JOEL e toca com o polegar a borda da passagem logo abaixo. Os dois papéis ficam no tampo. 4–8s: Joel: “Deixa eu ajudar você também.” Rosa solta o ar, o queixo treme e uma lágrima desce pela bochecha. Cida observa, comovida. As duas mantêm os lábios fechados. 8–10s: aproximação lenta no rosto de Rosa. Ruído do terminal baixo. Sem cortes ou legendas.
+```
+
+## E01 C07 — Eu guardo a carteira dele
+
+Imagem-base conferida em 9:16 (1080 × 1920). A lágrima no rosto de Rosa vem da C06. Cida desliza só o bilhete, deixando a carteira, o papel JOEL e o celular imóvel sobre o balcão. A frase do alto-falante é “Última chamada para embarque”, depois da fala de Cida. Terminar no olhar decidido de Rosa para a plataforma, cerca de 8 s no corte. A C08 assume a mochila no ombro e Rosa com o próprio celular a caminho do embarque. Vídeo da C07 a gerar e validar.
+
+### Prompt do YouTube Create (874 caracteres)
+
+```text
+10s, 9:16, plano único, 3D humano cinematográfico. Mesmas faces, roupas e luz. Cida de colete azul-petróleo à esquerda, Rosa de camisa cinza-azulada à direita, com a lágrima da cena anterior no rosto. Carteira e papel JOEL à esquerda, celular preto imóvel no centro, mochila vinho à direita. 0–4s: Cida desliza só o bilhete ROSA ALMEIDA, PAGO, até a mão de Rosa e diz: “Eu guardo a carteira dele. Vai.” Mesma voz da C04, madura, grave e aveludada, PT-BR nativo; pausa antes de “Vai”, firme e afetuoso. 4–7s: Rosa hesita, respira fundo e pega só o bilhete. Boca fechada. Soa um aviso distante: “Última chamada para embarque.” Voz impessoal pelo alto-falante, sem sincronia labial. 7–10s: Rosa aperta a passagem, volta o rosto para a entrada lateral da plataforma e endireita os ombros, decidida. Cida observa em silêncio. Painel ÚLTIMO EMBARQUE aceso. Sem cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
