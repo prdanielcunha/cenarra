@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 e C02 geradas. Geração de vídeo, montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C03 geradas. Geração de vídeo, montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -76,6 +76,16 @@ Voz proposta para Cida: PT-BR nativo, feminina madura, grave aveludada, calma e 
 
 ```text
 10s, 9:16, plano único. CGI 3D humano moderadamente estilizado, pele, tecido e papel realistas. Preserve rostos, corpos e posições. Cida, 58, coque grisalho, óculos retangulares e colete azul-petróleo, atrás do balcão. Rosa, 38, morena, cabelo preso, camisa cinza-azulada e alça vinho, do lado do público. Luz quente no balcão, fria no corredor. Cida segura o bilhete pela borda, com ROSA ALMEIDA e PAGO legíveis. Carteira marrom aberta no tampo. 0–3s: só Cida fala: “É o último ônibus. Tá pago.” Voz feminina madura, PT-BR nativo, grave aveludada, calma e firme, pausa curta entre frases. 3–7s: bip discreto, painel acende “ÚLTIMO EMBARQUE”. Rosa esboça um sorriso, olha para a plataforma, perde o sorriso e prende a respiração, lábios fechados. 7–10s: câmera fixa, sustente a tensão. Som baixo do terminal. Sem outras falas ou legendas.
+```
+
+## E01 C03 — Rosa conta por que ficou
+
+Imagem-base gerada e verificada em 9:16 exato (1080 × 1920). Vídeo e montagem a validar. A tomada começa na volta do olhar de Rosa para Cida, com o painel já aceso. Rosa pousa a mochila e aperta a alça na última parte da fala. Cida mantém a passagem na mão. Usar uma referência única, manter a voz de Rosa da C01 e cortar após a reação, por volta de 8 s na montagem.
+
+### Prompt do YouTube Create (851 caracteres)
+
+```text
+10s, 9:16, plano único. 3D humano moderadamente estilizado, pele e materiais realistas. Mesmos rostos, roupas e balcão. Rosa, 38, morena, cabelo preso e camisa cinza-azulada, à direita. Cida, 58, coque grisalho, óculos e colete azul-petróleo, à esquerda, segura a passagem pela borda. Carteira marrom aberta. Luz quente no balcão, fria no corredor. Painel mantém ÚLTIMO EMBARQUE. 0–1s: Rosa pousa a mochila vinho e encara Cida. 1–8s: só Rosa fala: “Semana passada eu dei o dinheiro da minha passagem pra um senhor que não tinha como voltar pra casa.” PT-BR nativo, voz adulta médio-grave, levemente rouca, íntima e natural. Em “voltar pra casa”, aperta a alça, franze a testa e a voz pesa. 8–10s: Rosa baixa os olhos para o bilhete. Cida escuta de boca fechada. Preserve a escrita do bilhete e do crachá. Som baixo do terminal. Sem cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
