@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C07 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C08 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -136,6 +136,16 @@ Imagem-base conferida em 9:16 (1080 × 1920). A lágrima no rosto de Rosa vem da
 
 ```text
 10s, 9:16, plano único, 3D humano cinematográfico. Mesmas faces, roupas e luz. Cida de colete azul-petróleo à esquerda, Rosa de camisa cinza-azulada à direita, com a lágrima da cena anterior no rosto. Carteira e papel JOEL à esquerda, celular preto imóvel no centro, mochila vinho à direita. 0–4s: Cida desliza só o bilhete ROSA ALMEIDA, PAGO, até a mão de Rosa e diz: “Eu guardo a carteira dele. Vai.” Mesma voz da C04, madura, grave e aveludada, PT-BR nativo; pausa antes de “Vai”, firme e afetuoso. 4–7s: Rosa hesita, respira fundo e pega só o bilhete. Boca fechada. Soa um aviso distante: “Última chamada para embarque.” Voz impessoal pelo alto-falante, sem sincronia labial. 7–10s: Rosa aperta a passagem, volta o rosto para a entrada lateral da plataforma e endireita os ombros, decidida. Cida observa em silêncio. Painel ÚLTIMO EMBARQUE aceso. Sem cortes ou legendas.
+```
+
+## E01 C08 — Põe mais um prato
+
+Imagem-base conferida em 9:16 exato (1080 × 1920). Corte do olhar de Rosa na C07 para ela já na passagem lateral, com mochila vinho nas costas, bilhete na mão esquerda e celular pessoal de capa azul no ouvido direito. A capa azul diferencia o aparelho do celular preto que ficou no balcão. Rosa caminha apressada, desacelera ao ouvir o pai, sorri e retoma o passo. Só Rosa é ouvida na ligação. Preservar o timbre das tomadas C01/C03. Cortar após a fala inteira e o primeiro passo retomado, cerca de 9 s. Vídeo pendente de geração e validação.
+
+### Prompt do YouTube Create (739 caracteres)
+
+```text
+10s, 9:16, plano único, 3D humano cinematográfico. Mesma Rosa, cabelo preso, camisa cinza-azulada, crachá e mochila vinho nas costas. Corredor lateral do terminal, luz fria, faixa tátil amarela. Celular pessoal de capa azul na mão direita, junto ao ouvido. Bilhete ROSA ALMEIDA, PAGO, na esquerda. 0–2s: Rosa caminha apressada rumo ao embarque, câmera recua de frente, passos ecoam. Só Rosa fala: “Pai?” Voz PT-BR nativa, médio-grave, levemente rouca, início embargado. 2–5s: escuta, desacelera, ombros relaxam, olhos marejam e o sorriso começa. 5–8s: com alívio, diz: “Deu tempo. Põe mais um prato.” Uma lágrima corre enquanto ela sorri. 8–10s: aperta o bilhete e retoma o passo. Som ambiente baixo, pai inaudível, sem cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
