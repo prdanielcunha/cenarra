@@ -192,6 +192,16 @@ O responsável relatou toque impreciso e duplicação do aparelho na v3. A v4 en
 
 A atuação e a ligação da v4 ficaram boas segundo o responsável. Na prévia enviada, o vídeo deformou a escrita do aviso, mesmo após a instrução para preservar a impressão. Na montagem, usar os primeiros 2 s para um plano fixo aproximado do aviso original, extraído da imagem-base v4 no editor. Centralizar as duas linhas **BALCÃO FECHA / AMANHÃ, ÀS 18H**. Substituir os primeiros 2 s do clipe, sem alongar a tomada. Cortar para o clipe gerado no início do movimento do celular, enquadrando Cida acima do livro para deixar o papel deformado fora de quadro. Preservar o som ambiente e a fala. Montagem e validação do corte ainda pendentes.
 
+### Alternativa editorial para o gancho final do E01 — proposta de teste
+
+O responsável considerou fraco o corte de Cida esperando uma resposta. A alternativa usa a atuação e a fala já gravadas na C09 e acrescenta uma resposta em áudio da jovem, sem mostrar o objeto. Preservar a revelação legível do aviso no início da tomada.
+
+- **Cida:** “Achei uma coisa sua. Você consegue vir amanhã?”
+- **Jovem, em voz baixa pelo telefone:** “É sobre a mala? Se a minha irmã perguntar… diz que você não achou.”
+- Cortar no rosto de Cida logo após “não achou”. A chamada da jovem pode começar sobre a reação já gravada. Se faltar tempo disponível no master, encurtar a espera antes da resposta e preservar o desfecho de Rosa.
+
+A pergunta para o E02 é por que a jovem quer que a irmã acredite que a mala ainda está perdida. A abertura pode usar a ação de esconder a etiqueta já descrita abaixo. O episódio deve esclarecer por que a jovem fez o pedido e o que a irmã guardou na mala. A fala e a emenda são propostas, pendentes de produção e validação.
+
 ## Primeiro arco — O último dia do balcão
 
 Ideias de continuidade para o teste, em ordem narrativa. O E02 abre o retorno da ligação final do E01. O aviso significa transferência dos objetos remanescentes ao depósito central e fechamento do atendimento local, com prazo real dentro da ficção.
