@@ -41,7 +41,7 @@ Tempos de montagem aproximados. Falas curtas, em PT-BR, com respiração e reaç
 | 38–46 s | Rosa olha para a passagem e encosta o polegar no próprio nome. Cida conserva o telefone imóvel sobre o tampo. | **Joel:** “Você me ajudou a voltar pra casa. Deixa eu ajudar você também.” |
 | 46–54 s | Cida empurra a passagem até a mão de Rosa. Rosa hesita só um instante, pega o papel e confirma o embarque olhando para a passagem lateral. | **Cida:** “Eu guardo a carteira dele. Vai.” O aviso de embarque soa em seguida. |
 | 54–63 s | Rosa atravessa a passagem lateral com a mochila no ombro e o próprio celular no ouvido. O passo que começou apressado desacelera ao ouvir o pai. O rosto abre num sorriso com olhos marejados. | **Rosa:** “Pai? Deu tempo. Põe mais um prato.” |
-| 63–72 s | Cida fica sozinha. Ergue a ponta do aviso já entregue no turno, apoiado no livro de registro aberto: **BALCÃO FECHA AMANHÃ, ÀS 18H**. Olha a primeira caixa, já aberta. Toca no botão de chamada e espera a interface confirmar a ligação antes de falar. | O ruído da plataforma baixa. **Cida, ao telefone:** “Achei uma coisa sua. Você consegue vir amanhã?” Cortar na espera pela resposta. |
+| 63–72 s | Cida fica sozinha. Ergue a ponta do aviso já entregue no turno, apoiado no livro de registro aberto: **BALCÃO FECHA AMANHÃ, ÀS 18H**. Olha a primeira caixa, já aberta. Toca em LIGAR na ficha do contato. Com a chamada de saída iniciada, leva o celular ao ouvido e espera a pessoa atender antes de falar. | O ruído da plataforma baixa. **Cida, ao telefone:** “Achei uma coisa sua. Você consegue vir amanhã?” Cortar na espera pela resposta. |
 
 ### Coerência e conferência antes do corte
 
@@ -158,7 +158,7 @@ Imagem-base conferida em 9:16 exato (1080 × 1920). Corte de Rosa no corredor pa
 10s, 9:16, plano único, 3D humano cinematográfico. Só Cida: coque grisalho, óculos, colete azul-petróleo e blusa clara. Mesmo balcão, luz âmbar, corredor vazio. Carteira e papel JOEL à esquerda, celular preto fixo à direita, caixa de papelão atrás. 0–2s: Cida puxa a folha sob o livro. Mostre a escrita intacta: “BALCÃO FECHA AMANHÃ, ÀS 18H”. Som seco de papel. 2–5s: ela trava a respiração, olha as caixas na estante e ergue a tampa da caixa no balcão. Toca no celular para ligar, com o aparelho no tampo. 5–9s: Cida encara a caixa e diz: “Achei uma coisa sua. Você consegue vir amanhã?” Voz madura, grave, PT-BR nativo, firme, pausa antes de “amanhã”. 9–10s: câmera se aproxima do rosto. Cida espera tensa. Som do terminal recua. Sem resposta, música, cortes ou legendas.
 ```
 
-## E01 C09 — Amanhã, às 18h, versão vigente
+### E01 C09 — Segunda versão, arquivada por ambiguidade na tela de chamada
 
 Imagem-base v2 conferida em 9:16 exato (1080 × 1920). O aviso já está apoiado na página direita do livro aberto e Cida segura a ponta desde o primeiro quadro. A folha só se move em contato com os dedos. A caixa já está aberta. O celular começa na ficha do contato com botão verde visível e permanece no tampo. Mostrar o indicador encostando no botão. A interface ativa com botão vermelho só aparece após o toque, antes da primeira fala. Conferir essa sequência no clipe gerado. Cortar após a pergunta, enquanto Cida espera a resposta.
 
@@ -166,6 +166,16 @@ Imagem-base v2 conferida em 9:16 exato (1080 × 1920). O aviso já está apoiado
 
 ```text
 10s, 9:16, plano único, 3D cinematográfico. Cida sozinha no balcão. Enquadre rosto, mãos, livro aberto e tela acesa à direita. 0–3s: o aviso já repousa na página direita. Polegar e indicador direitos já seguram sua ponta. Cida ergue só a ponta e lê “BALCÃO FECHA AMANHÃ, ÀS 18H”. Mantém os dedos na folha até pousá-la. Livro imóvel. 3–5s: Cida olha a caixa já aberta. O indicador esquerdo encosta no botão verde de ligar. Só após o contato, a tela troca para chamada ativa com botão vermelho. Mantenha o toque e a tela no quadro. Celular apoiado. 5–9s: Cida diz ao celular: “Achei uma coisa sua. Você consegue vir amanhã?” Voz PT-BR madura e grave, baixa, pausa entre frases. 9–10s: Cida prende o ar; corte na espera. Papel, caixa e celular separados. Sem resposta, música ou legendas.
+```
+
+## E01 C09 — Amanhã, às 18h, versão vigente v3
+
+Imagem-base conferida em 9:16 exato (1080 × 1920). A ficha CONTATO começa em silêncio, com botão azul LIGAR e sem indicação de ligação. O indicador esquerdo toca LIGAR, a interface passa a CHAMANDO, Cida leva o telefone ao ouvido esquerdo e ouve o curto tom de saída. Só depois da conexão ela fala. O aviso permanece na página direita do livro de registro aberto e só se move enquanto Cida segura a ponta. Conferir a ordem e o texto no vídeo antes da aprovação.
+
+### Prompt do YouTube Create (736 caracteres)
+
+```text
+10s, 9:16, plano único, 3D cinematográfico. Cida só no balcão. Mostre rosto, mãos e tela. 0–2s: aviso já na página direita do livro aberto. Cida segura a ponta, lê em silêncio “BALCÃO FECHA AMANHÃ, ÀS 18H” e pousa a folha. Celular imóvel e silencioso na ficha CONTATO, botão azul LIGAR. 2–4s: Cida olha a caixa aberta e encosta o indicador esquerdo em LIGAR. Só depois do toque, a tela mostra CHAMANDO. 4–6s: Cida leva o aparelho ao ouvido esquerdo. Um tom curto de chamada de saída, seguido de clique de conexão. 6–9s: só após a conexão, Cida fala em PT-BR, voz madura, grave e baixa: “Achei uma coisa sua. Você consegue vir amanhã?” 9–10s: segura o celular e espera, olhar tenso. A outra pessoa fica inaudível. Sem legendas ou música.
 ```
 
 ## Primeiro arco — O último dia do balcão
