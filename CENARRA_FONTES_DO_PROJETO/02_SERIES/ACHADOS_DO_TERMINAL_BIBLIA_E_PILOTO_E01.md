@@ -36,8 +36,8 @@ Tempos de montagem aproximados. Falas curtas, em PT-BR, com respiração e reaç
 | 0–6 s | Close vertical: Cida abre a carteira marrom gasta diante de Rosa. A passagem já mostra **ROSA ALMEIDA**. Rosa aproxima o crachá por reflexo, olha o papel e recua o queixo com desconfiança. | **Rosa:** “Meu nome? A carteira não é minha.” |
 | 6–13 s | Cida segura a passagem pela borda. Ao fundo, a placa do terminal muda para **ÚLTIMO EMBARQUE**. O sorriso rápido que escapou de Rosa some quando ela olha para a plataforma. | **Cida:** “É o último ônibus. Tá pago.” |
 | 13–21 s | Rosa pousa a mochila no balcão, como se fosse devolver tudo e terminar o turno. Aperta a alça antes de terminar a frase. | **Rosa:** “Semana passada eu dei o dinheiro da minha passagem pra um senhor que não tinha como voltar pra casa.” |
-| 21–29 s | Cida vira a carteira. Uma breve anotação com “JOEL” já estava no bolso de identificação. O restante da anotação fica fora do quadro. Cida reconhece o nome e liga para ele. Rosa aperta a alça de novo, agora sem tirar os olhos do telefone. | **Cida:** “Seu Joel. Conheço ele. Vamos perguntar.” |
-| 29–38 s | Cida põe o telefone em viva-voz. Rosa reconhece a voz no primeiro “moça”. A mão que prendia a mochila relaxa. | **Joel, pelo telefone:** “Foi você que achou? Eu ia te procurar. Ouvi você desmarcar com seu pai naquele dia.” |
+| 21–29 s | Cida tira um papel dobrado do compartimento interno da carteira e o abre. Só então aparece “JOEL” manuscrito. Cida reconhece o nome. Rosa aperta a alça e encara Cida. | **Cida:** “Seu Joel. Conheço ele. Vamos perguntar.” |
+| 29–38 s | Com a carteira já apoiada no balcão, Cida liga para Joel pelo celular, separado da carteira, e põe a chamada em viva-voz. Rosa reconhece a voz. A mão que prendia a mochila relaxa. | **Joel, pelo telefone:** “Foi você que achou? Eu ia te procurar. Ouvi você desmarcar com seu pai naquele dia.” |
 | 38–46 s | Rosa olha para a passagem e encosta o polegar no próprio nome. Cida conserva o telefone imóvel sobre o tampo. | **Joel:** “Você me ajudou a voltar pra casa. Deixa eu ajudar você também.” |
 | 46–54 s | Cida empurra a passagem até a mão de Rosa. Rosa hesita só um instante, pega o papel e confirma o embarque olhando para a passagem lateral. | **Cida:** “Eu guardo a carteira dele. Vai.” O aviso de embarque soa em seguida. |
 | 54–63 s | Rosa atravessa a passagem lateral com a mochila no ombro e o próprio celular no ouvido. O passo que começou apressado desacelera ao ouvir o pai. O rosto abre num sorriso com olhos marejados. | **Rosa:** “Pai? Deu tempo. Põe mais um prato.” |
@@ -88,7 +88,7 @@ Imagem-base gerada e verificada em 9:16 exato (1080 × 1920). Tomada realizada c
 10s, 9:16, plano único. 3D humano moderadamente estilizado, pele e materiais realistas. Mesmos rostos, roupas e balcão. Rosa, 38, morena, cabelo preso e camisa cinza-azulada, à direita. Cida, 58, coque grisalho, óculos e colete azul-petróleo, à esquerda, segura a passagem pela borda. Carteira marrom aberta. Luz quente no balcão, fria no corredor. Painel mantém ÚLTIMO EMBARQUE. 0–1s: Rosa pousa a mochila vinho e encara Cida. 1–8s: só Rosa fala: “Semana passada eu dei o dinheiro da minha passagem pra um senhor que não tinha como voltar pra casa.” PT-BR nativo, voz adulta médio-grave, levemente rouca, íntima e natural. Em “voltar pra casa”, aperta a alça, franze a testa e a voz pesa. 8–10s: Rosa baixa os olhos para o bilhete. Cida escuta de boca fechada. Preserve a escrita do bilhete e do crachá. Som baixo do terminal. Sem cortes ou legendas.
 ```
 
-## E01 C04 — O nome na carteira
+### E01 C04 — Primeira versão, arquivada após a rejeição do vídeo
 
 Imagem-base conferida em 9:16 exato (1080 × 1920). A passagem já está sobre o balcão quando Cida inclina a carteira e reconhece a anotação manuscrita JOEL. A cena passa do silêncio do reconhecimento à decisão de ligar e à espera de Rosa. Cortar no primeiro toque da chamada. A resposta é da C05. Vídeo e montagem da C04 a validar.
 
@@ -96,6 +96,16 @@ Imagem-base conferida em 9:16 exato (1080 × 1920). A passagem já está sobre o
 
 ```text
 10s, 9:16, 3D humano cinematográfico, mesmas faces, roupas, balcão e luz quente/fria. Cida à esquerda, coque grisalho, óculos, colete azul-petróleo. Rosa à direita, camisa cinza-azulada, mochila vinho sobre o balcão. 0–2s: Cida inclina a carteira marrom e vê JOEL manuscrito no bolso. Os dedos param, a testa contrai. Bilhete ROSA ALMEIDA, PAGO, no tampo. 2–5s: Cida ergue os olhos para Rosa e diz: “Seu Joel. Conheço ele. Vamos perguntar.” Voz madura, grave aveludada, PT-BR nativo, pausa curta após o nome, final firme. 5–8s: Cida apoia a carteira, toca para ligar e baixa o celular ao balcão. Rosa cala, aperta a alça, engole em seco, olhos marejados presos ao celular. 8–10s: primeiro toque da chamada, aproximação lenta nos olhos de Rosa. Painel ÚLTIMO EMBARQUE aceso. Ambiente baixo, sem resposta, cortes ou legendas.
+```
+
+## E01 C04 — O nome na carteira, versão vigente
+
+O responsável rejeitou a primeira geração de vídeo: o nome já estava exposto no quadro inicial e a carteira virou celular durante o movimento. A imagem-base v2 tem 1080 × 1920 e traz a carteira de couro marrom, a ponta sem escrita do papel dobrado no compartimento e a passagem de Rosa separada no balcão. A C04 termina no olhar de Rosa após Cida decidir ligar. A ligação começa na C05, com a carteira já apoiada e o celular visivelmente separado. Novo vídeo pendente.
+
+### Prompt do YouTube Create (771 caracteres)
+
+```text
+10s, 9:16, plano único, 3D cinematográfico. Preserve rostos, roupas, luz do terminal e posições. Carteira marrom aberta à esquerda, bilhete ROSA ALMEIDA, PAGO separado no tampo. 0–2s: Cida firma a carteira com uma mão e pinça a ponta creme que sai do bolso interno. 2–5s: puxa o papel dobrado por inteiro, deixa a carteira no tampo e desdobra o papel. A câmera se aproxima devagar: só agora aparece JOEL, manuscrito no interior. Carteira e bilhete ficam imóveis. 5–8s: Cida trava o olhar, inspira e diz: “Seu Joel. Conheço ele. Vamos perguntar.” PT-BR nativo, voz madura, grave e baixa, pausa após o nome. 8–10s: Rosa aperta a alça vinho, engole em seco e encara Cida, olhos úmidos, boca fechada. Som do papel, terminal abafado. Sem celular, toque de chamada ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
