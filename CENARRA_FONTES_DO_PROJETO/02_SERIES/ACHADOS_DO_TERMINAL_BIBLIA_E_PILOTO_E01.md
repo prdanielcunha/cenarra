@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C04 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C05 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -106,6 +106,16 @@ O responsável rejeitou a primeira geração de vídeo: o nome já estava expost
 
 ```text
 10s, 9:16, plano único, 3D cinematográfico. Preserve rostos, roupas, luz do terminal e posições. Carteira marrom aberta à esquerda, bilhete ROSA ALMEIDA, PAGO separado no tampo. 0–2s: Cida firma a carteira com uma mão e pinça a ponta creme que sai do bolso interno. 2–5s: puxa o papel dobrado por inteiro, deixa a carteira no tampo e desdobra o papel. A câmera se aproxima devagar: só agora aparece JOEL, manuscrito no interior. Carteira e bilhete ficam imóveis. 5–8s: Cida trava o olhar, inspira e diz: “Seu Joel. Conheço ele. Vamos perguntar.” PT-BR nativo, voz madura, grave e baixa, pausa após o nome. 8–10s: Rosa aperta a alça vinho, engole em seco e encara Cida, olhos úmidos, boca fechada. Som do papel, terminal abafado. Sem celular, toque de chamada ou legendas.
+```
+
+## E01 C05 — A voz no viva-voz
+
+Imagem-base conferida em 9:16 exato (1080 × 1920). Abrir no instante em que Cida ativa o viva-voz com o celular já sobre o tampo. Carteira aberta e bilhete no lado esquerdo, papel JOEL separado, telefone preto no centro e mochila vinho no lado direito. Só Joel é ouvido pelo aparelho. Cida e Rosa mantêm a boca fechada. Rosa afrouxa a alça ao reconhecer a voz e prende o ar ao ouvir “seu pai”. Cortar na reação, deixando a oferta de Joel para a C06. Timbre de Joel para repetir na C06: homem mais velho, grave e caloroso, PT-BR nativo, leve filtro de telefone. Vídeo a gerar e validar.
+
+### Prompt do YouTube Create (761 caracteres)
+
+```text
+10s, 9:16, plano único, 3D humano cinematográfico. Preserve faces, roupas e luz. Cida à esquerda, Rosa à direita. Celular preto no centro, carteira marrom imóvel à esquerda, papéis separados e mochila vinho à direita. 0–1,5s: um toque curto. Cida toca no ícone de viva-voz e retira a mão. Celular fica no tampo. 1,5–9s: só Joel fala pelo celular, fora de quadro: “Foi você que achou? Eu ia te procurar. Ouvi você desmarcar com seu pai naquele dia.” Voz masculina mais velha, grave e calorosa, PT-BR nativo, leve som de telefone. Cida e Rosa de boca fechada. Rosa reconhece a voz e afrouxa a alça. Em “seu pai”, prende o ar, olhos marejam. 9–10s: aproximação lenta nos olhos de Rosa. Ruído do terminal recua. Painel ÚLTIMO EMBARQUE aceso. Sem cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
