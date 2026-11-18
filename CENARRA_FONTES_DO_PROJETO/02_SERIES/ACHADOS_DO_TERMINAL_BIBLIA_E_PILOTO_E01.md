@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C05 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C06 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -116,6 +116,16 @@ Imagem-base conferida em 9:16 exato (1080 × 1920). Abrir no instante em que Cid
 
 ```text
 10s, 9:16, plano único, 3D humano cinematográfico. Preserve faces, roupas e luz. Cida à esquerda, Rosa à direita. Celular preto no centro, carteira marrom imóvel à esquerda, papéis separados e mochila vinho à direita. 0–1,5s: um toque curto. Cida toca no ícone de viva-voz e retira a mão. Celular fica no tampo. 1,5–9s: só Joel fala pelo celular, fora de quadro: “Foi você que achou? Eu ia te procurar. Ouvi você desmarcar com seu pai naquele dia.” Voz masculina mais velha, grave e calorosa, PT-BR nativo, leve som de telefone. Cida e Rosa de boca fechada. Rosa reconhece a voz e afrouxa a alça. Em “seu pai”, prende o ar, olhos marejam. 9–10s: aproximação lenta nos olhos de Rosa. Ruído do terminal recua. Painel ÚLTIMO EMBARQUE aceso. Sem cortes ou legendas.
+```
+
+## E01 C06 — Deixa eu ajudar você também
+
+Imagem-base em 9:16 exato (1080 × 1920). Abrir na mesma chamada da C05. Celular preto e carteira permanecem imóveis e separados. Rosa passa a mão sobre a nota JOEL e toca a passagem abaixo, que fica no tampo para Cida empurrá-la na C07. Joel repete o timbre e o som de viva-voz da C05. Uma lágrima começa a descer quando Rosa ouve a oferta. Preservar a fala inteira e cortar após a reação de Rosa, por volta dos 8 s. Conferir em vídeo o movimento da lágrima, a continuidade dos objetos e a ausência de movimento labial em Cida e Rosa.
+
+### Prompt do YouTube Create (830 caracteres)
+
+```text
+10s, 9:16, plano único, 3D humano cinematográfico. Preserve rostos, roupas e luz. Cida à esquerda, Rosa à direita. Mesma chamada em viva-voz. Celular preto imóvel no centro; carteira marrom e papel JOEL à esquerda. Passagem ROSA ALMEIDA, PAGO, no tampo. 0–4s: só Joel, fora de quadro, diz pelo celular: “Você me ajudou a voltar pra casa.” Mesma voz da C05, homem mais velho, grave e caloroso, PT-BR nativo, leve filtro de telefone. Rosa olha para baixo, passa a mão sobre o papel JOEL e toca com o polegar a borda da passagem logo abaixo. Os dois papéis ficam no tampo. 4–8s: Joel: “Deixa eu ajudar você também.” Rosa solta o ar, o queixo treme e uma lágrima desce pela bochecha. Cida observa, comovida. As duas mantêm os lábios fechados. 8–10s: aproximação lenta no rosto de Rosa. Ruído do terminal baixo. Sem cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
