@@ -182,10 +182,10 @@ Imagem-base conferida em 9:16 exato (1080 × 1920). A ficha CONTATO começa em s
 
 O responsável relatou toque impreciso e duplicação do aparelho na v3. A v4 entra depois da discagem, com o único celular já na mão esquerda de Cida, junto ao tampo, e o aviso imóvel no livro aberto. Em um gesto contínuo, Cida ergue o aparelho até o ouvido esquerdo. A espera e a conexão são dadas pelo som. Só depois ela fala. Na validação, conferir que há um único aparelho do primeiro ao último quadro e que a fala entra após a conexão. Imagem-base em 1080 × 1920. Vídeo a gerar.
 
-### Prompt do YouTube Create (766 caracteres)
+### Prompt do YouTube Create (879 caracteres)
 
 ```text
-10s, 9:16, plano único fixo, 3D cinematográfico. Cida sozinha no balcão. Livro aberto, aviso “BALCÃO FECHA AMANHÃ, ÀS 18H” apoiado na página direita, caixa aberta. Tudo imóvel. 0–2s: Cida olha da folha para a caixa. O único celular preto já está inteiro na mão esquerda, junto ao balcão, com a traseira para a câmera. 2–4s: ela leva esse mesmo aparelho ao ouvido esquerdo num gesto contínuo, sem trocar de mão. Mostre o tampo vazio onde estava o celular. 4–6s: tom breve de chamada de saída, seguido do clique de conexão. Cida escuta de boca fechada. 6–9s: fala baixo, voz madura e grave, PT-BR: “Achei uma coisa sua. Você consegue vir amanhã?” 9–10s: mantém o aparelho no ouvido, prende o ar e espera. Sem resposta audível, botões, tela visível, cortes ou legendas.
+10s, 9:16, plano único fixo, 3D cinematográfico. Cida sozinha no balcão. Livro aberto, aviso “BALCÃO FECHA AMANHÃ, ÀS 18H” apoiado na página direita, caixa aberta. Fixe o papel e a impressão do quadro inicial. Preserve letras, acentos e as duas linhas. Sem redesenhar ou distorcer o texto. 0–2s: Cida olha da folha para a caixa. O único celular preto já está inteiro na mão esquerda, junto ao balcão, com a traseira para a câmera. 2–4s: ela leva esse mesmo aparelho ao ouvido esquerdo num gesto contínuo, sem trocar de mão. Mostre o tampo vazio onde estava o celular. 4–6s: tom breve de chamada de saída, seguido do clique de conexão. Cida escuta de boca fechada. 6–9s: fala baixo, voz madura e grave, PT-BR: “Achei uma coisa sua. Você consegue vir amanhã?” 9–10s: mantém o aparelho no ouvido, prende o ar e espera. Sem resposta audível, botões, tela visível, cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
