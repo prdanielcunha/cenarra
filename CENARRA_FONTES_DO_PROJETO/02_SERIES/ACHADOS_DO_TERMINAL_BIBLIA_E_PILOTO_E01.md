@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C08 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C09 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -146,6 +146,16 @@ Imagem-base conferida em 9:16 exato (1080 × 1920). Corte do olhar de Rosa na C0
 
 ```text
 10s, 9:16, plano único, 3D humano cinematográfico. Mesma Rosa, cabelo preso, camisa cinza-azulada, crachá e mochila vinho nas costas. Corredor lateral do terminal, luz fria, faixa tátil amarela. Celular pessoal de capa azul na mão direita, junto ao ouvido. Bilhete ROSA ALMEIDA, PAGO, na esquerda. 0–2s: Rosa caminha apressada rumo ao embarque, câmera recua de frente, passos ecoam. Só Rosa fala: “Pai?” Voz PT-BR nativa, médio-grave, levemente rouca, início embargado. 2–5s: escuta, desacelera, ombros relaxam, olhos marejam e o sorriso começa. 5–8s: com alívio, diz: “Deu tempo. Põe mais um prato.” Uma lágrima corre enquanto ela sorri. 8–10s: aperta o bilhete e retoma o passo. Som ambiente baixo, pai inaudível, sem cortes ou legendas.
+```
+
+## E01 C09 — Amanhã, às 18h
+
+Imagem-base conferida em 9:16 exato (1080 × 1920). Corte de Rosa no corredor para Cida sozinha no balcão. O aviso de fechamento, já entregue no turno, está sob o livro de registro. Conferir no quadro e no clipe o texto BALCÃO FECHA AMANHÃ, ÀS 18H. A caixa está no tampo, com a tampa entreaberta. Cida abre a caixa, aciona a ligação no próprio aparelho preto apoiado à direita e fala. A carteira de Joel e a anotação ficam separadas à esquerda. Cortar após a pergunta, no rosto de Cida à espera da resposta. Esta é a última tomada do piloto. Vídeo a gerar, montagem e publicação a validar.
+
+### Prompt do YouTube Create (773 caracteres)
+
+```text
+10s, 9:16, plano único, 3D humano cinematográfico. Só Cida: coque grisalho, óculos, colete azul-petróleo e blusa clara. Mesmo balcão, luz âmbar, corredor vazio. Carteira e papel JOEL à esquerda, celular preto fixo à direita, caixa de papelão atrás. 0–2s: Cida puxa a folha sob o livro. Mostre a escrita intacta: “BALCÃO FECHA AMANHÃ, ÀS 18H”. Som seco de papel. 2–5s: ela trava a respiração, olha as caixas na estante e ergue a tampa da caixa no balcão. Toca no celular para ligar, com o aparelho no tampo. 5–9s: Cida encara a caixa e diz: “Achei uma coisa sua. Você consegue vir amanhã?” Voz madura, grave, PT-BR nativo, firme, pausa antes de “amanhã”. 9–10s: câmera se aproxima do rosto. Cida espera tensa. Som do terminal recua. Sem resposta, música, cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
