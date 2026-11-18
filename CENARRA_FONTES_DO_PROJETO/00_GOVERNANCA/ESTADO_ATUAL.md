@@ -3,6 +3,11 @@
 
 
 
+## Revisão de análise externa e produção YouTube Create — 18/11/2026
+
+- **DECIDIDO:** incorporar as recomendações operacionais aproveitáveis sem alterar os roteiros: [protocolo de consistência e correção](../03_PRODUCAO/SOP_E_CONTINUIDADE.md#youtube-create--protocolo-de-consistência-e-correção-18112026), com referências por função, prompt curto, ação principal, atuação, prevenção de falhas e QA. Recursos e limites do YouTube Create conferidos na documentação oficial. Idioma das instruções em inglês permanece **EM TESTE**; edição de geração e referências não garantem consistência. Preservar estilos aprovados e orçamento zero.
+- **REJEITADO PELO RESPONSÁVEL:** alterar A Última Ligação para história de viúva de Rafael. O roteiro original e a continuidade da série prevalecem. Nenhuma mudança de episódio, personagens, solução do mistério, grade ou publicação foi feita nesta revisão.
+
 ## Direção para novos capítulos e Achados do Terminal — 17/11/2026
 
 - **DECIDIDO PELO RESPONSÁVEL:** aplicar as novas diretrizes da pesquisa a todo capítulo novo da Cenarra. O [método editorial](../03_PRODUCAO/METODO_ROTEIRO_RETENCAO_E_CADENCIA.md#padrão-de-produção-dos-próximos-capítulos) detalha gancho concreto, consequência, resposta, atuação, visual e conferência no corte. As aplicações por série são pautas vinculadas à continuidade vigente.

@@ -34,5 +34,8 @@ Antes de criar **qualquer** imagem ou vídeo de O Segredo da Rua 7, ler [LOCK VI
 ## Referências de produção — A Última Ligação
 Antes de criar qualquer imagem, vídeo ou prompt da série, ler a [bíblia de continuidade](CENARRA_FONTES_DO_PROJETO/02_SERIES/ULTIMA_LIGACAO/BIBLIA_DE_CONTINUIDADE.md) e carregar as referências visuais dos personagens e cenários que entram em quadro. Cada prompt inclui traços visíveis, figurino, cenário, estado herdado, direção de câmera e atuação em três momentos. Conferir a intensidade e a continuidade em movimento antes de aprovar o clipe.
 
+## Protocolo de geração — YouTube Create (18/11/2026)
+Aplicar o [SOP de consistência e correção](CENARRA_FONTES_DO_PROJETO/03_PRODUCAO/SOP_E_CONTINUIDADE.md#youtube-create--protocolo-de-consistência-e-correção-18112026) a todas as novelas, junto dos locks vigentes. Rejeitar a proposta externa de transformar Clara em viúva de Rafael; não modificar o cânone nem reiniciar a história de A Última Ligação.
+
 ## Meta editorial ampliada (14/11/2026) — condicional
 O responsável expressou a meta de **2 capítulos por semana por série** (6 vídeos inéditos, 24 publicações nas 4 redes). **Não é uma obrigação imediata ou comprovadamente executável**: preservar o limite R$ 0, a consistência visual/narrativa, as licenças e a mínima intervenção humana; implementar por etapas e só anunciar frequência comprovada. Grade-alvo: **segunda/quinta Bichos, terça/sexta Rua 7, quarta/domingo A Última Ligação**, com horários detalhados na [grade-alvo 14/11](CENARRA_FONTES_DO_PROJETO/05_CRESCIMENTO/GRADE_ALVO_6_EPISODIOS_SEMANAIS_2026_11_14.md). Esta meta complementa a restrição original de produção enxuta; não substitui a exigência de sustentabilidade.

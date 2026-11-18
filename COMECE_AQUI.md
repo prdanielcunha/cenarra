@@ -3,6 +3,8 @@
 
 **Primeira leitura de todo pedido Cenarra:** [Análise de microdramas, ganchos e direção visual](CENARRA_FONTES_DO_PROJETO/05_CRESCIMENTO/ANALISE_MICRODRAMAS_GANCHOS_E_VISUAL_2026_11_17.md). Abra esta análise antes de desenvolver ou responder ao pedido. Ela reúne a comparação dos vídeos de referência, os dados da Rua 7, os critérios de abertura e visual, as aplicações às três novelas e o piloto proposto. Leia em seguida as fontes vigentes para conferir decisões e continuidade.
 
+**Produção no YouTube Create:** aplicar o [protocolo de consistência e correção](CENARRA_FONTES_DO_PROJETO/03_PRODUCAO/SOP_E_CONTINUIDADE.md#youtube-create--protocolo-de-consistência-e-correção-18112026), complementar aos locks e roteiros vigentes. Preservar a história de A Última Ligação.
+
 ## Consulta obrigatória antes de qualquer criação
 
 Antes de criar ou revisar qualquer **imagem, prompt, novela, roteiro, episódio, cena, tomada ou vídeo**, abrir este arquivo na `main` e seguir a ordem de consulta abaixo. Vale para pedidos curtos como “próxima cena” e para correções. Abrir a análise de microdramas indicada acima, as regras vigentes, o estado atual, a bíblia e o roteiro da série, além da última tomada e das referências visuais, de voz e de cenário que existirem para o trabalho. Conferir o trecho que rege a entrega antes de gerar. Se uma referência visual necessária estiver disponível, usá-la como insumo de geração. Se a consulta não estiver disponível após tentar os links públicos, registrar o que ficou sem confirmação.
