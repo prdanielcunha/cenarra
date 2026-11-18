@@ -1,5 +1,5 @@
 # Achados do Terminal — bíblia curta e piloto
-17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C03 geradas. Geração de vídeo, montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
+17/11/2026 · **Roteiro preparado.** Piloto para teste editorial. Imagens-base das tomadas C01 a C04 geradas. C03 realizada conforme relato do responsável. Montagem e publicação pendentes. Desenvolvimento autorizado. Desempenho de audiência a medir.
 
 ## A série
 
@@ -80,12 +80,22 @@ Voz proposta para Cida: PT-BR nativo, feminina madura, grave aveludada, calma e 
 
 ## E01 C03 — Rosa conta por que ficou
 
-Imagem-base gerada e verificada em 9:16 exato (1080 × 1920). Vídeo e montagem a validar. A tomada começa na volta do olhar de Rosa para Cida, com o painel já aceso. Rosa pousa a mochila e aperta a alça na última parte da fala. Cida mantém a passagem na mão. Usar uma referência única, manter a voz de Rosa da C01 e cortar após a reação, por volta de 8 s na montagem.
+Imagem-base gerada e verificada em 9:16 exato (1080 × 1920). Tomada realizada conforme relato do responsável. Montagem a validar. A tomada começa na volta do olhar de Rosa para Cida, com o painel já aceso. Rosa pousa a mochila e aperta a alça na última parte da fala. Cida mantém a passagem na mão. Usar uma referência única, manter a voz de Rosa da C01 e cortar após a reação, por volta de 8 s na montagem.
 
 ### Prompt do YouTube Create (851 caracteres)
 
 ```text
 10s, 9:16, plano único. 3D humano moderadamente estilizado, pele e materiais realistas. Mesmos rostos, roupas e balcão. Rosa, 38, morena, cabelo preso e camisa cinza-azulada, à direita. Cida, 58, coque grisalho, óculos e colete azul-petróleo, à esquerda, segura a passagem pela borda. Carteira marrom aberta. Luz quente no balcão, fria no corredor. Painel mantém ÚLTIMO EMBARQUE. 0–1s: Rosa pousa a mochila vinho e encara Cida. 1–8s: só Rosa fala: “Semana passada eu dei o dinheiro da minha passagem pra um senhor que não tinha como voltar pra casa.” PT-BR nativo, voz adulta médio-grave, levemente rouca, íntima e natural. Em “voltar pra casa”, aperta a alça, franze a testa e a voz pesa. 8–10s: Rosa baixa os olhos para o bilhete. Cida escuta de boca fechada. Preserve a escrita do bilhete e do crachá. Som baixo do terminal. Sem cortes ou legendas.
+```
+
+## E01 C04 — O nome na carteira
+
+Imagem-base conferida em 9:16 exato (1080 × 1920). A passagem já está sobre o balcão quando Cida inclina a carteira e reconhece a anotação manuscrita JOEL. A cena passa do silêncio do reconhecimento à decisão de ligar e à espera de Rosa. Cortar no primeiro toque da chamada. A resposta é da C05. Vídeo e montagem da C04 a validar.
+
+### Prompt do YouTube Create (823 caracteres)
+
+```text
+10s, 9:16, 3D humano cinematográfico, mesmas faces, roupas, balcão e luz quente/fria. Cida à esquerda, coque grisalho, óculos, colete azul-petróleo. Rosa à direita, camisa cinza-azulada, mochila vinho sobre o balcão. 0–2s: Cida inclina a carteira marrom e vê JOEL manuscrito no bolso. Os dedos param, a testa contrai. Bilhete ROSA ALMEIDA, PAGO, no tampo. 2–5s: Cida ergue os olhos para Rosa e diz: “Seu Joel. Conheço ele. Vamos perguntar.” Voz madura, grave aveludada, PT-BR nativo, pausa curta após o nome, final firme. 5–8s: Cida apoia a carteira, toca para ligar e baixa o celular ao balcão. Rosa cala, aperta a alça, engole em seco, olhos marejados presos ao celular. 8–10s: primeiro toque da chamada, aproximação lenta nos olhos de Rosa. Painel ÚLTIMO EMBARQUE aceso. Ambiente baixo, sem resposta, cortes ou legendas.
 ```
 
 ## Primeiro arco — O último dia do balcão
